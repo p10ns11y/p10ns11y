@@ -1,6 +1,6 @@
 # Peramanathan Sathyamoorthy
 
-**Builder of useful things • Open source tinkerer • Learning in public**
+**Builder of useful things • Open source tinkerer** • **LEA**r**NING** in  re**PUBLIC**
 
 [![X](https://img.shields.io/badge/X-@peramanathan-000000?style=for-the-badge&logo=x)](https://x.com/peramanathan)
 

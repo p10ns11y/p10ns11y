@@ -24,6 +24,10 @@ You can also find me experimenting at [@thecuriousts](https://github.com/thecuri
 - **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)**  
   Tamil poetry prosody analyzer. Rust + WebAssembly parser + React frontend that classifies syllables, identifies traditional metres (வெண்பா, கலிப்பா), and analyzes prosodic structure in real time.
 
+- **[Rust from First Principles Companion](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf)**  
+  Born from deep questions on language nuances and interconnectedness. Infused with human psychology of reading, forgetting, and non-linear learning flow co-authored with Grok.
+
+
 ### Daily Drivers & Experiments
 - **[premflow](https://github.com/thecuriousts/premflow)**
   The CLI I actually use every single day. Notes, tasks, pomodoros, and daily reviews in one binary. Written in C (< 300 lines)because I wanted something that starts instantly and never gets in my way. This is the tool behind the quote you see in some of my other repos.

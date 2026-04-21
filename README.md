@@ -3,9 +3,17 @@
 **Builder of useful things • Open source tinkerer • Learning in public**
 
 [![X](https://img.shields.io/badge/X-@peramanathan-000000?style=for-the-badge&logo=x)](https://x.com/peramanathan)
+
+---
+
 [![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=for-the-badge)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
 [![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=for-the-badge&logo=github)](https://github.com/p10ns11y)
 [![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=for-the-badge&logo=github)](https://github.com/thecuriousts)
+
+---
+
+[![Grokipedia](https://img.shields.io/badge/Grokipedia-Profile-00A3E0?style=for-the-badge)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
+
 
 ---
 

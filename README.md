@@ -2,24 +2,35 @@
 
 **Builder of useful things • Open source tinkerer** • **LEA**r**NING** in  re**PUBLIC**
 
+<div align="center">
+
 [![X](https://img.shields.io/badge/X-@peramanathan-000000?style=for-the-badge&logo=x)](https://x.com/peramanathan)
 
+</div>
+
 ---
+
+<div align="center">
 
 [![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=for-the-badge)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
 [![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=for-the-badge&logo=github)](https://github.com/p10ns11y)
 [![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=for-the-badge&logo=github)](https://github.com/thecuriousts)
 [![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~p10ns11y)
 
+</div>
+
 ---
 
+<div align="center">
 
 [![Grokipedia](https://img.shields.io/badge/Grokipedia-Profile-00A3E0?style=for-the-badge)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
 
+</div>
 
 ---
 
 I spend my time turning personal friction into public tools and diving deep into the "why" behind libraries I use every day.
+
 
 Most of what I build starts as a solution to my own daily annoyances — then gets polished and shared because someone else might feel the same pain. Some projects are tiny experiments that taught me more than any course. Others have become quiet daily drivers.
 

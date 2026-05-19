@@ -9,8 +9,10 @@
 [![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=for-the-badge)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
 [![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=for-the-badge&logo=github)](https://github.com/p10ns11y)
 [![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=for-the-badge&logo=github)](https://github.com/thecuriousts)
+[![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~p10ns11y)
 
 ---
+
 
 [![Grokipedia](https://img.shields.io/badge/Grokipedia-Profile-00A3E0?style=for-the-badge)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
 
@@ -26,8 +28,8 @@ You can also find me experimenting at [@thecuriousts](https://github.com/thecuri
 ## 🚀 Things I've Shipped (and why they matter to me)
 
 ### Recently
-- **[Adaptate](https://github.com/p10ns11y/adaptate)**  
-  Dynamic Zod + OpenAPI model validator. Built because I kept hitting the limits of static schemas in real-world APIs. A playground for pushing validation libraries to their edge.
+- **[Adaptate](https://github.com/p10ns11y/adaptate)** / **[npm](https://www.npmjs.com/package/adaptate)**  
+  Dynamic Zod + OpenAPI model validator (`@adaptate/core`, `@adaptate/utils` — v2.2.2). Built because I kept hitting the limits of static schemas in real-world APIs. A playground for pushing validation libraries to their edge that is now published and available for others.
   
 - **[arch-machine](https://github.com/p10ns11y/arch-machine)**  
   Profile-based Arch Linux bootstrap & maintenance system. Hardens security and prepares ML/AI-ready workstations (ROCm, Kubernetes, self-healing). AI-forged fortress that turns a fresh install into a paranoid, production-grade environment.
@@ -54,6 +56,20 @@ You can also find me experimenting at [@thecuriousts](https://github.com/thecuri
 
 - **[Ask Me Anything About Me](https://github.com/p10ns11y/ama-about-me)**  
   Local RAG chatbot that answers questions about me using my own documents. 100% local (Ollama + Chroma + LangChain). Cost-effective experiment in personal knowledge retrieval — and surprisingly good at remembering things I forgot I wrote.
+
+## 📦 Published on npm
+
+All packages: **[npmjs.com/~p10ns11y](https://www.npmjs.com/~p10ns11y)**
+
+### adaptate ecosystem (v2.2.2)
+- [`adaptate`](https://www.npmjs.com/package/adaptate) (and scoped [`@adaptate/core`](https://www.npmjs.com/package/@adaptate/core), [`@adaptate/utils`](https://www.npmjs.com/package/@adaptate/utils))
+
+Dynamic and adaptable model validator using Zod, deeply interoperable with OpenAPI. Handles complex conditional business logic, React component props, API payloads, and runtime validation where traditional static schemas fall short. (See entry in **Recently** above.)
+
+### @p10ns11y/hy (v1.2.0)
+- [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy)
+
+Natural language Git CLI wrapper. `hy commit "fix that annoying login bug"` intelligently stages changes, writes conventional commit messages, and more. Built to eliminate mental overhead during deep work.
 
 ## 🧪 Open Source Contributions That Mattered
 

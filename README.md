@@ -66,11 +66,6 @@ All packages: **[npmjs.com/~p10ns11y](https://www.npmjs.com/~p10ns11y)**
 
 Dynamic and adaptable model validator using Zod, deeply interoperable with OpenAPI. Handles complex conditional business logic, React component props, API payloads, and runtime validation where traditional static schemas fall short. (See entry in **Recently** above.)
 
-### @p10ns11y/hy (v1.2.0)
-- [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy)
-
-Natural language Git CLI wrapper. `hy commit "fix that annoying login bug"` intelligently stages changes, writes conventional commit messages, and more. Built to eliminate mental overhead during deep work.
-
 ## 🧪 Open Source Contributions That Mattered
 
 I believe the best way to understand a library is to break it and then fix it in public.

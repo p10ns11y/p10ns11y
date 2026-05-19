@@ -9,6 +9,7 @@
 [![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=for-the-badge)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
 [![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=for-the-badge&logo=github)](https://github.com/p10ns11y)
 [![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=for-the-badge&logo=github)](https://github.com/thecuriousts)
+[![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~p10ns11y)
 
 ---
 
@@ -49,11 +50,27 @@ You can also find me experimenting at [@thecuriousts](https://github.com/thecuri
 - **[latex-cv](https://github.com/p10ns11y/latex-cv)**  
   Fully automated LaTeX CV/PDF pipeline with Rust, GitHub Actions, and S3. I got tired of manually compiling and uploading resumes. Now I just push a commit and everything (including PR for review) happens automatically. This one taught me more about CI/CD than any job ever did.
 
-- **[Adaptate](https://github.com/p10ns11y/adaptate)**  
-  Dynamic Zod + OpenAPI model validator. Built because I kept hitting the limits of static schemas in real-world APIs. A playground for pushing validation libraries to their edge.
+- **[Adaptate](https://github.com/p10ns11y/adaptate)** / **[npm](https://www.npmjs.com/package/adaptate)**  
+  Dynamic Zod + OpenAPI model validator (`@adaptate/core`, `@adaptate/utils` — v2.2.2). Built because I kept hitting the limits of static schemas in real-world APIs. A playground for pushing validation libraries to their edge that is now published and available for others.
 
 - **[Ask Me Anything About Me](https://github.com/p10ns11y/ama-about-me)**  
   Local RAG chatbot that answers questions about me using my own documents. 100% local (Ollama + Chroma + LangChain). Cost-effective experiment in personal knowledge retrieval — and surprisingly good at remembering things I forgot I wrote.
+
+## 📦 Published on npm
+
+All packages: **[npmjs.com/~p10ns11y](https://www.npmjs.com/~p10ns11y)**
+
+### adaptate ecosystem (v2.2.2)
+- [`adaptate`](https://www.npmjs.com/package/adaptate)
+- [`@adaptate/core`](https://www.npmjs.com/package/@adaptate/core)
+- [`@adaptate/utils`](https://www.npmjs.com/package/@adaptate/utils)
+
+Dynamic and adaptable model validator using Zod, deeply interoperable with OpenAPI. Handles complex conditional business logic, React component props, API payloads, and runtime validation where traditional static schemas fall short. Born from real API integration pain points.
+
+### @p10ns11y/hy (v1.2.0)
+- [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy)
+
+Natural language Git CLI wrapper. `hy commit "fix that annoying login bug"` intelligently stages, commits with conventional messages, and more. Built to eliminate the mental overhead of remembering git commands and flags during deep flow states.
 
 ## 🧪 Open Source Contributions That Mattered
 

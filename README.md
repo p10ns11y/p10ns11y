@@ -56,7 +56,7 @@ You can also find me experimenting at [@thecuriousts](https://github.com/thecuri
 - **[premflow](https://github.com/thecuriousts/premflow)**
   The CLI I actually use every single day. Notes, tasks, pomodoros, and daily reviews in one binary. Written in C (< 300 lines)because I wanted something that starts instantly and never gets in my way. This is the tool behind the quote you see in some of my other repos.
 
-- **[Grok Dia](https://github.com/p10ns11y/grok-dia-extension)**  
+- **[Ask Grok Extension](https://github.com/p10ns11y/ask-grok-extension)**  
   Browser extension that lets me ask Grok about any page or selected text with full context. Built the moment I wished I could do this natively. Small but ridiculously useful for research and learning.
 
 - **[Selfie Signin](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)**  

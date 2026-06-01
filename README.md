@@ -6,9 +6,15 @@
 
 <br />
 
-[![X](https://img.shields.io/badge/X-@peramanathan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/peramanathan) [![CV](https://img.shields.io/badge/CV-live-0891b2?style=flat-square)](https://peramanathan-sathyamoorthy-cv.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
-<br />
-[![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~p10ns11y) [![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thecuriousts) [![GitRoll](https://img.shields.io/badge/GitRoll-FF6B6B?style=flat-square)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33) [![Grokipedia](https://img.shields.io/badge/Grokipedia-00A3E0?style=flat-square)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
+[![X](https://img.shields.io/badge/X-@peramanathan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/peramanathan)&nbsp;&nbsp;[![CV](https://img.shields.io/badge/CV-live-0891b2?style=flat-square)](https://peramanathan-sathyamoorthy-cv.vercel.app/)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
+
+</div>
+
+---
+
+<div align="center">
+
+[![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~p10ns11y)&nbsp;&nbsp;[![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thecuriousts)&nbsp;&nbsp;[![GitRoll](https://img.shields.io/badge/GitRoll-FF6B6B?style=flat-square)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)&nbsp;&nbsp;[![Grokipedia](https://img.shields.io/badge/Grokipedia-00A3E0?style=flat-square)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
 
 </div>
 

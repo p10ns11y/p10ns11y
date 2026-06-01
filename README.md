@@ -4,19 +4,15 @@
 
 **Builder of useful things** · open source tinkerer · **LEA**r**NING** in re**PUBLIC**
 
-<br />
-
-[![X](https://img.shields.io/badge/X-@peramanathan-000000?style=for-the-badge&logo=x)](https://x.com/peramanathan)
-[![CV](https://img.shields.io/badge/CV-Live-0891b2?style=for-the-badge)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=for-the-badge&logo=github)](https://github.com/p10ns11y)
-[![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~p10ns11y)
-[![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=for-the-badge&logo=github)](https://github.com/thecuriousts)
-[![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=for-the-badge)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
-[![Grokipedia](https://img.shields.io/badge/Grokipedia-Profile-00A3E0?style=for-the-badge)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
+[![X](https://img.shields.io/badge/X-@peramanathan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/peramanathan)
+[![CV](https://img.shields.io/badge/CV-live-0891b2?style=flat-square)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
+[![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~p10ns11y)
+[![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thecuriousts)
+[![GitRoll](https://img.shields.io/badge/GitRoll-FF6B6B?style=flat-square)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
+[![Grokipedia](https://img.shields.io/badge/Grokipedia-00A3E0?style=flat-square)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
 
 </div>
-
-<br />
 
 I turn personal friction into public tools and dig into the *why* behind the libraries I use. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 

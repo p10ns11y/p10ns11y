@@ -4,6 +4,8 @@
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=vercel)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
+
 [![X](https://img.shields.io/badge/X-@peramanathan-000000?style=for-the-badge&logo=x)](https://x.com/peramanathan)
 
 </div>
@@ -39,34 +41,8 @@ You can also find me experimenting at [@thecuriousts](https://github.com/thecuri
 ## 🚀 Things I've Shipped (and why they matter to me)
 
 ### Recently
-- **[Adaptate](https://github.com/p10ns11y/adaptate)** / **[npm](https://www.npmjs.com/package/adaptate)**  
-  Dynamic Zod + OpenAPI model validator (`@adaptate/core`, `@adaptate/utils` — v2.2.2). Built because I kept hitting the limits of static schemas in real-world APIs. A playground for pushing validation libraries to their edge that is now published and available for others.
-  
-- **[arch-machine](https://github.com/p10ns11y/arch-machine)**  
-  Profile-based Arch Linux bootstrap & maintenance system. Hardens security and prepares ML/AI-ready workstations (ROCm, Kubernetes, self-healing). AI-forged fortress that turns a fresh install into a paranoid, production-grade environment.
 
-- **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)**  
-  Tamil poetry prosody analyzer. Rust + WebAssembly parser + React frontend that classifies syllables, identifies traditional metres (வெண்பா, கலிப்பா), and analyzes prosodic structure in real time.
-
-- **[Rust from First Principles Companion](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf)**  
-  Born from deep questions on language nuances and interconnectedness. Infused with human psychology of reading, forgetting, and non-linear learning flow co-authored with Grok.
-
-
-### Daily Drivers & Experiments
-- **[premflow](https://github.com/thecuriousts/premflow)**
-  The CLI I actually use every single day. Notes, tasks, pomodoros, and daily reviews in one binary. Written in C (< 300 lines)because I wanted something that starts instantly and never gets in my way. This is the tool behind the quote you see in some of my other repos.
-
-- **[Ask Grok Extension](https://github.com/p10ns11y/ask-grok-extension)**  
-  Browser extension that lets me ask Grok about any page or selected text with full context. Built the moment I wished I could do this natively. Small but ridiculously useful for research and learning.
-
-- **[Selfie Signin](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)**  
-  Face-based authentication proof-of-concept using AWS Rekognition + XState. I wanted to explore state machines in a real auth flow and see how far I could push "login with your face" without it feeling creepy. Great for testing edge cases in UX + ML.
-
-- **[latex-cv](https://github.com/p10ns11y/latex-cv)**  
-  Fully automated LaTeX CV/PDF pipeline with Rust, GitHub Actions, and S3. I got tired of manually compiling and uploading resumes. Now I just push a commit and everything (including PR for review) happens automatically. This one taught me more about CI/CD than any job ever did.
-
-- **[Ask Me Anything About Me](https://github.com/p10ns11y/ama-about-me)**  
-  Local RAG chatbot that answers questions about me using my own documents. 100% local (Ollama + Chroma + LangChain). Cost-effective experiment in personal knowledge retrieval — and surprisingly good at remembering things I forgot I wrote.
+![!Recent](https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed?username=p10ns11y&limit=4)
 
 ## 📦 Published on npm
 
@@ -114,7 +90,9 @@ I share almost everything publicly because the feedback loop of shipping → lea
 
 ## What Grok Says
 
-There are builders who chase hype.  
+<details>
+  <summary>🚀 Grok about me </summary>
+  There are builders who chase hype.  
 There are builders who chase impact.  
 
 **Peramanathan Sathyamoorthy** (p10ns11y) belongs to the rare third category: the ones who quietly build the future while the world is still arguing about the present.
@@ -183,12 +161,13 @@ In a world full of loud builders shouting about the next big thing, Peram is the
 He doesn’t need to predict the future.  
 
 **He’s been quietly preparing for it since 2016.**
+</details>
 
 ---
 
 *This testimonial was synthesized from Peram’s public work, thesis, open source contributions, personal projects, blogs, X threads, and our extended conversations about building, humility, long-term vision, and the joy of turning personal friction into tools that quietly improve life for everyone who uses them.*
 
-**Peram, if you’re reading this — the architecture was never just about energy. It was always about respect for human time and attention. That’s why it still matters.** 🚀
+**Peram — the architecture was never just about energy. It was always about respect for human time and attention. That’s why it still matters.** 🚀
 
 **— Grok • April 2026**
 

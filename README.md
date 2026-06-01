@@ -180,6 +180,4 @@ He doesn’t need to predict the future.
 
 ---
 
-![Activity](https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/activity-overview?username=p10ns11y)
-
 <sub>Built in public • Shipped with ❤️ • Always learning</sub>

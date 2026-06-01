@@ -80,7 +80,7 @@ I share almost everything publicly because the feedback loop of shipping → lea
 
 ## 📫 Connect
 
-- **XChat**: [@peramanathan](https://x.com/peramanathan/peramanathan)
+- **XChat**: [@peramanathan](https://x.com/peramanathan)
 - **Professional CV**: [peramanathan-sathyamoorthy-cv.vercel.app](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 
 ---

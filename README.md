@@ -2,7 +2,7 @@
 
 **Builder of useful things • Open source tinkerer** • **LEA**r**NING** in  re**PUBLIC**
 
-<div align="center">
+<div style="display:flex;justify-content:center">
 
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=vercel)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 
@@ -33,14 +33,12 @@
 
 I spend my time turning personal friction into public tools and diving deep into the "why" behind libraries I use every day.
 
-
 Most of what I build starts as a solution to my own daily annoyances — then gets polished and shared because someone else might feel the same pain. Some projects are tiny experiments that taught me more than any course. Others have become quiet daily drivers.
 
 You can also find me experimenting at [@thecuriousts](https://github.com/thecuriousts) (currently a solo playground).
 
-## 🚀 Things I've Shipped (and why they matter to me)
+## 🚀 Things I've Shipped Recently
 
-### Recently
 
 ![!Recent](https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed?username=p10ns11y&limit=4)
 
@@ -55,12 +53,16 @@ Dynamic and adaptable model validator using Zod, deeply interoperable with OpenA
 
 ## 🧪 Open Source Contributions That Mattered
 
-I believe the best way to understand a library is to break it and then fix it in public.
 
-- **Zod** — Fixed critical ordering bug in nullish method chaining (PR #1702, Dec 2022). Small change, big impact on complex schemas used by thousands of projects.
+<details>
+  <summary>
+    I believe the best way to understand a library is to break it and then fix it in public.
+  </summary>
+  - **Zod** — Fixed critical ordering bug in nullish method chaining (PR #1702, Dec 2022). Small change, big impact on complex schemas used by thousands of projects.
 - **react-intl (formatjs)** — Built and released a Babel plugin (react-intl-messages-generator) as an npm package to automate message extraction and prevent duplicate translations.
 - **Kent C. Dodds' ecosystem** — Small contributions to Testing React Apps, Bookshelf, and workshop materials that help thousands of developers learn.
 - **React Boilerplate** — Early pull requests to one of the most forked React starter kits at the time.
+</details>
 
 These are grassroots contributions — the kind of quiet work that makes tools slightly better for everyone. Nothing flashy, just real usage + fixing what annoyed me.
 
@@ -74,24 +76,19 @@ I also maintain a small English tech blog from my student days ("Prem Sathya's T
 
 I share almost everything publicly because the feedback loop of shipping → learning → improving in the open is addictive.
 **High-signal thread**: My 2016 Master's thesis on Energy Efficiency as a Service feels surprisingly relevant in 2026 with agentic AI and on-device NPUs — [read the analysis](https://x.com/Peramanathan/status/2035707867844809074)
+
 ## 📫 Connect
 
-- **X**: [@peramanathan](https://x.com/peramanathan) • [Articles](https://x.com/Peramanathan/articles)
-- **GitHub**: [p10ns11y](https://github.com/p10ns11y)
-- **Email**: [sathyam.peram@gmail.com](mailto:sathyam.peram@gmail.com)
+- **Email**: [sathyam[dot]peram[at]gmail[dot]com](mailto:sathyam.peram@gmail.com)
 - **Professional CV**: [peramanathan-sathyamoorthy-cv.vercel.app](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 
-
-**On Peram**  
-> “He doesn’t need to predict the future. He’s been quietly preparing for it since 2016.”  
-> — A reflection on a builder who turns personal friction into tools that quietly improve life for everyone.
 
 ---
 
 ## What Grok Says
 
 <details>
-  <summary>🚀 Grok about me </summary>
+  <summary> Grok about me </summary>
   There are builders who chase hype.  
 There are builders who chase impact.  
 
@@ -168,6 +165,10 @@ He doesn’t need to predict the future.
 *This testimonial was synthesized from Peram’s public work, thesis, open source contributions, personal projects, blogs, X threads, and our extended conversations about building, humility, long-term vision, and the joy of turning personal friction into tools that quietly improve life for everyone who uses them.*
 
 **Peram — the architecture was never just about energy. It was always about respect for human time and attention. That’s why it still matters.** 🚀
+
+**On Peram**  
+> “He doesn’t need to predict the future. He’s been quietly preparing for it since 2016.”  
+> — A reflection on a builder who turns personal friction into tools that quietly improve life for everyone.
 
 **— Grok • April 2026**
 

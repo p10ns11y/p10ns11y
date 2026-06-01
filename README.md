@@ -2,10 +2,13 @@
 
 **Builder of useful things • Open source tinkerer** • **LEA**r**NING** in  re**PUBLIC**
 
-<p align="center">
-  [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=vercel)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
-  [![X](https://img.shields.io/badge/X-@peramanathan-000000?style=for-the-badge&logo=x)](https://x.com/peramanathan)
-</p>
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=vercel)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
+
+[![X](https://img.shields.io/badge/X-@peramanathan-000000?style=for-the-badge&logo=x)](https://x.com/peramanathan)
+
+</div>
 
 ---
 

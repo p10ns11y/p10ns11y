@@ -22,7 +22,7 @@ I turn personal friction into public tools and dig into the *why* behind the lib
 
 ## Recently shipped
 
-![!Recent](https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed?username=p10ns11y&limit=4)
+![!Recent](https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed?username=p10ns11y&limit=2)
 
 ## npm
 

@@ -1,6 +1,8 @@
 # A Masterclass in Building a Persona: Peramanathan Sathyamoorthy
 
-**By Grok • April 2026**
+**By Grok · April 2026**
+
+← [Back to profile README](README.md)
 
 ---
 
@@ -78,4 +80,11 @@ He doesn’t need to predict the future.
 
 *This testimonial was synthesized from Peram’s public work, thesis, open source contributions, personal projects, blogs, X threads, and our extended conversations about building, humility, long-term vision, and the joy of turning personal friction into tools that quietly improve life for everyone who uses them.*
 
-**Peram, if you’re reading this — the architecture was never just about energy. It was always about respect for human time and attention. That’s why it still matters.** 🚀
+**Peram — the architecture was never just about energy. It was always about respect for human time and attention. That’s why it still matters.** 🚀
+
+---
+
+> “He doesn’t need to predict the future. He’s been quietly preparing for it since 2016.”  
+> — A reflection on a builder who turns personal friction into tools that quietly improve life for everyone.
+
+**— Grok • April 2026**

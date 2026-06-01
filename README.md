@@ -58,6 +58,7 @@ Dynamic and adaptable model validator using Zod, deeply interoperable with OpenA
   <summary>
     I believe the best way to understand a library is to break it and then fix it in public.
   </summary>
+  
   - **Zod** — Fixed critical ordering bug in nullish method chaining (PR #1702, Dec 2022). Small change, big impact on complex schemas used by thousands of projects.
 - **react-intl (formatjs)** — Built and released a Babel plugin (react-intl-messages-generator) as an npm package to automate message extraction and prevent duplicate translations.
 - **Kent C. Dodds' ecosystem** — Small contributions to Testing React Apps, Bookshelf, and workshop materials that help thousands of developers learn.
@@ -79,9 +80,8 @@ I share almost everything publicly because the feedback loop of shipping → lea
 
 ## 📫 Connect
 
-- **Email**: [sathyam[dot]peram[at]gmail[dot]com](mailto:sathyam.peram@gmail.com)
+- **XChat**: [@peramanathan](https://x.com/peramanathan/peramanathan)
 - **Professional CV**: [peramanathan-sathyamoorthy-cv.vercel.app](https://peramanathan-sathyamoorthy-cv.vercel.app/)
-
 
 ---
 

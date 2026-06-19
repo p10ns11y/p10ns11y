@@ -23,7 +23,17 @@ I turn personal friction into public tools and dig into the *why* behind the lib
 
 ## Recently shipped
 
-![!Recent](https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed?username=p10ns11y&limit=2)
+<!-- Regenerate: /api/ghcards/readme-html?card=recent-pushed&username=p10ns11y&limit=2&base=https://peramanathan-sathyamoorthy-cv.vercel.app -->
+<p>
+  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&limit=2&part=header" width="680" alt="Recently Pushed" />
+  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&index=0">
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&part=row&index=0" width="680" height="48" alt="" />
+  </a>
+  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&index=1">
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&part=row&index=1" width="680" height="48" alt="" />
+  </a>
+  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&limit=2&part=footer" width="680" alt="" />
+</p>
 
 ## npm
 

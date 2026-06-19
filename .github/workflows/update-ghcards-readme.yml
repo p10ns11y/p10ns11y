@@ -1,0 +1,27 @@
+name: Update ghcard README embeds
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh ghcard HTML blocks
+        env:
+          GHCARDS_CACHE_BUSTER: ${{ github.run_id }}
+        run: node scripts/update-ghcards-readme.mjs
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh ghcard README embeds"
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com

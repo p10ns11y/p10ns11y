@@ -23,7 +23,7 @@ I turn personal friction into public tools and dig into the *why* behind the lib
 
 ## Recently shipped
 
-<!-- Regenerate: /api/ghcards/readme-html?card=recent-pushed&username=p10ns11y&limit=4&base=https://peramanathan-sathyamoorthy-cv.vercel.app -->
+<!-- ghcards:recent-pushed:start -->
 <p>
   <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&limit=4&part=header" width="680" alt="Recently Pushed" />
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&index=0" target="_blank" rel="noopener noreferrer">
@@ -40,10 +40,11 @@ I turn personal friction into public tools and dig into the *why* behind the lib
   </a>
   <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&limit=4&part=footer" width="680" alt="" />
 </p>
+<!-- ghcards:recent-pushed:end -->
 
 ## Recent PR activity
 
-<!-- Regenerate: /api/ghcards/readme-html?card=recent-prs&username=p10ns11y&limit=5&base=https://peramanathan-sathyamoorthy-cv.vercel.app -->
+<!-- ghcards:recent-prs:start -->
 <p>
   <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&limit=5&part=header" width="640" alt="Recent PR Activity" />
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&index=0" target="_blank" rel="noopener noreferrer">
@@ -63,6 +64,7 @@ I turn personal friction into public tools and dig into the *why* behind the lib
   </a>
   <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&limit=5&part=footer" width="640" alt="" />
 </p>
+<!-- ghcards:recent-prs:end -->
 
 ## npm
 

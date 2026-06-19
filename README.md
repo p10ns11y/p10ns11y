@@ -22,7 +22,17 @@ I turn personal friction into public tools and dig into the *why* behind the lib
 
 ## Recently shipped
 
-![!Recent](https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed?username=p10ns11y&limit=2)
+<!-- Clickable rows: merge devprofile PR first, then deploy before this renders on GitHub. -->
+<p>
+  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed?username=p10ns11y&limit=2&part=header" width="680" alt="Recently shipped" />
+  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed-link?username=p10ns11y&index=0">
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed-row?username=p10ns11y&index=0" width="680" height="48" alt="" />
+  </a>
+  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed-link?username=p10ns11y&index=1">
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed-row?username=p10ns11y&index=1" width="680" height="48" alt="" />
+  </a>
+  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/recent-pushed?username=p10ns11y&limit=2&part=footer" width="680" alt="" />
+</p>
 
 ## npm
 

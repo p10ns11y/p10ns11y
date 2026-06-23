@@ -25,20 +25,20 @@ I turn personal friction into public tools and dig into the *why* behind the lib
 
 <!-- ghcards:recent-pushed:start -->
 <p>
-  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28051725351&limit=4&part=header" width="680" alt="Recently Pushed" />
+  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28055551388&limit=4&part=header" width="680" alt="Recently Pushed" />
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&repo=p10ns11y" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28051725351&part=row&index=0" width="680" height="48" alt="" />
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28055551388&part=row&index=0" width="680" height="48" alt="" />
   </a>
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&repo=arch-machine" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28051725351&part=row&index=1" width="680" height="48" alt="" />
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28055551388&part=row&index=1" width="680" height="48" alt="" />
   </a>
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&repo=skills" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28051725351&part=row&index=2" width="680" height="48" alt="" />
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28055551388&part=row&index=2" width="680" height="48" alt="" />
   </a>
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&repo=shellyxz.sh" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28051725351&part=row&index=3" width="680" height="48" alt="" />
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28055551388&part=row&index=3" width="680" height="48" alt="" />
   </a>
-  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28051725351&limit=4&part=footer" width="680" alt="" />
+  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=28055551388&limit=4&part=footer" width="680" alt="" />
 </p>
 <!-- ghcards:recent-pushed:end -->
 
@@ -46,23 +46,23 @@ I turn personal friction into public tools and dig into the *why* behind the lib
 
 <!-- ghcards:recent-prs:start -->
 <p>
-  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28051725351&limit=5&part=header" width="640" alt="Recent PR Activity" />
+  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28055551388&limit=5&part=header" width="640" alt="Recent PR Activity" />
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Farch-machine&number=19" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28051725351&part=row&index=0" width="640" height="52" alt="" />
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28055551388&part=row&index=0" width="640" height="52" alt="" />
   </a>
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Fshellyxz.sh&number=13" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28051725351&part=row&index=1" width="640" height="52" alt="" />
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28055551388&part=row&index=1" width="640" height="52" alt="" />
   </a>
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Fshellyxz.sh&number=12" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28051725351&part=row&index=2" width="640" height="52" alt="" />
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28055551388&part=row&index=2" width="640" height="52" alt="" />
   </a>
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Fshellyxz.sh&number=11" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28051725351&part=row&index=3" width="640" height="52" alt="" />
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28055551388&part=row&index=3" width="640" height="52" alt="" />
   </a>
   <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Fshellyxz.sh&number=10" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28051725351&part=row&index=4" width="640" height="52" alt="" />
+    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28055551388&part=row&index=4" width="640" height="52" alt="" />
   </a>
-  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28051725351&limit=5&part=footer" width="640" alt="" />
+  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=28055551388&limit=5&part=footer" width="640" alt="" />
 </p>
 <!-- ghcards:recent-prs:end -->
 

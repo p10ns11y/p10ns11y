@@ -12,7 +12,7 @@ jobs:
   refresh-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@e8d4307400f9427dba7cb98e488d6ab85f1cec5f # v7.0.0
 
       - name: Refresh ghcard HTML blocks
         env:
@@ -20,7 +20,7 @@ jobs:
         run: node scripts/update-ghcards-readme.mjs
 
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5
         with:
           commit_message: "chore: refresh ghcard README embeds"
           commit_user_name: github-actions[bot]

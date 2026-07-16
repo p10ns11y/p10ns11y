@@ -16,55 +16,32 @@
 
 [![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~p10ns11y)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-thecuriousts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thecuriousts)&nbsp;&nbsp;&nbsp;&nbsp;[![GitRoll](https://img.shields.io/badge/GitRoll-profile-FF6B6B?style=flat-square)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)&nbsp;&nbsp;&nbsp;&nbsp;[![Grokipedia](https://img.shields.io/badge/Grokipedia-profile-00A3E0?style=flat-square)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)&nbsp;&nbsp;&nbsp;&nbsp;[![skills.sh](https://skills.sh/b/p10ns11y/skills)](https://skills.sh/p10ns11y/skills)
 
-
 </div>
 
 I turn personal friction into public tools and dig into the *why* behind the libraries I use. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
-## Recently shipped
+## Featured
 
-<!-- ghcards:recent-pushed:start -->
-<p>
-  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=29525746180&limit=4&part=header" width="680" alt="Recently Pushed" />
-  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&repo=p10ns11y" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=29525746180&part=row&index=0" width="680" height="48" alt="" />
-  </a>
-  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&repo=arch-machine" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=29525746180&part=row&index=1" width="680" height="48" alt="" />
-  </a>
-  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&repo=skills" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=29525746180&part=row&index=2" width="680" height="48" alt="" />
-  </a>
-  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-pushed&username=p10ns11y&repo=plugins" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=29525746180&part=row&index=3" width="680" height="48" alt="" />
-  </a>
-  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-pushed&username=p10ns11y&v=29525746180&limit=4&part=footer" width="680" alt="" />
-</p>
-<!-- ghcards:recent-pushed:end -->
-
-## Recent PR activity
-
-<!-- ghcards:recent-prs:start -->
-<p>
-  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=29525746180&limit=5&part=header" width="640" alt="Recent PR Activity" />
-  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Farch-machine&number=25" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=29525746180&part=row&index=0" width="640" height="52" alt="" />
-  </a>
-  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Fthepulimaangani&number=81" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=29525746180&part=row&index=1" width="640" height="52" alt="" />
-  </a>
-  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Farch-machine&number=24" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=29525746180&part=row&index=2" width="640" height="52" alt="" />
-  </a>
-  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Fthepulimaangani&number=80" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=29525746180&part=row&index=3" width="640" height="52" alt="" />
-  </a>
-  <a href="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/go?card=recent-prs&username=p10ns11y&repo=p10ns11y%2Fp10ns11y&number=3" target="_blank" rel="noopener noreferrer">
-    <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=29525746180&part=row&index=4" width="640" height="52" alt="" />
-  </a>
-  <img src="https://peramanathan-sathyamoorthy-cv.vercel.app/api/ghcards/embed?card=recent-prs&username=p10ns11y&v=29525746180&limit=5&part=footer" width="640" alt="" />
-</p>
-<!-- ghcards:recent-prs:end -->
+- **[collab-finder](https://github.com/p10ns11y/collab-finder)** — Tauri desktop for opportunity discovery on X (API + xAI), with guarded prep and self-limits  
+  `tauri` · `rust` · `mvu` · `ai-agents`
+- **[shellyxz.sh](https://github.com/p10ns11y/shellyxz.sh)** — Portable multi-shell config (zsh, bash, fish): small kernel, plugins, verification cockpit  
+  `shell` · `dotfiles` · `cli`
+- **[arch-machine](https://github.com/p10ns11y/arch-machine)** — Profile-based Arch workstation installer with security hardening and self-audit  
+  `archlinux` · `security` · `shell`
+- **[skills](https://github.com/p10ns11y/skills)** — Curated agent skills for orchestration, security, and multi-agent workflows  
+  `agents` · `ai-orchestration` · `automation`
+- **[adaptate](https://github.com/p10ns11y/adaptate)** — Zod + OpenAPI validation craft  
+  `zod` · `openapi` · `npm`
+- **[elomaxz](https://github.com/p10ns11y/elomaxz)** — C systems / MVU craft  
+  `c` · `mvu` · `systems`
+- **[agent-prompt-tuning-lab](https://github.com/p10ns11y/agent-prompt-tuning-lab)** — Prompt/agent tooling  
+  `prompt-engineering` · `ai-agents` · `datasets`
+- **[prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself)** — Small PyTorch LSTM + ReAct (education, not production AI infra)  
+  `pytorch` · `llm` · `education`
+- **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)** — Tamil classical grammar and poem prosody tools (Rust / WASM)  
+  `tamil` · `prosody` · `wasm`
+- **[devprofile](https://github.com/p10ns11y/devprofile)** — Live portfolio CV site with agent-oriented Q&A and PDF generation  
+  `nextjs` · `cv` · `agents`
 
 ## npm
 
@@ -76,7 +53,6 @@ I turn personal friction into public tools and dig into the *why* behind the lib
 - **Zod** — nullish chaining ([PR #1702](https://github.com/colinhacks/zod/pull/1702))
 - **react-intl** — [react-intl-messages-generator](https://www.npmjs.com/package/react-intl-messages-generator)
 - **Kent C. Dodds' ecosystem** · **React Boilerplate**
-
 
 </details>
 

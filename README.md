@@ -52,7 +52,7 @@ One thing triggers the next. Connections show up after you move. Exploration und
 
 | | After Oneflow · Dec 2024 |
 | --- | --- |
-| **Start** | [adaptate](https://github.com/p10ns11y/adaptate) → [ama-about-me](https://github.com/p10ns11y/ama-about-me) (AI course) → [devprofile](https://github.com/p10ns11y/devprofile) |
+| **Start** | [adaptate](https://github.com/p10ns11y/adaptate) → [ama-about-me](https://github.com/p10ns11y/ama-about-me) (prototype from AI course content · personal tech stack) → [devprofile](https://github.com/p10ns11y/devprofile) |
 | **Pause** | **DAD duty** · months of quiet |
 | **Stretch** | Engineering craft + systems thinking — an inch at a time, the graph forming itself |
 
@@ -174,9 +174,21 @@ Uppsala Machine Learning course (CMU-style project lineage). The assignment ran 
 
 ## Writing & packages
 
+### Writing
+
 - **[Articles on X](https://x.com/Peramanathan/articles)** — culture, health, tech, policy; careful long-form when stakes feel real, not take-farming.
-- **Books** — [Rust from First Principles Companion](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf): language nuances, interconnectedness, non-linear learning (with Grok). From [shelf-life](https://github.com/thecuriousts/shelf-life).
-- **npm** · [~p10ns11y](https://www.npmjs.com/~p10ns11y) — [`adaptate`](https://www.npmjs.com/package/adaptate) family · **2024** · [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy) · **2021** · [`react-redux-quest`](https://www.npmjs.com/package/react-redux-quest) · **2018** · [`babel-plugin-react-intl-messages-generator`](https://www.npmjs.com/package/babel-plugin-react-intl-messages-generator) · **2017**
+- **Books** — [Rust from First Principles Companion](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf) — language nuances, interconnectedness, non-linear learning (with Grok). From [shelf-life](https://github.com/thecuriousts/shelf-life).
+
+### npm · [~p10ns11y](https://www.npmjs.com/~p10ns11y)
+
+Latest first · first-publish year.
+
+| Package | Year |
+| --- | --- |
+| [`adaptate`](https://www.npmjs.com/package/adaptate) · [`@adaptate/core`](https://www.npmjs.com/package/@adaptate/core) · [`@adaptate/utils`](https://www.npmjs.com/package/@adaptate/utils) | **2024** |
+| [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy) | **2021** |
+| [`react-redux-quest`](https://www.npmjs.com/package/react-redux-quest) | **2018** |
+| [`babel-plugin-react-intl-messages-generator`](https://www.npmjs.com/package/babel-plugin-react-intl-messages-generator) | **2017** |
 
 ## More
 

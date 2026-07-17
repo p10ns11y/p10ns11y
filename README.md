@@ -145,8 +145,8 @@ Shipped to learn — live surfaces, not daily drivers. Useful when you want the 
 
 | | Stack | What it proves |
 | --- | --- | --- |
-| **[v0-live-feed-app](https://github.com/p10ns11y/v0-live-feed-app)** | TypeScript · v0 | X “For You” feed re-imagined as a technical flow (data / ML can plug in from open `x-algorithm`). [Live demo](https://v0-live-feed-app.vercel.app/) |
-| **[selfie-sign-in-flow-using-v0-xAI](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)** | TypeScript · AWS Rekognition · XState | Face auth end-to-end: multi-angle enroll → train → login with selfie — state machine + complex UI, not a mock. [Live demo](https://v0-selfie-sign-in-process.vercel.app) |
+| **[v0-live-feed-app](https://github.com/p10ns11y/v0-live-feed-app)** | TypeScript · v0 | X “For You” feed re-imagined as a technical flow (data / ML can plug in from open `x-algorithm`). [Live prototype](https://v0-live-feed-app.vercel.app/) |
+| **[selfie-sign-in-flow-using-v0-xAI](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)** | TypeScript · AWS Rekognition · XState | Face auth end-to-end: multi-angle enroll → train → login with selfie — state machine + complex UI, not a mock. [Live prototype](https://v0-selfie-sign-in-process.vercel.app) |
 
 ## Long arc
 

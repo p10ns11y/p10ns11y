@@ -31,6 +31,8 @@
 ·
 <a href="#cooking">cooking</a>
 ·
+<a href="#proof-of-concepts">pocs</a>
+·
 <a href="#long-arc">long arc</a>
 ·
 <a href="#writing--packages">writing</a>
@@ -136,6 +138,15 @@ Still under heat — and a little **semi-planned**: as more work can be delegate
 | **[plugins](https://github.com/p10ns11y/plugins)** | Markdown · Shell | Grok/agent plugins (premflow coach/pomo) over real CLIs. |
 | **[premflow](https://github.com/thecuriousts/premflow)** | `C` · [elomaxz](https://github.com/p10ns11y/elomaxz) | Daily-driver CLI — dogfood for MVU-in-C; ledger agents and humans actually share. |
 | **Local-first AI & quiet automation** | agents · device | Respect device, attention, and data boundaries — progress you can audit. |
+
+## Proof of concepts
+
+Shipped to learn — live surfaces, not daily drivers. Useful when you want the idea under your fingers before productizing.
+
+| | Stack | What it proves |
+| --- | --- | --- |
+| **[v0-live-feed-app](https://github.com/p10ns11y/v0-live-feed-app)** | TypeScript · v0 | X “For You” feed re-imagined as a technical flow (data / ML can plug in from open `x-algorithm`). [Live demo](https://v0-live-feed-app.vercel.app/) |
+| **[selfie-sign-in-flow-using-v0-xAI](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)** | TypeScript · AWS Rekognition · XState | Face auth end-to-end: multi-angle enroll → train → login with selfie — state machine + complex UI, not a mock. [Live demo](https://v0-selfie-sign-in-process.vercel.app) |
 
 ## Long arc
 

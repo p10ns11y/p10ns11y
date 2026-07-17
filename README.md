@@ -127,37 +127,41 @@ Portfolio as a **live product**: agent-oriented Q&A, document views, automated P
 
 ## Cooking
 
-Still under heat — and a little **semi-planned**: as more work can be delegated to agent systems, it helps to see overall progress without killing the spirit of **natural inception** (spark → friction → next link).
+Still under heat — and a little **semi-planned**: as more work can be delegated to agent systems, it helps to see overall progress without killing **natural inception** (spark → friction → next link).
 
 | | Stack | Watch for |
 | --- | --- | --- |
-| **[ensembly](https://github.com/thecuriousts/ensembly)** | JS · Rust · WASM | *Game of Peram*: life as a playable system (beacons, HITL, local kernel). Digital thrash is the trash mob; you keep body-world work and authorization. |
+| **[ensembly](https://github.com/thecuriousts/ensembly)** | JS · Rust · WASM | *Game of Peram*: life as a playable system (beacons, HITL, local kernel). You keep body-world work and authorization. |
 | **[life-os](https://github.com/p10ns11y/life-os)** | Markdown · Obsidian | Agentic vault (Projects · Areas · schema · energy). Portfolio memory — not the runtime clone (ensembly). |
 | **[plugins](https://github.com/p10ns11y/plugins)** | Markdown · Shell | Grok/agent plugins (premflow coach/pomo) over real CLIs. |
-| **[premflow](https://github.com/thecuriousts/premflow)** | `C` · [elomaxz](https://github.com/p10ns11y/elomaxz) | Daily-driver CLI (notes, tasks, pomodoro, journal) — dogfood for MVU-in-C; the ledger agents and humans actually share. |
-| **Local-first AI & quiet automation** | agents · device | Workflows that respect device, attention, and data boundaries — progress you can audit, not thrash-for-thrash’s sake. |
+| **[premflow](https://github.com/thecuriousts/premflow)** | `C` · [elomaxz](https://github.com/p10ns11y/elomaxz) | Daily-driver CLI — dogfood for MVU-in-C; ledger agents and humans actually share. |
+| **Local-first AI & quiet automation** | agents · device | Respect device, attention, and data boundaries — progress you can audit. |
 
 ## Long arc
 
 Two habits that outlast any single project: **orchestrate under constraint**, and when the calendar slips, **ship more than was asked** — deeper work, not a thin late apology.
 
-### Thesis & papers · 2015–2017
+Core idea (thesis → 2026): an **orchestrator that profiles, predicts, and acts** under constraint — not “battery tips.” Same shape as today’s AI stack problem: where inference runs (cloud · edge · on-device NPU), what data leaves the machine, how agents spend energy and attention. **Intelligence that respects cost and locality compounds; blanket centralization taxes humans.**
+
+<details>
+<summary>Thesis & papers · 2015–2017</summary>
 
 Primary sources first; casual notes last.
 
 | Artifact | |
 | --- | --- |
-| **Thesis PDF** (hosted) | [Full text on CV site](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/master-thesis.pdf) — *Enabling Energy-Efficient Data Communication with Participatory Sensing and Mobile Cloud* ([devprofile#32](https://github.com/p10ns11y/devprofile/pull/32)) |
-| **Thesis · Uppsala DiVA** | [Record](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:893525) · [FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:897798/FULLTEXT01.pdf) — original university deposit |
+| **Thesis PDF** (hosted) | [Full text](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/master-thesis.pdf) — *Enabling Energy-Efficient Data Communication with Participatory Sensing and Mobile Cloud* ([devprofile#32](https://github.com/p10ns11y/devprofile/pull/32)) |
+| **Thesis · Uppsala DiVA** | [Record](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:893525) · [FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:897798/FULLTEXT01.pdf) — original university deposit (DiVA is still UU’s system; off-campus access is often blocked) |
 | **IEEE** | [Energy Efficiency as an Orchestration Service for Mobile Internet of Things](https://ieeexplore.ieee.org/document/7396150) (CloudCom 2015) |
 | **Wiley** | [Profiling Energy Efficiency and Data Communications for Mobile Internet of Things](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915) (2017) |
 | **On X** | [Here is how I explained the long arc in an X post](https://x.com/Peramanathan/status/2035707867844809074) |
 
-**Why host a copy:** DiVA / university full-text links are often **blocked off-campus** (ISP or campus network policy for outsiders). They used to work; the old system may have moved — I’ll update the canonical URL when a stable public path is known. Until then, use the CV-hosted PDF.
+**Why host a copy:** DiVA full-text is often **blocked off-campus** (ISP / network policy). Links used to work; if the public path changes, I’ll update. Prefer the hosted PDF when DiVA fails.
 
-Core idea: an **orchestrator that profiles, predicts, and acts** under constraint — not “battery tips.” In 2026 the same shape is the default AI stack problem: where inference runs (cloud · edge · on-device NPU), what data leaves the machine, how agents spend energy and attention. **Intelligence that respects cost and locality compounds; blanket centralization taxes humans.**
+</details>
 
-### Course craft · 2011
+<details>
+<summary>Course craft · 2011</summary>
 
 | Artifact | |
 | --- | --- |
@@ -166,7 +170,7 @@ Core idea: an **orchestrator that profiles, predicts, and acts** under constrain
 
 Uppsala Machine Learning course (CMU-style project lineage). The assignment ran late — instead of a survey-only late submit, it was extended into **real implementation and hands-on work** (pair assignment; finished solo when the partner had no time). Same muscle as today: delay is not an excuse to shrink the outcome.
 
-Hosted PDFs: [peramanathan-sathyamoorthy-cv.vercel.app/pdfs/](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/).
+</details>
 
 ## Writing & packages
 
@@ -199,43 +203,26 @@ Hosted PDFs: [peramanathan-sathyamoorthy-cv.vercel.app/pdfs/](https://peramanath
 Public writing and side sites that never left the map. Two seasons:
 
 1. **Uppsala University** (academic · pre-professional) — Blogspot years with room to wander in public.
-2. **Professional life** — personal site + tech blog started under a **low time budget**; neither quite became a habit. Honest archive, not a victory lap.
+2. **Professional life** — personal site + tech blog under a **low time budget**; neither quite became a habit. Honest archive, not a victory lap.
 
 <details>
 <summary>Surfaces · samples · stubs</summary>
 
 | Surface | Season | What it was |
 | --- | --- | --- |
-| **[சிரவை பெரமு](https://peramuwin.blogspot.com/)** | Uppsala · ~2012–2021 | Tamil poetry & language craft — love, season, body, classical echo |
-| **[Prem Sathya’s Tea Stall](https://peramanathan.blogspot.com/)** | Uppsala · 2011–2013 | English essays — algorithms, teaching, ergonomics, culture |
+| **[சிரவை பெரமு](https://peramuwin.blogspot.com/)** | Uppsala · ~2012–2021 | Tamil poetry & language craft |
+| **[Prem Sathya’s Tea Stall](https://peramanathan.blogspot.com/)** | Uppsala · 2011–2013 | English essays — algorithms, teaching, ergonomics |
 | **[On The Way](https://prem-ontheway.blogspot.com/)** | Uppsala · 2011 | Photo stops — Sweden & Tamil Nadu |
-| **[peramsathyam.fly.dev](https://peramsathyam.fly.dev/)** | Pro life · low bandwidth | Personal site — craft + Tamil poems (intent > cadence) |
+| **[peramsathyam.fly.dev](https://peramsathyam.fly.dev/)** | Pro life · low bandwidth | Personal site — craft + Tamil poems |
 | **[kingsparrow.space](https://kingsparrow.space/)** | Pro life · low bandwidth | Sparse tech notes — domain may be reused later |
 
-**[சிரவை பெரமு](https://peramuwin.blogspot.com/)** — Tamil poems
+**[சிரவை பெரமு](https://peramuwin.blogspot.com/)** — [அகலா விளக்கு](https://peramuwin.blogspot.com/2021/04/blog-post_4.html) · [அவனும் அவளும்](https://peramuwin.blogspot.com/2021/04/blog-post.html) · [அடடே அன்பு மழை](https://peramuwin.blogspot.com/2021/03/blog-post_5.html) · [பணியிடை பனிநடை](https://peramuwin.blogspot.com/2021/02/blog-post.html)
 
-- [அகலா விளக்கு](https://peramuwin.blogspot.com/2021/04/blog-post_4.html) · [அவனும் அவளும்](https://peramuwin.blogspot.com/2021/04/blog-post.html) · [அடடே அன்பு மழை](https://peramuwin.blogspot.com/2021/03/blog-post_5.html) (2021)
-- [பணியிடை பனிநடை](https://peramuwin.blogspot.com/2021/02/blog-post.html) — work-break snow walk as vow to body & mind
-- On-site: இசை · குறுந்தொகை · பழந்தமிழ் · ஓவியங்கள் · கட்டுரைகள் · இலினக்சு
+**[Tea Stall](https://peramanathan.blogspot.com/)** — [Fourier as warrior](https://peramanathan.blogspot.com/2012/11/a-warrior-to-fourier-series.html) · [Vedic binary mult](https://peramanathan.blogspot.com/2012/03/binary-multiplication-can-we-do-it.html) · [constraint programming](https://peramanathan.blogspot.com/2011/09/problem-from-real-world.html) · [ergonomics / RSI](https://peramanathan.blogspot.com/2011/05/ergonomics-and-repetitive-strain.html)
 
-**[Prem Sathya’s Tea Stall](https://peramanathan.blogspot.com/)** — English essays (Uppsala)
+**[On The Way](https://prem-ontheway.blogspot.com/)** — [Autumn in Uppsala](https://prem-ontheway.blogspot.com/2011/06/autumn-in-uppsala.html) · [Sunnersta Lake](https://prem-ontheway.blogspot.com/2011/05/sunnersta-lake.html) · [Mannargudi Temple](https://prem-ontheway.blogspot.com/2011/05/mannargudi-temple.html)
 
-- [A Warrior to The Fourier Series](https://peramanathan.blogspot.com/2012/11/a-warrior-to-fourier-series.html) (2012) — Fourier as battle plan for a younger brother, via *Mannan Magal*
-- [Binary Multiplication — Can we do it better?](https://peramanathan.blogspot.com/2012/03/binary-multiplication-can-we-do-it.html) (2012) — Vedic *Nikhilam* → recursive binary mult
-- [A Problem from Real World](https://peramanathan.blogspot.com/2011/09/problem-from-real-world.html) (2011) — constraint programming / equitable jury design
-- [Ergonomics and Repetitive Strain Injuries](https://peramanathan.blogspot.com/2011/05/ergonomics-and-repetitive-strain.html) (2011)
-- Also: haiku · Indus-script ML · Khan Academy · “Humble Opening”
-
-**[On The Way](https://prem-ontheway.blogspot.com/)** — travel photos
-
-- [Autumn in Uppsala](https://prem-ontheway.blogspot.com/2011/06/autumn-in-uppsala.html) · [Sunnersta Lake](https://prem-ontheway.blogspot.com/2011/05/sunnersta-lake.html) · [Mannargudi Temple](https://prem-ontheway.blogspot.com/2011/05/mannargudi-temple.html) (2011)
-
-**Pro-life stubs**
-
-- **[peramsathyam.fly.dev](https://peramsathyam.fly.dev/)** — craft + Tamil poems; portfolio-shaped more than a publishing rhythm
-- **[kingsparrow.space](https://kingsparrow.space/)** · 👑SP↠ — sparse Node/package notes; **domain may be reused later**
-
-Still online: proof the writing impulse never fully left, even when the calendar did.
+**Pro-life stubs** — [peramsathyam.fly.dev](https://peramsathyam.fly.dev/) · [kingsparrow.space](https://kingsparrow.space/) (may reuse domain later)
 
 </details>
 

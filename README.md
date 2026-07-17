@@ -31,6 +31,8 @@
 ·
 <a href="#cooking">cooking</a>
 ·
+<a href="#long-arc">long arc</a>
+·
 <a href="#writing--packages">writing</a>
 ·
 <a href="#more">more</a>
@@ -125,13 +127,46 @@ Portfolio as a **live product**: agent-oriented Q&A, document views, automated P
 
 ## Cooking
 
-Still under heat — experiments and personal infrastructure.
+Still under heat — and a little **semi-planned**: as more work can be delegated to agent systems, it helps to see overall progress without killing the spirit of **natural inception** (spark → friction → next link).
 
 | | Stack | Watch for |
 | --- | --- | --- |
 | **[ensembly](https://github.com/thecuriousts/ensembly)** | JS · Rust · WASM | *Game of Peram*: life as a playable system (beacons, HITL, local kernel). Digital thrash is the trash mob; you keep body-world work and authorization. |
 | **[life-os](https://github.com/p10ns11y/life-os)** | Markdown · Obsidian | Agentic vault (Projects · Areas · schema · energy). Portfolio memory — not the runtime clone (ensembly). |
 | **[plugins](https://github.com/p10ns11y/plugins)** | Markdown · Shell | Grok/agent plugins (premflow coach/pomo) over real CLIs. |
+| **[premflow](https://github.com/thecuriousts/premflow)** | `C` · [elomaxz](https://github.com/p10ns11y/elomaxz) | Daily-driver CLI (notes, tasks, pomodoro, journal) — dogfood for MVU-in-C; the ledger agents and humans actually share. |
+| **Local-first AI & quiet automation** | agents · device | Workflows that respect device, attention, and data boundaries — progress you can audit, not thrash-for-thrash’s sake. |
+
+## Long arc
+
+Two habits that outlast any single project: **orchestrate under constraint**, and when the calendar slips, **ship more than was asked** — deeper work, not a thin late apology.
+
+### Thesis & papers · 2015–2017
+
+Primary sources first; casual notes last.
+
+| Artifact | |
+| --- | --- |
+| **Thesis PDF** (hosted) | [Full text on CV site](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/master-thesis.pdf) — *Enabling Energy-Efficient Data Communication with Participatory Sensing and Mobile Cloud* ([devprofile#32](https://github.com/p10ns11y/devprofile/pull/32)) |
+| **Thesis · Uppsala DiVA** | [Record](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:893525) · [FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:897798/FULLTEXT01.pdf) — original university deposit |
+| **IEEE** | [Energy Efficiency as an Orchestration Service for Mobile Internet of Things](https://ieeexplore.ieee.org/document/7396150) (CloudCom 2015) |
+| **Wiley** | [Profiling Energy Efficiency and Data Communications for Mobile Internet of Things](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915) (2017) |
+| **On X** | [Here is how I explained the long arc in an X post](https://x.com/Peramanathan/status/2035707867844809074) |
+
+**Why host a copy:** DiVA / university full-text links are often **blocked off-campus** (ISP or campus network policy for outsiders). They used to work; the old system may have moved — I’ll update the canonical URL when a stable public path is known. Until then, use the CV-hosted PDF.
+
+Core idea: an **orchestrator that profiles, predicts, and acts** under constraint — not “battery tips.” In 2026 the same shape is the default AI stack problem: where inference runs (cloud · edge · on-device NPU), what data leaves the machine, how agents spend energy and attention. **Intelligence that respects cost and locality compounds; blanket centralization taxes humans.**
+
+### Course craft · 2011
+
+| Artifact | |
+| --- | --- |
+| **Report PDF** | [ML face-recognition report (2011)](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/ml_face_recognition_report_2011.pdf) |
+| **On X** | [Here is how I explained delayed work (and shipping more than asked) in an X post](https://x.com/Peramanathan/status/2064993180328796667) |
+
+Uppsala Machine Learning course (CMU-style project lineage). The assignment ran late — instead of a survey-only late submit, it was extended into **real implementation and hands-on work** (pair assignment; finished solo when the partner had no time). Same muscle as today: delay is not an excuse to shrink the outcome.
+
+Hosted PDFs: [peramanathan-sathyamoorthy-cv.vercel.app/pdfs/](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/).
 
 ## Writing & packages
 
@@ -140,15 +175,6 @@ Still under heat — experiments and personal infrastructure.
 - **npm** · [~p10ns11y](https://www.npmjs.com/~p10ns11y) — [`adaptate`](https://www.npmjs.com/package/adaptate) family · **2024** · [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy) · **2021** · [`react-redux-quest`](https://www.npmjs.com/package/react-redux-quest) · **2018** · [`babel-plugin-react-intl-messages-generator`](https://www.npmjs.com/package/babel-plugin-react-intl-messages-generator) · **2017**
 
 ## More
-
-<details>
-<summary>Exploring</summary>
-
-- **Local-first AI & quiet automation** — agent workflows that respect device, attention, and data boundaries
-- **[premflow](https://github.com/thecuriousts/premflow)** · `C` — daily-driver CLI (notes, tasks, pomodoro, journal) on **[elomaxz](https://github.com/p10ns11y/elomaxz)** MVU
-- **Long arc** — [2016 Master’s thesis: energy-efficient mobile IoT / EEaaS](https://x.com/Peramanathan/status/2035707867844809074) (*Enabling Energy-Efficient Data Communication with Participatory Sensing and Mobile Cloud*; IEEE CloudCom 2015) — an **orchestrator that profiles, predicts, and acts** under constraint, not “battery tips.” In 2026 the same shape is the default AI stack problem: where inference runs (cloud · edge · on-device NPU), what data leaves the machine, how agents spend energy and attention. **Intelligence that respects cost and locality compounds; blanket centralization taxes humans.**
-
-</details>
 
 <details>
 <summary>Open source</summary>

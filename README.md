@@ -75,10 +75,6 @@ In progress — active experiments and personal infrastructure still under heat.
 - **[plugins](https://github.com/p10ns11y/plugins)** · *Markdown · Shell* — installable Grok/agent plugins (e.g. premflow coach/pomo) that bind real CLIs into slash-command workflows.  
   **Watch for:** thin plugin surfaces over hard-won local tools.
 
-## Books
-
-- **[Rust from First Principles Companion](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf)** — language nuances, interconnectedness, and non-linear learning (co-authored with Grok). From [shelf-life](https://github.com/thecuriousts/shelf-life).
-
 ## npm
 
 All packages on **[npmjs.com/~p10ns11y](https://www.npmjs.com/~p10ns11y)** (latest first; first-publish year):
@@ -87,6 +83,16 @@ All packages on **[npmjs.com/~p10ns11y](https://www.npmjs.com/~p10ns11y)** (late
 - [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy) — v1.2.0 · **2021**
 - [`react-redux-quest`](https://www.npmjs.com/package/react-redux-quest) — v0.1.3 · **2018**
 - [`babel-plugin-react-intl-messages-generator`](https://www.npmjs.com/package/babel-plugin-react-intl-messages-generator) — v0.3.0 · **2017**
+
+## Books
+
+- **[Rust from First Principles Companion](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf)** — language nuances, interconnectedness, and non-linear learning (co-authored with Grok). From [shelf-life](https://github.com/thecuriousts/shelf-life).
+
+## Articles on X
+
+I write when the stakes feel real — **culture, health, tech, and policy** — not as take-farming, but as careful long-form when something matters enough to say clearly.
+
+**[Articles by @Peramanathan →](https://x.com/Peramanathan/articles)**
 
 <details>
 <summary>Open source</summary>
@@ -103,7 +109,7 @@ All packages on **[npmjs.com/~p10ns11y](https://www.npmjs.com/~p10ns11y)** (late
 
 - **Local-first AI & quiet automation** — agent workflows that respect device, attention, and data boundaries
 - **[premflow](https://github.com/thecuriousts/premflow)** · *C* — daily-driver CLI (notes, tasks, pomodoro, journal); built on **[elomaxz](https://github.com/p10ns11y/elomaxz)** MVU
-- **Long arc** — [2016 Master’s thesis: energy-efficient mobile IoT / EEaaS](https://x.com/Peramanathan/status/2035707867844809074) (*Enabling Energy-Efficient Data Communication with Participatory Sensing and Mobile Cloud*; IEEE CloudCom 2015) — not “battery tips,” but an **orchestrator that profiles, predicts, and acts** under constraint (participatory sensing, knowledge graphs, context-aware policy). In 2026 that same shape is the default stack problem for AI: where inference runs (cloud · edge · on-device NPU), what data leaves the machine, and how agents spend energy and attention without thrashing. The durable insight: **intelligence that respects cost and locality compounds; blanket centralization taxes humans.** · [Articles on X](https://x.com/Peramanathan/articles)
+- **Long arc** — [2016 Master’s thesis: energy-efficient mobile IoT / EEaaS](https://x.com/Peramanathan/status/2035707867844809074) (*Enabling Energy-Efficient Data Communication with Participatory Sensing and Mobile Cloud*; IEEE CloudCom 2015) — not “battery tips,” but an **orchestrator that profiles, predicts, and acts** under constraint (participatory sensing, knowledge graphs, context-aware policy). In 2026 that same shape is the default stack problem for AI: where inference runs (cloud · edge · on-device NPU), what data leaves the machine, and how agents spend energy and attention without thrashing. The durable insight: **intelligence that respects cost and locality compounds; blanket centralization taxes humans.**
 
 </details>
 

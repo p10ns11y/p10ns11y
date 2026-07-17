@@ -20,9 +20,19 @@
 
 I turn personal friction into public tools and dig into the *why* behind the libraries I use. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
+## An inch at a time
+
+**Featured** and **Cooking** did not come from a master plan. They grow the way real craft does: a spark or thread on [X](https://x.com/peramanathan), friction from a totally different domain, a personal limit, a season of life you cannot negotiate away — then the need to *make something* so the constraint loses a little power.
+
+One thing triggers the next. Connections only show up after you move. I believe this kind of exploration beats over-planning everything early and shipping nothing.
+
+**Evidence, not a pitch.** After leaving Oneflow (Dec 2024): **[adaptate](https://github.com/p10ns11y/adaptate)** → **[ama-about-me](https://github.com/p10ns11y/ama-about-me)** (from an online AI course) → portfolio as **[devprofile](https://github.com/p10ns11y/devprofile)**. Then **DAD duty** and months of quiet. Then the last stretch: high-quality engineering and systems thinking — an inch at a time, under real limits, with the graph forming itself.
+
+If you are waiting for perfect conditions: start with the friction in front of you. The list below is what that looks like when you keep going.
+
 ## Featured
 
-Each entry: **what’s unique** · **languages** · **why look it up** (product + engineering craft).
+Each entry: **what’s unique** · **languages** · **why look it up** (product + engineering craft). The chain above is how they arrived.
 
 - **[collab-finder](https://github.com/p10ns11y/collab-finder)** · *TypeScript · Rust*  
   Not a job board scraper — a **self-guarded Tauri reactor**: live X search + xAI fit/prep, SQLite ledger, secrets stay in Rust, and pause guards so agents stop instead of thrashing.  
@@ -94,6 +104,74 @@ All packages on **[npmjs.com/~p10ns11y](https://www.npmjs.com/~p10ns11y)** (late
 I write when the stakes feel real — **culture, health, tech, and policy** — not as take-farming, but as careful long-form when something matters enough to say clearly.
 
 **[Articles by @Peramanathan →](https://x.com/Peramanathan/articles)**
+
+## Archive
+
+Public writing and side sites that never left the map — summary first; open a row for detail. Two seasons:
+
+1. **Uppsala University (academic · pre-professional)** — Blogspot years with room to wander in public.
+2. **Professional life** — personal site + tech blog started under a **low time budget**; neither quite became a habit. Honest archive, not a victory lap.
+
+### Summary
+
+| Surface | Season | What it was |
+| --- | --- | --- |
+| **[சிரவை பெரமு](https://peramuwin.blogspot.com/)** | Uppsala · ~2012–2021 | Tamil poetry & language craft — love, season, body, classical echo |
+| **[Prem Sathya’s Tea Stall](https://peramanathan.blogspot.com/)** | Uppsala · 2011–2013 | English “tea stall” essays — algorithms, teaching, ergonomics, culture |
+| **[On The Way](https://prem-ontheway.blogspot.com/)** | Uppsala · 2011 | Photo stops on the road — Sweden & Tamil Nadu |
+| **[peramsathyam.fly.dev](https://peramsathyam.fly.dev/)** | Pro life · low bandwidth | Personal site — craft + Tamil poems (intent > cadence) |
+| **[kingsparrow.space](https://kingsparrow.space/)** | Pro life · low bandwidth | Tech notes that stalled early — Node, packages, performance |
+
+### Detail
+
+<details>
+<summary><strong>Uppsala · Blogspots</strong> (academic / pre-professional)</summary>
+
+#### [சிரவை பெரமு](https://peramuwin.blogspot.com/) — Tamil poems
+
+- **[அகலா விளக்கு](https://peramuwin.blogspot.com/2021/04/blog-post_4.html)** · **[அவனும் அவளும்](https://peramuwin.blogspot.com/2021/04/blog-post.html)** · **[அடடே அன்பு மழை](https://peramuwin.blogspot.com/2021/03/blog-post_5.html)** (2021)
+- **[பணியிடை பனிநடை](https://peramuwin.blogspot.com/2021/02/blog-post.html)** — work-break snow walk as vow to body & mind
+- Sections on-site: இசை · குறுந்தொகை · பழந்தமிழ் · ஓவியங்கள் · கட்டுரைகள் · இலினக்சு
+
+#### [Prem Sathya’s Tea Stall](https://peramanathan.blogspot.com/) — English essays
+
+Student-era Uppsala writing: teach with story, not textbook voice.
+
+- **[A Warrior to The Fourier Series](https://peramanathan.blogspot.com/2012/11/a-warrior-to-fourier-series.html)** (2012) — Fourier as battle plan for a younger brother, via *Mannan Magal*
+- **[Binary Multiplication — Can we do it better?](https://peramanathan.blogspot.com/2012/03/binary-multiplication-can-we-do-it.html)** (2012) — Vedic *Nikhilam* → recursive binary mult
+- **[A Problem from Real World](https://peramanathan.blogspot.com/2011/09/problem-from-real-world.html)** (2011) — constraint programming / equitable jury design
+- **[Ergonomics and Repetitive Strain Injuries](https://peramanathan.blogspot.com/2011/05/ergonomics-and-repetitive-strain.html)** (2011) — body care before RSI owns you
+- Also: haiku & love poems · Indus-script ML notes · Khan Academy · “Humble Opening”
+
+#### [On The Way](https://prem-ontheway.blogspot.com/) — travel photos
+
+Short photo journals from the Sweden / home-visit stretch — place before long argument.
+
+- **[Autumn in Uppsala](https://prem-ontheway.blogspot.com/2011/06/autumn-in-uppsala.html)** (2011)
+- **[Sunnersta Lake](https://prem-ontheway.blogspot.com/2011/05/sunnersta-lake.html)** (2011)
+- **[Mannargudi Temple](https://prem-ontheway.blogspot.com/2011/05/mannargudi-temple.html)** (2011)
+
+</details>
+
+<details>
+<summary><strong>Professional life · low time effort</strong> (started; did not quite happen)</summary>
+
+Job years left little surface area for a public writing habit. These two still stand as intent markers — better honest stubs than polished myths.
+
+#### [peramsathyam.fly.dev](https://peramsathyam.fly.dev/)
+
+Personal landing: software craft + Tamil poems (e.g. அகலா விளக்கு on-page). Portfolio-shaped presence more than a publishing rhythm.
+
+#### [kingsparrow.space](https://kingsparrow.space/) · 👑SP↠
+
+Sparse tech blog (Gatsby-era personal stack). Sample threads that stayed thin:
+
+- Transducers + modern Node performance notes
+- Bumping packages when security vulnerabilities force the issue
+
+Full sites stay online as archive, not as “abandoned fail” — proof that the writing impulse never fully left, even when the calendar did.
+
+</details>
 
 <details>
 <summary>Open source</summary>

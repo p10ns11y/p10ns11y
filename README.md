@@ -85,19 +85,19 @@ Includes **[eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/
 
 **Learn** — systems product thinking; self-audit loops; theming as ergonomics product, not aesthetic cosplay.
 
-### [skills](https://github.com/p10ns11y/skills) · `Shell` · `Python` · `JavaScript`
+### [skills](https://github.com/p10ns11y/skills) · `Shell` · `Python` · `JavaScript` · [skills.sh](https://skills.sh/p10ns11y/skills)
 
 Skills **extracted from real projects** (orchestration, security, multi-agent work) — not generic prompt packs.
 
 **Learn** — skills as reusable engineering assets; high-signal packaging over chat trivia.
 
-### [adaptate](https://github.com/p10ns11y/adaptate) · `TypeScript`
+### [adaptate](https://github.com/p10ns11y/adaptate) · `TypeScript` · [npm](https://www.npmjs.com/package/adaptate)
 
 One optional Zod model → **per-consumer required fields at runtime**, with OpenAPI interop — static schemas stop where multi-tenant APIs start.
 
 **Learn** — validation as product API; schema craft that scales without duplication.
 
-### [elomaxz](https://github.com/p10ns11y/elomaxz) · `C`
+### [elomaxz](https://github.com/p10ns11y/elomaxz) · `C` · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 
 **Elm-style MVU for C** (program core, Cmd/Effect, composition) — predictable architecture on pure C. Powers **[premflow](https://github.com/thecuriousts/premflow)** (daily-driver CLI) as real dogfood.
 
@@ -109,19 +109,19 @@ Privacy-first harvest of **your own** agent transcripts → datasets, skills, go
 
 **Learn** — agent tooling as data product; local-first pipelines.
 
-### [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself) · `Python`
+### [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself) · `Python` · [Live](https://prototype-it-to-explain-itself.sathyam-peram.workers.dev/)
 
 Tiny trainable LSTM + minimal ReAct so **the code teaches the idea** — education, not production AI infra.
 
 **Learn** — first-principles LLM mechanics you can inspect and re-run in an afternoon.
 
-### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · `TypeScript` · `Rust` · `WASM`
+### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · `TypeScript` · `Rust` · `WASM` · [Live](https://seiyul-alagi.vercel.app/)
 
 Tamil classical grammar & poem prosody (metres, segmentation) — **rare domain software** with a Rust/WASM hot path and modern web UI.
 
 **Learn** — cultural-computational product design; WASM for linguistic structure.
 
-### [devprofile](https://github.com/p10ns11y/devprofile) · `TypeScript`
+### [devprofile](https://github.com/p10ns11y/devprofile) · `TypeScript` · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 
 Portfolio as a **live product**: agent-oriented Q&A, document views, automated PDF CV — presence engineered, not a static README clone.
 

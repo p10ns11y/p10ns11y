@@ -45,8 +45,8 @@ Each entry: **what’s unique** · **languages** · **why look it up** (product 
   **Learn:** validation as product API; schema craft that scales across clients without duplication.
 
 - **[elomaxz](https://github.com/p10ns11y/elomaxz)** · *C*  
-  **Elm-style MVU for C** (program core, Cmd/Effect, composition) — almost no prior art bringing predictable UI/systems architecture to pure C.  
-  **Learn:** functional architecture under systems constraints; testable C without abandoning the metal.
+  **Elm-style MVU for C** (program core, Cmd/Effect, composition) — almost no prior art bringing predictable UI/systems architecture to pure C. Powers **[premflow](https://github.com/thecuriousts/premflow)** (daily-driver CLI) as a real dogfood of the framework.  
+  **Learn:** functional architecture under systems constraints; testable C without abandoning the metal; frameworks proven by a product you use every day.
 
 - **[agent-prompt-tuning-lab](https://github.com/p10ns11y/agent-prompt-tuning-lab)** · *JavaScript*  
   Privacy-first harvest of **your own** agent transcripts → normalized datasets, skills, and gold exemplars — turn usage into training material without shipping chats to the cloud.  
@@ -101,14 +101,16 @@ All packages on **[npmjs.com/~p10ns11y](https://www.npmjs.com/~p10ns11y)** (late
 <details>
 <summary>Exploring</summary>
 
-Local-first AI · [premflow](https://github.com/thecuriousts/premflow) (C daily-driver CLI) · quiet automation · [high-signal thesis insight (2016 → 2026)](https://x.com/Peramanathan/status/2035707867844809074)
+- **Local-first AI & quiet automation** — agent workflows that respect device, attention, and data boundaries
+- **[premflow](https://github.com/thecuriousts/premflow)** · *C* — daily-driver CLI (notes, tasks, pomodoro, journal); built on **[elomaxz](https://github.com/p10ns11y/elomaxz)** MVU
+- **Long arc** — [2016 Master’s thesis: energy-efficient mobile IoT / EEaaS](https://x.com/Peramanathan/status/2035707867844809074) (*Enabling Energy-Efficient Data Communication with Participatory Sensing and Mobile Cloud*; IEEE CloudCom 2015) — not “battery tips,” but an **orchestrator that profiles, predicts, and acts** under constraint (participatory sensing, knowledge graphs, context-aware policy). In 2026 that same shape is the default stack problem for AI: where inference runs (cloud · edge · on-device NPU), what data leaves the machine, and how agents spend energy and attention without thrashing. The durable insight: **intelligence that respects cost and locality compounds; blanket centralization taxes humans.** · [Articles on X](https://x.com/Peramanathan/articles)
 
 </details>
 
 <details>
 <summary>Connect</summary>
 
-[@peramanathan](https://x.com/peramanathan) · [CV](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [sathyam.peram@gmail.com](mailto:sathyam.peram@gmail.com)
+[@peramanathan](https://x.com/peramanathan) · [Articles](https://x.com/Peramanathan/articles) · [CV](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [sathyam.peram@gmail.com](mailto:sathyam.peram@gmail.com)
 
 </details>
 

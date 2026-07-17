@@ -34,7 +34,8 @@ Each entry: **what’s unique** · **languages** · **why look it up** (product 
 
 - **[arch-machine](https://github.com/p10ns11y/arch-machine)** · *Shell · Python*  
   Profile-based Arch bootstrap that **audits and hardens itself** into an ML/AI-ready workstation — installer as ongoing security product, not a one-shot script.  
-  **Learn:** systems product thinking; self-audit loops; turning “fresh install pain” into maintainable infrastructure.
+  Includes **[eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/modules/productivity/eye-comfort)** — not random desktop theming: **vision-science circadian phases** (warm nights, soft days, dawn/dusk transitions), solar boundaries from latitude, and **location / culture / season** overlays (e.g. Tamil tinai · perum · nāḻikai) so the palette respects place, calendar, and eyes on long coding sessions.  
+  **Learn:** systems product thinking; self-audit loops; theming as ergonomics product, not aesthetic cosplay.
 
 - **[skills](https://github.com/p10ns11y/skills)** · *Shell · Python · JavaScript*  
   Skills **extracted from real projects** (orchestration, security, multi-agent concurrent work) — not generic prompt packs.  

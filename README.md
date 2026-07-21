@@ -48,9 +48,9 @@ I turn personal friction into public tools and dig into the *why* behind the lib
 
 ## An inch at a time
 
-**Featured** and **Cooking** did not come from a master plan. They grow the way real craft does: a spark on [X](https://x.com/peramanathan), friction from another domain, a personal limit, a season of life you cannot negotiate away — then the need to *make something* so the constraint loses a little power.
+**Featured** and **Cooking** did not start as a spreadsheet of destinies. They grow the way real craft does: a spark on [X](https://x.com/peramanathan), friction from another domain, a personal limit, a season of life you cannot negotiate away — then the need to *make something* so the constraint loses a little power. One thing triggers the next. Connections often show up *after* you move.
 
-One thing triggers the next. Connections show up after you move. Exploration under real limits beats over-planning everything early and shipping nothing.
+That is not anti-planning. Once requirements are **crystal clear**, I plan deeper: which areas and projects need energy, what is time-sensitive now, what is long-term attention. Until then the field is chaotic by nature — prolonged, consistent effort is how chaos becomes harmony and work starts to feel almost effortless. A true **master plan**, to me, is only one thing: an interconnected, inter-related web of **friction-removing automations** aimed at **impossible missions** that great vision makes real. I strongly endorse the pioneering lead of Tesla and SpaceX on that path.
 
 | | After Oneflow · Dec 2024 |
 | --- | --- |

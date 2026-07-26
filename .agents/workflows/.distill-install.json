@@ -1,6 +1,6 @@
 {
   "profile": "p10ns11y",
-  "source_drafts": "~/Work/personal/agent-prompt-tuning-lab/data/distill/20260725-153622/drafts",
+  "source_drafts": "data/distill/20260725-153622/drafts",
   "installed_at": "2026-07-25T16:36:10.828Z",
   "note": "Kept portfolio-daily-update and github-cards-dashboard-sync (domain fit for this site).",
   "workflows": [
@@ -8,5 +8,6 @@
     "github-cards-dashboard-sync"
   ],
   "skills": [],
-  "rules": []
+  "rules": [],
+  "distill_run": "20260725-153622"
 }

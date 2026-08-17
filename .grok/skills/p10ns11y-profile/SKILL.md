@@ -26,7 +26,7 @@ Skip: bio/`hireable` (needs `gh auth refresh -s user`). Live employer / apply st
 |---|----|--------|
 | 1 | Identity first: **this stack does not recur** | Product billboard, second H1, for-the-badge stack |
 | 2 | Claim → proof → click | Essay, TED on planning, “Now shipping” tables (they rot) |
-| 3 | Map **2015 name → 2026 AI name** (profile/predict/act, energy indicator → decision indicator, escalate) | “Same loop,” “same three steps,” “same machine” with no mapping |
+| 3 | Map **2015 box → 2026 clothes**: orchestrator, temporal–spatial, knowledge graph, control box, wisdom box — plus profile/predict/act | “Same loop / same machine” with no names. Do not claim lab internals (operator has not worked inside a big lab). Critic: KG is often **vectors**, not a property graph |
 | 4 | Spell every term on first use | Hanging KEI/KDI/MVU/RAG/PERT/`a/m/b`/ACP/HOOTL/EEaaS |
 | 5 | Unique **today** from **reading the repo** | Slogans, memory-as-timeline |
 | 6 | Git `created_at` / `pushed_at` for dates | “After Oneflow” as origin (ama-about-me is **Sep 2024**) |

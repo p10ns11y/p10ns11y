@@ -49,17 +49,18 @@ Stockholm · TypeScript · Rust · C
 - **Arch Linux themed by Tamil landscape-seasons (*tinai*) and circadian (body-clock) science** — [arch-machine](https://github.com/p10ns11y/arch-machine)
 - **Tamil poetic metre in Rust compiled to WebAssembly** — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
 
-[Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915) — each 2015 block has a 2026 name ([diagrams on /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus)):
+[Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). The **boxes** still show up in public agent stacks. I have **not** sat inside a big-lab cluster — this is what papers, APIs, and harnesses expose. Clothes change. ([/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus))
 
-| 2015 · phones | 2026 · agents |
-| --- | --- |
-| **Profile** the device (battery, radio, apps) | **Profile** the session: tool outcomes, user corrections, confidence — not a dump of every token |
-| **Predict** the next energy state | **Predict** whether the local model is enough or a threshold will fire |
-| **Act** (change radio / policy on the phone) | **Act**: run locally, or **escalate** to a larger cloud model / Grok / a tool |
-| **Key Energy Indicators** — few cheap signals; stop streaming raw telemetry | **Key Decision Indicators** — few cheap signals that actually change policy; prune logs and memory writes that do not earn keep |
-| Spend joules **only when a signal earns it** | Spend **tokens, watts, and attention** only when a Key Decision Indicator earns it |
+| 2015 box | What it did on the phone | 2026 clothes (what you actually see) |
+| --- | --- | --- |
+| **Orchestrator** (“epic predictor”) | Profile → predict → act under battery/radio cost | Agent **harness** / graph runtime (Grok outer loop, LangGraph-style controllers, permission tethers) |
+| **Temporal–spatial context** | Time of day + place change the policy | **When and where** still route work: region, on-device vs cloud, session hour, data-residency — not Tamil *tinai* inside a lab, but **time and place still decide the spend** |
+| **Dynamic knowledge graph** | Organize logs so the next decision is cheaper | Organized memory: **xAI Collections**, embeddings, sometimes GraphRAG. Critic: most stacks use **vectors**, not a property graph. The job is the same — structure what you keep |
+| **Control box** | Actuator / policy: change radio, cap sensors | **Guards**: tool allowlists, rate limits, pause-on-cost, “never overwrite the master CV” |
+| **Wisdom box** | Learned Key Energy Indicators — *when* a signal earns an act | **Router + eval**: which model, when to escalate, what to remember. Labs say “router” / “eval harness.” The function is yours; the name is theirs |
+| **Key Energy Indicators** | Few cheap signals; stop streaming raw telemetry | **Key Decision Indicators**: tool outcomes, corrections, confidence — prune dumps that do not change policy |
 
-Not a metaphor. The boxes renamed. The bills are tokens and attention, not only battery.
+I do **not** claim I designed GPT or Grok. I claim these five boxes keep reappearing. If a lab hid a sixth, I would not know.
 
 **Now:** I **changed** Grok Build (not only read it) and saw **slight** drops in tokens and dollar cost. I will **not** spend the rest of my token quota to prove overall speed or answer quality. The target is still **quality of outcome per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 

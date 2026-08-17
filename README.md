@@ -48,111 +48,77 @@ I turn personal friction into public tools. Side experiments: [@thecuriousts](ht
 
 ## An inch at a time
 
-**Featured** and **Cooking** did not start as a spreadsheet of destinies. They grow the way real craft does: a spark on [X](https://x.com/peramanathan), friction from another domain, a personal limit, a season of life you cannot negotiate away — then the need to *make something* so the constraint loses a little power. One thing triggers the next. Connections often show up *after* you move.
-
-That is not anti-planning. Once requirements are **crystal clear**, I plan deeper: which areas and projects need energy, what is time-sensitive now, what is long-term attention. Until then the field is chaotic by nature — prolonged, consistent effort is how chaos becomes harmony and work starts to feel almost effortless. A true **master plan**, to me, is only one thing: an interconnected, inter-related web of **friction-removing automations** aimed at **impossible missions** that great vision makes real. I strongly endorse the pioneering lead of Tesla and SpaceX on that path.
-
-| | After Oneflow · Dec 2024 |
-| --- | --- |
-| **Start** | [adaptate](https://github.com/p10ns11y/adaptate) → [ama-about-me](https://github.com/p10ns11y/ama-about-me) (prototype from AI course content · personal tech stack) → [devprofile](https://github.com/p10ns11y/devprofile) |
-| **Pause** | **DAD duty** · months of quiet |
-| **Stretch** | Engineering craft + systems thinking — an inch at a time, the graph forming itself |
-
-> If you are waiting for perfect conditions: start with the friction in front of you.  
-> The list below is what that looks like when you keep going.
+I do not wait for a clean roadmap. Friction shows up — a season of life, a spark on [X](https://x.com/peramanathan) — and I **build the next link** so the constraint loses power. After Oneflow (Dec 2024): [adaptate](https://github.com/p10ns11y/adaptate) → [ama-about-me](https://github.com/p10ns11y/ama-about-me) → [devprofile](https://github.com/p10ns11y/devprofile), then months of **DAD duty**, then the graph below. Tesla / SpaceX shape is the bar: a web of automations aimed at an impossible mission — not a prettier backlog.
 
 ## Featured
 
-What’s unique · stack · why look it up. The chain above is how they arrived.
+Each one is something you have not already seen ten times this week. Click it.
 
-### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [collab-finder](https://github.com/p10ns11y/collab-finder) · `TypeScript` · `Rust`
+### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [source](https://github.com/p10ns11y/collab-finder) · TS · Rust
 
-**v2 is a binary you can run.** Self-guarded Tauri reactor: live X search + xAI fit/prep, SQLite ledger, secrets in Rust, **Heading** screen for the next act. Pause guards so agents stop instead of thrashing.
+**A desktop agent reactor you install.** Not a job-board scraper. Live X + xAI fit/prep, SQLite ledger, secrets stay in Rust, **Heading** is the next act. Agents pause instead of thrashing. [Download v2](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64).
 
-**Learn** — productized agent autonomy with honest HITL; MVU desktop; credential boundaries that survive real use.
+### [elomaxz](https://github.com/p10ns11y/elomaxz) · C · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 
-### [shellyxz.sh](https://github.com/p10ns11y/shellyxz.sh) · `Shell`
+**Elm MVU — in C.** Program, Cmd, Effect, composition. Not a blog post: it drives **[premflow](https://github.com/thecuriousts/premflow)**, the CLI I actually open every day.
 
-Not another dotfiles dump — a **kernel/plugin shell** (zsh · bash · fish) with PATH contract, environment presets, and an `ab`/`av`/`at` verification cockpit for reviewing agent work.
+### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TS · Rust · WASM · [Live](https://seiyul-alagi.vercel.app/)
 
-**Learn** — portable shell product design; plugin boundaries; terminal UX for AI-era operators.
+Tamil classical **metre and grammar as software**. Hot path in Rust/WASM. You will not find this product on another engineer’s pin board.
 
-### [arch-machine](https://github.com/p10ns11y/arch-machine) · `Shell` · `Python`
+### [arch-machine](https://github.com/p10ns11y/arch-machine) · Shell · Python
 
-Profile-based Arch bootstrap that **audits and hardens itself** into an ML/AI-ready workstation — installer as ongoing security product, not a one-shot script.
+Arch that **audits itself** into an ML workstation. [eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/modules/productivity/eye-comfort) is not a theme pack: **circadian science + latitude + Tamil tinai / nāḻikai** so the machine respects eyes, place, and season.
 
-Includes **[eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/modules/productivity/eye-comfort)** — not random theming: **vision-science circadian phases** (warm nights, soft days, dawn/dusk), solar bounds from latitude, and **location / culture / season** overlays (Tamil tinai · perum · nāḻikai) so the palette respects place, calendar, and eyes on long sessions.
+### [shellyxz.sh](https://github.com/p10ns11y/shellyxz.sh) · Shell
 
-**Learn** — systems product thinking; self-audit loops; theming as ergonomics product, not aesthetic cosplay.
+Kernel/plugin shell (zsh · bash · fish). PATH contract. `ab` / `av` / `at` cockpit so you can **review agent work** instead of drowning in it.
 
-### [skills](https://github.com/p10ns11y/skills) · `Shell` · `Python` · `JavaScript` · [skills.sh](https://skills.sh/p10ns11y/skills)
+### [adaptate](https://github.com/p10ns11y/adaptate) · TS · [npm](https://www.npmjs.com/package/adaptate)
 
-Skills **extracted from real projects** (orchestration, security, multi-agent work) — not generic prompt packs.
+One Zod model. **Each consumer declares required fields at runtime.** Static OpenAPI stops where multi-tenant APIs start.
 
-**Learn** — skills as reusable engineering assets; high-signal packaging over chat trivia.
+### [skills](https://github.com/p10ns11y/skills) · [skills.sh](https://skills.sh/p10ns11y/skills)
 
-### [adaptate](https://github.com/p10ns11y/adaptate) · `TypeScript` · [npm](https://www.npmjs.com/package/adaptate)
+Skills **cut from real repos** (orchestration, security, multi-agent) — not a prompt dump with a pretty landing page.
 
-One optional Zod model → **per-consumer required fields at runtime**, with OpenAPI interop — static schemas stop where multi-tenant APIs start.
+### [agent-prompt-tuning-lab](https://github.com/p10ns11y/agent-prompt-tuning-lab) · JS
 
-**Learn** — validation as product API; schema craft that scales without duplication.
+Your agent transcripts → datasets and gold exemplars. **Nothing leaves the machine.**
 
-### [elomaxz](https://github.com/p10ns11y/elomaxz) · `C` · [on X](https://x.com/Peramanathan/status/2060627340972151099)
+### [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself) · Python · [Live](https://prototype-it-to-explain-itself.sathyam-peram.workers.dev/)
 
-**Elm-style MVU for C** (program core, Cmd/Effect, composition) — predictable architecture on pure C. Powers **[premflow](https://github.com/thecuriousts/premflow)** (daily-driver CLI) as real dogfood.
+A tiny LSTM + ReAct **that teaches the idea**. Afternoon, not a platform.
 
-**Learn** — functional architecture under systems constraints; frameworks proven by a product you use every day.
+### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 
-### [agent-prompt-tuning-lab](https://github.com/p10ns11y/agent-prompt-tuning-lab) · `JavaScript`
-
-Privacy-first harvest of **your own** agent transcripts → datasets, skills, gold exemplars — training material without shipping chats to the cloud.
-
-**Learn** — agent tooling as data product; local-first pipelines.
-
-### [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself) · `Python` · [Live](https://prototype-it-to-explain-itself.sathyam-peram.workers.dev/)
-
-Tiny trainable LSTM + minimal ReAct so **the code teaches the idea** — education, not production AI infra.
-
-**Learn** — first-principles LLM mechanics you can inspect and re-run in an afternoon.
-
-### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · `TypeScript` · `Rust` · `WASM` · [Live](https://seiyul-alagi.vercel.app/)
-
-Tamil classical grammar & poem prosody (metres, segmentation) — **rare domain software** with a Rust/WASM hot path and modern web UI.
-
-**Learn** — cultural-computational product design; WASM for linguistic structure.
-
-### [devprofile](https://github.com/p10ns11y/devprofile) · `TypeScript` · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/)
-
-Portfolio as a **live product**: agent-oriented Q&A, document views, automated PDF CV — presence engineered, not a static README clone.
-
-**Learn** — Next.js product polish; CV/PDF pipelines; personal brand as maintainable software.
+The site is a product: Q&A, PDF CV, [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Not a README screenshot.
 
 ## Cooking
 
-Still under heat — and a little **semi-planned**: as more work can be delegated to agent systems, it helps to see overall progress without killing **natural inception** (spark → friction → next link).
+Hot. Not a status report.
 
-| | Stack | Watch for |
-| --- | --- | --- |
-| **[ensembly](https://github.com/thecuriousts/ensembly)** | JS · Rust · WASM | *Game of Peram*: life as a playable system (beacons, HITL, local kernel). You keep body-world work and authorization. |
-| **[life-os](https://github.com/p10ns11y/life-os)** | Markdown · Obsidian | Agentic vault (Projects · Areas · schema · energy). Portfolio memory — not the runtime clone (ensembly). |
-| **[plugins](https://github.com/p10ns11y/plugins)** | Markdown · Shell · C · Rust | Grok plugins. **mission-map**: critical path, heading mermaid, nightly graph. Pairs with kanithanj.ai. |
-| **[premflow](https://github.com/thecuriousts/premflow)** | `C` · [elomaxz](https://github.com/p10ns11y/elomaxz) | Daily-driver CLI — dogfood for MVU-in-C; ledger agents and humans actually share. |
-| **Local-first AI & quiet automation** | agents · device | Respect device, attention, and data boundaries — progress you can audit. |
+| | Why it exists |
+| --- | --- |
+| **[ensembly](https://github.com/thecuriousts/ensembly)** | Life as a playable system — HITL, beacons, you keep authorization. |
+| **[life-os](https://github.com/p10ns11y/life-os)** | Vault memory. ensembly is the runtime. They do not merge. |
+| **[plugins](https://github.com/p10ns11y/plugins)** | Grok skills that run real CLIs. **mission-map** is the heading math behind kanithanj.ai. |
+| **[premflow](https://github.com/thecuriousts/premflow)** | Daily ledger in C. If MVU-in-C were a toy, I would not live in it. |
 
 ## Proof of concepts
 
-Shipped to learn — live surfaces, not daily drivers. Useful when you want the idea under your fingers before productizing.
+Live. You can click. They are not the product — they prove I ship the idea, not a slide.
 
-| | Stack | What it proves |
-| --- | --- | --- |
-| **[v0-live-feed-app](https://github.com/p10ns11y/v0-live-feed-app)** | TypeScript · v0 | X “For You” feed re-imagined as a technical flow (data / ML can plug in from open `x-algorithm`). [Live prototype](https://v0-live-feed-app.vercel.app/) |
-| **[selfie-sign-in-flow-using-v0-xAI](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)** | TypeScript · AWS Rekognition · XState | Face auth end-to-end: multi-angle enroll → train → login with selfie — state machine + complex UI, not a mock. [Live prototype](https://v0-selfie-sign-in-process.vercel.app) |
+| | Proof |
+| --- | --- |
+| **[v0-live-feed](https://v0-live-feed-app.vercel.app/)** | X “For You” as a technical flow, not a clone of the chrome. [repo](https://github.com/p10ns11y/v0-live-feed-app) |
+| **[selfie sign-in](https://v0-selfie-sign-in-process.vercel.app)** | Enroll → train → login with a face. XState + Rekognition. [repo](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI) |
 
 ## Long arc
 
-Two habits that outlast any single project: **orchestrate under constraint**, and when the calendar slips, **ship more than was asked** — deeper work, not a thin late apology.
+**Orchestrate under constraint.** When the calendar slips, **ship more than was asked** — not a thin late apology.
 
-Core idea (thesis → 2026): an **orchestrator that profiles, predicts, and acts** under constraint — not “battery tips.” Same shape as today’s AI stack problem: where inference runs (cloud · edge · on-device NPU), what data leaves the machine, how agents spend energy and attention. **Intelligence that respects cost and locality compounds; blanket centralization taxes humans.** Readable version: [devprofile /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
+2015: energy as an **orchestration service** on phones (profile · predict · act). 2026: the same shape — tokens, locality, attention. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
 
 <details>
 <summary>Thesis & papers · 2015–2017</summary>
@@ -186,31 +152,19 @@ Uppsala Machine Learning course (CMU-style project lineage). The assignment ran 
 
 ## Writing & packages
 
-### Writing
+I write when the stake is real — [long-form on X](https://x.com/Peramanathan/articles), not take-farming. [Rust from First Principles](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf) is a companion, not a tutorial dump.
 
-- **[Articles on X](https://x.com/Peramanathan/articles)** — culture, health, tech, policy; careful long-form when stakes feel real, not take-farming.
-- **Books** — [Rust from First Principles Companion](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf) — language nuances, interconnectedness, non-linear learning (with Grok). From [shelf-life](https://github.com/thecuriousts/shelf-life).
-
-### npm · [~p10ns11y](https://www.npmjs.com/~p10ns11y)
-
-Latest first · first-publish year.
-
-| Package | Year |
-| --- | --- |
-| [`adaptate`](https://www.npmjs.com/package/adaptate) · [`@adaptate/core`](https://www.npmjs.com/package/@adaptate/core) · [`@adaptate/utils`](https://www.npmjs.com/package/@adaptate/utils) | **2024** |
-| [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy) | **2021** |
-| [`react-redux-quest`](https://www.npmjs.com/package/react-redux-quest) | **2018** |
-| [`babel-plugin-react-intl-messages-generator`](https://www.npmjs.com/package/babel-plugin-react-intl-messages-generator) | **2017** |
+npm since **2017**: [`adaptate`](https://www.npmjs.com/package/adaptate) (2024) · [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy) (2021) · [`react-redux-quest`](https://www.npmjs.com/package/react-redux-quest) (2018) · [`babel-plugin-react-intl-messages-generator`](https://www.npmjs.com/package/babel-plugin-react-intl-messages-generator) (2017). [~p10ns11y](https://www.npmjs.com/~p10ns11y)
 
 ## More
 
 <details>
-<summary>Open source</summary>
+<summary>Open source — landed in other people’s trees</summary>
 
-- **Zod** — nullish chaining ([PR #1702](https://github.com/colinhacks/zod/pull/1702), 2022)
+- **Zod** nullish chaining — [PR #1702](https://github.com/colinhacks/zod/pull/1702) (2022)
 - **react-intl** — [babel-plugin-react-intl-messages-generator](https://www.npmjs.com/package/babel-plugin-react-intl-messages-generator) (2017)
-- **Kent C. Dodds' ecosystem** — [bookshelf #116](https://github.com/kentcdodds/bookshelf/pull/116) · [bookshelf #184](https://github.com/kentcdodds/bookshelf/pull/184) · [testing-react-apps #39](https://github.com/kentcdodds/testing-react-apps/pull/39) · [#42](https://github.com/kentcdodds/testing-react-apps/pull/42) (2020–2021)
-- **React Boilerplate** — [PR #1355](https://github.com/react-boilerplate/react-boilerplate/pull/1355) (merged 2016) · [PR #1364](https://github.com/react-boilerplate/react-boilerplate/pull/1364) · [PR #1167](https://github.com/react-boilerplate/react-boilerplate/pull/1167)
+- **Kent C. Dodds** — [bookshelf #116](https://github.com/kentcdodds/bookshelf/pull/116) · [#184](https://github.com/kentcdodds/bookshelf/pull/184) · [testing-react-apps #39](https://github.com/kentcdodds/testing-react-apps/pull/39) · [#42](https://github.com/kentcdodds/testing-react-apps/pull/42)
+- **React Boilerplate** — [PR #1355](https://github.com/react-boilerplate/react-boilerplate/pull/1355) (merged **2016**) · [#1364](https://github.com/react-boilerplate/react-boilerplate/pull/1364) · [#1167](https://github.com/react-boilerplate/react-boilerplate/pull/1167)
 
 </details>
 
@@ -222,12 +176,9 @@ Latest first · first-publish year.
 </details>
 
 <details>
-<summary>Archive</summary>
+<summary>Archive — I was already public before it was a brand</summary>
 
-Public writing and side sites that never left the map. Two seasons:
-
-1. **Uppsala University** (academic · pre-professional) — Blogspot years with room to wander in public.
-2. **Professional life** — personal site + tech blog under a **low time budget**; neither quite became a habit. Honest archive, not a victory lap.
+Uppsala years: room to wander. Pro years: low time budget, honest stubs — not a victory lap.
 
 <details>
 <summary>Surfaces · samples · stubs</summary>
@@ -261,6 +212,6 @@ Public writing and side sites that never left the map. Two seasons:
 
 <br />
 
-<sub>Built in public · Always learning · An inch at a time</sub>
+<sub>If this still looks like everyone else — you skimmed.</sub>
 
 </div>

@@ -11,7 +11,7 @@ description: >
 > **Load rule:** This file is the **taste + procedure**. Do **not** re-read the 2026-08-17 chat. Do **not** rewrite the whole README for a one-line fix.
 
 **Repo:** `p10ns11y/p10ns11y` · **File:** `README.md` · **Live:** https://github.com/p10ns11y  
-**Token budget:** one targeted `Read` of the section you touch + this skill. Cap ~20% of a session. No full-file rewrite unless the user asked “end to end.”
+**Token budget:** this skill + the section you touch. **Optimal ~2% of a session, hard max 6%.** One targeted `Read`. No full-file rewrite unless the user asked “end to end.” Do not re-read the 2026-08-17 chat.
 
 ## When to use
 

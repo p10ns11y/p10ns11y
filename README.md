@@ -64,11 +64,11 @@ Each one is something you have not already seen ten times this week. Click it.
 
 ### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TS · Rust · WASM · [Live](https://seiyul-alagi.vercel.app/)
 
-Tamil classical **metre and grammar as software**. Hot path in Rust/WASM. You will not find this product on another engineer’s pin board.
+Tamil metre as a **plant you can estimate**. Parser emits a **51-dim feature vector** (counts, linkage histograms — **no raw text**). **Offline:** Monte Carlo, PCA/LDA, hybrid-logit fit, HMM/CRF sketches, control-style observer vs controller. **Online:** WASM **predicts** metre on every parse (heuristic + shipped weights). Classical yāppu *and* a data-mining / control loop. You will not find this on another pin board.
 
-### [arch-machine](https://github.com/p10ns11y/arch-machine) · Shell · Python
+### [arch-machine](https://github.com/p10ns11y/arch-machine) · Shell · Python · Rust
 
-Arch that **audits itself** into an ML workstation. [eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/modules/productivity/eye-comfort) is not a theme pack: **circadian science + latitude + Tamil tinai / nāḻikai** so the machine respects eyes, place, and season.
+Not an install script. **`archy`** is an Eagle + satellites control plane: thin host → **ml-dev / security-dev** profiles, **self-audit**, evidence bundles, inventory, weekly scans. **groxy** talks to a Grok agent (ACP) or pings you on X. [eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/modules/productivity/eye-comfort): circadian science + latitude + Tamil tinai / nāḻikai. The workstation is a product.
 
 ### [shellyxz.sh](https://github.com/p10ns11y/shellyxz.sh) · Shell
 

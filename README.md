@@ -2,49 +2,53 @@
 
 # Peramanathan Sathyamoorthy
 
-**Builder of useful things** · open source tinkerer · **LEA**r**NING** in re**PUBLIC**
+**Stockholm** · TypeScript · Rust · C
+
+I ship the control plane I wish every agent had.
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
+# [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
+
+### Download. Run. See the next act.
+
+[![Download v2 · Linux x86_64](https://img.shields.io/badge/Download-kanithanj.ai%20v2-7c3aed?style=for-the-badge)](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64)
 &nbsp;
+[![Release](https://img.shields.io/github/v/release/p10ns11y/collab-finder?style=for-the-badge&label=v2)](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
+
+<sub>Arch / Omarchy · GTK 3 + WebKitGTK 4.1 · not a job-board scraper</sub>
+
+<br />
+
 [![CV](https://img.shields.io/badge/CV-live-0891b2?style=flat-square)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 &nbsp;
 [![X](https://img.shields.io/badge/X-@peramanathan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/peramanathan)
 &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
+&nbsp;
 [![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~p10ns11y)
 &nbsp;
 [![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thecuriousts)
-&nbsp;
-[![GitRoll](https://img.shields.io/badge/GitRoll-FF6B6B?style=flat-square)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
-&nbsp;
-[![Grokipedia](https://img.shields.io/badge/Grokipedia-00A3E0?style=flat-square)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
-&nbsp;
-[![skills.sh](https://skills.sh/b/p10ns11y/skills)](https://skills.sh/p10ns11y/skills)
-
-<br />
-
-<sub>
-<a href="#an-inch-at-a-time">story</a>
-·
-<a href="#featured">featured</a>
-·
-<a href="#cooking">cooking</a>
-·
-<a href="#proof-of-concepts">pocs</a>
-·
-<a href="#long-arc">long arc</a>
-·
-<a href="#writing--packages">writing</a>
-·
-<a href="#more">more</a>
-</sub>
 
 </div>
 
----
+```bash
+curl -fsSL -o kanithanj.ai \
+  https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64
+chmod +x kanithanj.ai && ./kanithanj.ai
+```
 
-I turn personal friction into public tools and dig into the *why* behind the libraries I use. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
+A **heading cockpit**: one next action, live fit/prep, SQLite ledger. Built because the hiring loop is too slow if you wait for dashboards to grow up.
+
+## Now shipping
+
+| | What a hiring loop can see **this week** |
+|---|---|
+| **[kanithanj.ai v2](https://github.com/p10ns11y/collab-finder/releases/tag/v2)** | Linux binary. Heading screen. Open posting / copy mail / next act. |
+| **[mission-map](https://github.com/p10ns11y/plugins/tree/feat/mission-map-heading/mission-map)** | Critical path, Sweden-round weeks, nightly graph. [PR #7](https://github.com/p10ns11y/plugins/pull/7). |
+| **[arch-machine personal-tweaks](https://github.com/p10ns11y/arch-machine/pull/38)** | New Omarchy box: waybar chip + 20:00 timer + Walker entry. [PR #38](https://github.com/p10ns11y/arch-machine/pull/38). |
+
+I turn personal friction into public tools. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
 ## An inch at a time
 
@@ -65,9 +69,9 @@ That is not anti-planning. Once requirements are **crystal clear**, I plan deepe
 
 What’s unique · stack · why look it up. The chain above is how they arrived.
 
-### [collab-finder](https://github.com/p10ns11y/collab-finder) · `TypeScript` · `Rust`
+### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [collab-finder](https://github.com/p10ns11y/collab-finder) · `TypeScript` · `Rust`
 
-Not a job board scraper — a **self-guarded Tauri reactor**: live X search + xAI fit/prep, SQLite ledger, secrets in Rust, pause guards so agents stop instead of thrashing.
+**v2 is a binary you can run.** Self-guarded Tauri reactor: live X search + xAI fit/prep, SQLite ledger, secrets in Rust, **Heading** screen for the next act. Pause guards so agents stop instead of thrashing.
 
 **Learn** — productized agent autonomy with honest HITL; MVU desktop; credential boundaries that survive real use.
 
@@ -135,7 +139,7 @@ Still under heat — and a little **semi-planned**: as more work can be delegate
 | --- | --- | --- |
 | **[ensembly](https://github.com/thecuriousts/ensembly)** | JS · Rust · WASM | *Game of Peram*: life as a playable system (beacons, HITL, local kernel). You keep body-world work and authorization. |
 | **[life-os](https://github.com/p10ns11y/life-os)** | Markdown · Obsidian | Agentic vault (Projects · Areas · schema · energy). Portfolio memory — not the runtime clone (ensembly). |
-| **[plugins](https://github.com/p10ns11y/plugins)** | Markdown · Shell | Grok/agent plugins (premflow coach/pomo) over real CLIs. |
+| **[plugins](https://github.com/p10ns11y/plugins)** | Markdown · Shell · C · Rust | Grok plugins. **mission-map**: critical path, heading mermaid, nightly graph. Pairs with kanithanj.ai. |
 | **[premflow](https://github.com/thecuriousts/premflow)** | `C` · [elomaxz](https://github.com/p10ns11y/elomaxz) | Daily-driver CLI — dogfood for MVU-in-C; ledger agents and humans actually share. |
 | **Local-first AI & quiet automation** | agents · device | Respect device, attention, and data boundaries — progress you can audit. |
 

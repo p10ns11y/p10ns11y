@@ -92,7 +92,7 @@ Tiny LSTM + ReAct + memory + **self-critique data factory** + typed workflow —
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
-**I do not run an embedding pipeline.** Upload persona/CV to **xAI Collections**; **xAI** chunks and embeds. `/qa` only **searches** (`documents/search`) + Grok. No vectors in my repo. Local `qa-index.json` is fallback when the reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) is the 2015→2026 write-up.
+**The RAG pipeline was already in xAI Collections.** Upload persona/CV — **xAI** chunks and embeds (I noticed the vectors appear on upload; it was not a loud feature while X was still yelling “build your own RAG”). `/qa` only **searches** (`documents/search`) + Grok. I did not stand up an embed factory. Local `qa-index.json` is fallback when the reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
 
 ## Cooking
 

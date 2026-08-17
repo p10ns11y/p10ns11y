@@ -2,11 +2,9 @@
 
 # Peramanathan Sathyamoorthy
 
-`C` · `Python` · `TypeScript` · `Rust`
-
 **Builder of useful things** · open source tinkerer · **LEA**r**NING** in re**PUBLIC**
 
-Stockholm · TypeScript · Rust · C
+Stockholm · C · Python · TypeScript · Rust
 
 [![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
 &nbsp;

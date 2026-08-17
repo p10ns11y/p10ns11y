@@ -44,6 +44,8 @@ Stockholm · TypeScript · Rust · C
 
 One person: **Elm MVU in C**, a **desktop agent reactor you can download** ([kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)), Arch that **themes by Tamil *tinai* and circadian science**, **Tamil metre software** in Rust/WASM — and the same **architecture** I published as [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915): a local **orchestrator** that **profiles, predicts, and acts**; **Key Energy Indicators** so you stop streaming raw telemetry; **escalate** only when a signal earns it. 2026 the parts are the same — KDIs, local-first stack, memory/tool calls as first-class cost — only the unit is tokens and attention, not just joules. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Not a metaphor. Same machine.
 
+**Now:** the **harness** gets better over time. Providers can apply learned optimization; tokens get cheaper. The number I care about is **quality of outcome per token per watt** — not “don’t think about tokens.” Surgical notes from reading Grok Build: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
+
 I turn personal friction into public tools. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
 ## An inch at a time
@@ -56,7 +58,7 @@ I do not wait for a clean roadmap. Friction shows up — a season of life, a spa
 | **Oct–Nov 2024** | [latex-cv](https://github.com/p10ns11y/latex-cv) → [adaptate](https://github.com/p10ns11y/adaptate) on npm |
 | **Dec 2024** | Oneflow closed. The chain did **not** start there. |
 | **2025** | [selfie sign-in](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI) · [Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions) in the toolbar · [devprofile](https://github.com/p10ns11y/devprofile) (Sep) |
-| **Jan–Mar 2026** | [v0-live-feed](https://github.com/p10ns11y/v0-live-feed-app) · **[agenc-protocol](https://github.com/p10ns11y/agenc-protocol)** (Anchor + zkVM guest, public SoT) |
+| **Jan–Mar 2026** | [v0-live-feed](https://github.com/p10ns11y/v0-live-feed-app) · read [agenc-protocol](https://github.com/p10ns11y/agenc-protocol) (**fork** — not my protocol) |
 
 Then DAD duty, then the graph below. Tesla / SpaceX shape is the bar: automations aimed at an impossible mission — not a prettier backlog.
 
@@ -100,13 +102,9 @@ Harvest **Cursor + Grok Build + Kilo + Cline** on disk. Raw transcripts, harness
 
 Tiny LSTM + ReAct + memory + **self-critique data factory** + typed workflow — the agent-improves-itself flywheel you can hold in your head. [repo](https://github.com/p10ns11y/prototype-it-to-explain-itself)
 
-### [agenc-protocol](https://github.com/p10ns11y/agenc-protocol) · Rust · Anchor · zkVM
-
-**Public protocol SoT** (Mar 2026): coordination program, migrations, **zkVM guest**, Marketplace V2 bid RFC, reviewed-task + private-completion flows. Apps and proving stay *out* of this repo on purpose. Rare on a personal pin board.
-
 ### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
 
-Tamil ↔ English **in the toolbar**. Same promise as 2014. 2026 clothes: Manifest V3. Continuity, not a reboot.
+**Stay in the tab.** Highlight a Tamil or English word → meaning in the **toolbar popup**. No new tab, no tab graveyard, no “I’ll look it up later.” That is still the 2026 problem — agents and Grok-on-X win the same way (tap, stay). 2014 promise; Manifest V3 clothes. Wiktionary + Tamil VU **in place**; Grok / Grokipedia only if you *choose* to leave.
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
@@ -138,6 +136,8 @@ Live. You can click. They are not the product — they prove I ship the idea, no
 **Orchestrate under constraint.** When the calendar slips, **ship more than was asked** — not a thin late apology.
 
 2015 phones: **orchestrator · profiler · predictor · policy · selective telemetry · escalate-on-threshold**. 2026 agents: the **same components** — KDIs instead of KEIs, local model then cloud, memory writes treated as energy. Not an analogy. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) and the diagrams.
+
+**Bet:** harnesses compound; providers ship cheaper tokens; I optimize **quality per token per watt**. Local loop first (session files on disk → one lever → re-measure). Fleet learning is the provider’s job. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
 
 <details>
 <summary>Thesis & papers · 2015–2017</summary>

@@ -2,6 +2,8 @@
 
 # Peramanathan Sathyamoorthy
 
+`C` · `Python` · `TypeScript` · `Rust`
+
 **Builder of useful things** · open source tinkerer · **LEA**r**NING** in re**PUBLIC**
 
 Stockholm · TypeScript · Rust · C

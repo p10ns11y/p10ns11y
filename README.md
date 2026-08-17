@@ -119,7 +119,7 @@ Tiny LSTM + ReAct + memory + **self-critique data factory** + typed workflow —
 
 ### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
 
-**Built in a hurry. Used for the thesis.** I wrote [EEaaS](https://ieeexplore.ieee.org/document/7396150) with this in the toolbar: highlight a word → meaning **in the popup** so I could pick a **better word** without leaving the paper. No new tab, no “I’ll look it up later.” That loop is still 2026 — tap, stay, choose. Manifest V3 clothes. Wiktionary + Tamil VU **in place**; Grok / Grokipedia only if you *choose* to leave.
+**Built in a hurry. Used for the thesis.** I wrote [EEaaS](https://ieeexplore.ieee.org/document/7396150) with this in the toolbar: highlight a word → meaning **in the popup** so I could pick a **better word** without leaving the paper. Wiktionary + Tamil VU stay **in the popup** (meaning). Grok / Grokipedia when you want **subject and more context**, not just a gloss — they open out so the extension **does not pay API bills**. Manifest V3 clothes. Same 2026 loop: tap, stay for meaning, go deeper only when you ask.
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 

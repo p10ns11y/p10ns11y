@@ -52,58 +52,58 @@ I do not wait for a clean roadmap. Friction shows up — a season of life, a spa
 
 ## Featured
 
-Each one is something you have not already seen ten times this week. Click it.
+Hard to find this combo **today (17 Aug 2026)** on anyone else’s profile. Each line is from the repo, not a slogan.
 
 ### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [source](https://github.com/p10ns11y/collab-finder) · TS · Rust
 
-**A desktop agent reactor you install.** Not a job-board scraper. Live X + xAI fit/prep, SQLite ledger, secrets stay in Rust, **Heading** is the next act. Agents pause instead of thrashing. [Download v2](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64).
+**Linux binary + Heading cockpit.** You intervene only when **guards** fire (fit, cost, rate, CV promote) — not every step. Secrets in Rust keyring. **Generate apply CV never writes the master.** Waybar writes `open-route=heading` and the app consumes it. [v2](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64).
 
 ### [elomaxz](https://github.com/p10ns11y/elomaxz) · C · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 
-**Elm MVU — in C.** Program, Cmd, Effect, composition. Not a blog post: it drives **[premflow](https://github.com/thecuriousts/premflow)**, the CLI I actually open every day.
+**Elm tagged-msg MVU in C11** — pure `update`, Cmd/Effect shell, actor-style composition. The daily-driver is **[premflow](https://github.com/thecuriousts/premflow)**, not a `counter` demo.
 
 ### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TS · Rust · WASM · [Live](https://seiyul-alagi.vercel.app/)
 
-Tamil metre as a **plant you can estimate**. Parser emits a **51-dim feature vector** (counts, linkage histograms — **no raw text**). **Offline:** Monte Carlo, PCA/LDA, hybrid-logit fit, HMM/CRF sketches, control-style observer vs controller. **Online:** WASM **predicts** metre on every parse (heuristic + shipped weights). Classical yāppu *and* a data-mining / control loop. You will not find this on another pin board.
+**ML beliefs frozen *before* classical metre** (issue #36) so later rules cannot rewrite the story. **51-dim** features (no raw text). Offline: Monte Carlo, PCA/LDA, hybrid-logit, HMM/CRF sketches, plant/observer/controller. Online: WASM **predicts** on every parse. Classical checker stays empty until the evidence is frozen.
 
 ### [arch-machine](https://github.com/p10ns11y/arch-machine) · Shell · Python · Rust
 
-Not an install script. **`archy`** is an Eagle + satellites control plane: thin host → **ml-dev / security-dev** profiles, **self-audit**, evidence bundles, inventory, weekly scans. **groxy** talks to a Grok agent (ACP) or pings you on X. [eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/modules/productivity/eye-comfort): circadian science + latitude + Tamil tinai / nāḻikai. The workstation is a product.
+**`archy`** Eagle + satellites — not a dotfiles dump. Thin host → **ml-dev / security-dev**, evidence bundles, inventory, weekly scans. **groxy** = ACP to a Grok agent *or* notify you on X. eye-comfort: circadian + latitude + **tinai / nāḻikai**. personal-tweaks restore the heading chip after Omarchy wipes waybar.
 
 ### [shellyxz.sh](https://github.com/p10ns11y/shellyxz.sh) · Shell
 
-Kernel/plugin shell (zsh · bash · fish). PATH contract. `ab` / `av` / `at` cockpit so you can **review agent work** instead of drowning in it.
+**Kernel vs plugin** (zsh · bash · fish) with a PATH contract and `ab` / `av` / `at` verify cockpit. Ontology skill so agents stop moving files across the kernel boundary.
 
 ### [adaptate](https://github.com/p10ns11y/adaptate) · TS · [npm](https://www.npmjs.com/package/adaptate)
 
-One Zod model. **Each consumer declares required fields at runtime.** Static OpenAPI stops where multi-tenant APIs start.
+One optional Zod model. **Each consumer names required fields at runtime.** OpenAPI `$ref` in, Zod out. Multi-tenant APIs where static “required:” dies.
 
 ### [skills](https://github.com/p10ns11y/skills) · [skills.sh](https://skills.sh/p10ns11y/skills)
 
-Skills **cut from real repos** (orchestration, security, multi-agent) — not a prompt dump with a pretty landing page.
+**Scars, not best-practices.** Formal-first `SKILL.md` + EVA emptiness + fission/fusion + **CLT DualLoad** (human WM vs agent parallel). Extracted after the fighting stopped — not designed in a vacuum.
 
 ### [agent-prompt-tuning-lab](https://github.com/p10ns11y/agent-prompt-tuning-lab) · JS
 
-Your agent transcripts → datasets and gold exemplars. **Nothing leaves the machine.**
+Harvest **Cursor + Grok Build + Kilo + Cline** on your disk → normalize → **distill into Rhai workflows**. No bundled dataset. Nothing leaves the machine.
 
 ### [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself) · Python · [Live](https://prototype-it-to-explain-itself.sathyam-peram.workers.dev/)
 
-A tiny LSTM + ReAct **that teaches the idea**. Afternoon, not a platform.
+Tiny LSTM + ReAct + memory + **self-critique data factory** + typed workflow — the agent-improves-itself flywheel you can hold in your head. [repo](https://github.com/p10ns11y/prototype-it-to-explain-itself)
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
-Not a README screenshot. **Default `/qa` is RAG:** git-tracked chunks, **keyword + embedding** retrieve (hybrid). Flip a flag and the same UI hits **xAI Collections + Grok** (read-only search, no upload from the app). Plus PDF CV and [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
+**Two RAG backends, one UI:** git-tracked **keyword + embedding** chunks, or **xAI Collections + Grok** (read-only search). [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) is the 2015→2026 architecture write-up.
 
 ## Cooking
 
-Hot. Not a status report.
+Hot. Same bar: unique today, not a status report.
 
-| | Why it exists |
+| | Hard to find elsewhere · 17 Aug 2026 |
 | --- | --- |
-| **[ensembly](https://github.com/thecuriousts/ensembly)** | Life as a playable system — HITL, beacons, you keep authorization. |
-| **[life-os](https://github.com/p10ns11y/life-os)** | Vault memory. ensembly is the runtime. They do not merge. |
-| **[plugins](https://github.com/p10ns11y/plugins)** | Grok skills that run real CLIs. **mission-map** is the heading math behind kanithanj.ai. |
-| **[premflow](https://github.com/thecuriousts/premflow)** | Daily ledger in C. If MVU-in-C were a toy, I would not live in it. |
+| **[ensembly](https://github.com/thecuriousts/ensembly)** | **Game of Peram** — Rust `peram-kernel` ticks HOOTL (claim *or* complete). You keep **authorization**. life-os is memory; this is the clone. |
+| **[life-os](https://github.com/p10ns11y/life-os)** | Public vault with a **process-safety** rule: no live hiring identifiers on git. Runtime is ensembly. They do not merge. |
+| **[plugins](https://github.com/p10ns11y/plugins)** | Installable Grok marketplace. **mission-map**: C PERT + Rust heading mermaid; nightly rewrite; **does not** invent `a/m/b`. |
+| **[premflow](https://github.com/thecuriousts/premflow)** | Notes / wins / **TTY pomo** / smart review — a small **C** binary on elomaxz. I live in it. |
 
 ## Proof of concepts
 

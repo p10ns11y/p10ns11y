@@ -84,7 +84,7 @@ One optional Zod model. **Each consumer names required fields at runtime.** Open
 
 ### [agent-prompt-tuning-lab](https://github.com/p10ns11y/agent-prompt-tuning-lab) · JS
 
-Harvest **Cursor + Grok Build + Kilo + Cline** on your disk → normalize → **distill into Rhai workflows**. No bundled dataset. Nothing leaves the machine.
+Harvest **Cursor + Grok Build + Kilo + Cline** on disk. Raw transcripts, harness dumps, and agent **dotfiles stay local**. Only the **distill** step talks to an LLM — and only **tidied, extracted turns**, not the bulk session. Then Rhai workflows. No bundled dataset.
 
 ### [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself) · Python · [Live](https://prototype-it-to-explain-itself.sathyam-peram.workers.dev/)
 

@@ -48,7 +48,17 @@ I turn personal friction into public tools. Side experiments: [@thecuriousts](ht
 
 ## An inch at a time
 
-I do not wait for a clean roadmap. Friction shows up — a season of life, a spark on [X](https://x.com/peramanathan) — and I **build the next link** so the constraint loses power. After Oneflow (Dec 2024): [adaptate](https://github.com/p10ns11y/adaptate) → [ama-about-me](https://github.com/p10ns11y/ama-about-me) → [devprofile](https://github.com/p10ns11y/devprofile), then months of **DAD duty**, then the graph below. Tesla / SpaceX shape is the bar: a web of automations aimed at an impossible mission — not a prettier backlog.
+I do not wait for a clean roadmap. Friction shows up — a season of life, a spark on [X](https://x.com/peramanathan) — and I **build the next link**. Git dates (not a memory):
+
+| When | What actually landed |
+| --- | --- |
+| **Sep 2024** | [ama-about-me](https://github.com/p10ns11y/ama-about-me) — before Oneflow ended |
+| **Oct–Nov 2024** | [latex-cv](https://github.com/p10ns11y/latex-cv) → [adaptate](https://github.com/p10ns11y/adaptate) on npm |
+| **Dec 2024** | Oneflow closed. The chain did **not** start there. |
+| **2025** | [selfie sign-in](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI) · [Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions) in the toolbar · [devprofile](https://github.com/p10ns11y/devprofile) (Sep) |
+| **Jan–Mar 2026** | [v0-live-feed](https://github.com/p10ns11y/v0-live-feed-app) · **[agenc-protocol](https://github.com/p10ns11y/agenc-protocol)** (Anchor + zkVM guest, public SoT) |
+
+Then DAD duty, then the graph below. Tesla / SpaceX shape is the bar: automations aimed at an impossible mission — not a prettier backlog.
 
 ## Featured
 
@@ -90,6 +100,14 @@ Harvest **Cursor + Grok Build + Kilo + Cline** on disk. Raw transcripts, harness
 
 Tiny LSTM + ReAct + memory + **self-critique data factory** + typed workflow — the agent-improves-itself flywheel you can hold in your head. [repo](https://github.com/p10ns11y/prototype-it-to-explain-itself)
 
+### [agenc-protocol](https://github.com/p10ns11y/agenc-protocol) · Rust · Anchor · zkVM
+
+**Public protocol SoT** (Mar 2026): coordination program, migrations, **zkVM guest**, Marketplace V2 bid RFC, reviewed-task + private-completion flows. Apps and proving stay *out* of this repo on purpose. Rare on a personal pin board.
+
+### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
+
+Tamil ↔ English **in the toolbar**. Same promise as 2014. 2026 clothes: Manifest V3. Continuity, not a reboot.
+
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
 **The RAG pipeline was already in xAI Collections.** Upload persona/CV — **xAI** chunks and embeds (I noticed the vectors appear on upload; it was not a loud feature while X was still yelling “build your own RAG”). `/qa` only **searches** (`documents/search`) + Grok. No chunker, no embed model, no Pinecone/pgvector of my own. Local `qa-index.json` is fallback when the reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
@@ -104,6 +122,7 @@ Hot. Same bar: unique today, not a status report.
 | **[life-os](https://github.com/p10ns11y/life-os)** | Public vault with a **process-safety** rule: no live hiring identifiers on git. Runtime is ensembly. They do not merge. |
 | **[plugins](https://github.com/p10ns11y/plugins)** | Installable Grok marketplace. **mission-map**: C PERT + Rust heading mermaid; nightly rewrite; **does not** invent `a/m/b`. |
 | **[premflow](https://github.com/thecuriousts/premflow)** | Notes / wins / **TTY pomo** / smart review — a small **C** binary on elomaxz. I live in it. |
+| **[Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions)** | Chrome: page-context Grok + vocab. Key stays local. Sep 2025. |
 
 ## Proof of concepts
 

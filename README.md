@@ -92,7 +92,7 @@ A tiny LSTM + ReAct **that teaches the idea**. Afternoon, not a platform.
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
-Not a README screenshot. **Default `/qa` is RAG:** git-tracked `qa-index.json` — **embedded chunks + BM25**. Flip a flag and the same UI hits **xAI Collections + Grok** (read-only search, no upload from the app). Plus PDF CV and [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
+Not a README screenshot. **Default `/qa` is RAG:** git-tracked chunks, **keyword + embedding** retrieve (hybrid). Flip a flag and the same UI hits **xAI Collections + Grok** (read-only search, no upload from the app). Plus PDF CV and [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
 
 ## Cooking
 

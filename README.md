@@ -104,7 +104,7 @@ Tiny LSTM + ReAct + memory + **self-critique data factory** + typed workflow —
 
 ### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
 
-**Stay in the tab.** Highlight a Tamil or English word → meaning in the **toolbar popup**. No new tab, no tab graveyard, no “I’ll look it up later.” That is still the 2026 problem — agents and Grok-on-X win the same way (tap, stay). 2014 promise; Manifest V3 clothes. Wiktionary + Tamil VU **in place**; Grok / Grokipedia only if you *choose* to leave.
+**Built in a hurry. Used for the thesis.** I wrote [EEaaS](https://ieeexplore.ieee.org/document/7396150) with this in the toolbar: highlight a word → meaning **in the popup** so I could pick a **better word** without leaving the paper. No new tab, no “I’ll look it up later.” That loop is still 2026 — tap, stay, choose. Manifest V3 clothes. Wiktionary + Tamil VU **in place**; Grok / Grokipedia only if you *choose* to leave.
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 

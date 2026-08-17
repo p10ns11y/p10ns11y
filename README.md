@@ -42,7 +42,22 @@ Stockholm · TypeScript · Rust · C
 
 ---
 
-One person: **Elm MVU in C**, a **desktop agent reactor you can download** ([kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)), Arch that **themes by Tamil *tinai* and circadian science**, **Tamil metre software** in Rust/WASM — and the same **architecture** I published as [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915): a local **orchestrator** that **profiles, predicts, and acts**; **Key Energy Indicators** so you stop streaming raw telemetry; **escalate** only when a signal earns it. 2026 the parts are the same — KDIs, local-first stack, memory/tool calls as first-class cost — only the unit is tokens and attention, not just joules. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Not a metaphor. Same machine.
+**One person.** This stack does not recur:
+
+- **Elm MVU in C** — [elomaxz](https://github.com/p10ns11y/elomaxz)
+- **Desktop agent reactor you download** — [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
+- **Arch themed by Tamil *tinai* + circadian science** — [arch-machine](https://github.com/p10ns11y/arch-machine)
+- **Tamil metre in Rust/WASM** — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
+
+The **same machine** as [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915):
+
+| 2015 · phones | 2026 · agents |
+| --- | --- |
+| Local **orchestrator**: profile · predict · act | Same loop |
+| **Key Energy Indicators** — stop streaming raw telemetry | **KDIs**, local-first stack |
+| **Escalate** only when a signal earns it | Memory / tool calls as first-class **cost** |
+
+The unit is tokens and attention, not just joules. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Not a metaphor.
 
 **Now:** I did not only read Grok Build — I **tweaked** the harness and saw **slight** gains in **token use and $**. I will **not** burn the rest of the quota to prove overall perf or outcome quality. The number I still want is **quality per token per watt**; providers can apply learned optimization and cheapen tokens. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
 

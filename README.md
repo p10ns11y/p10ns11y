@@ -2,51 +2,47 @@
 
 # Peramanathan Sathyamoorthy
 
-**Stockholm** · TypeScript · Rust · C
+**Builder of useful things** · open source tinkerer · **LEA**r**NING** in re**PUBLIC**
 
-I ship the control plane I wish every agent had.
+Stockholm · TypeScript · Rust · C
 
-<br />
-
-# [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
-
-### Download. Run. See the next act.
-
-[![Download v2 · Linux x86_64](https://img.shields.io/badge/Download-kanithanj.ai%20v2-7c3aed?style=for-the-badge)](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64)
+[![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
 &nbsp;
-[![Release](https://img.shields.io/github/v/release/p10ns11y/collab-finder?style=for-the-badge&label=v2)](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
-
-<sub>Arch / Omarchy · GTK 3 + WebKitGTK 4.1 · not a job-board scraper</sub>
-
-<br />
-
 [![CV](https://img.shields.io/badge/CV-live-0891b2?style=flat-square)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 &nbsp;
 [![X](https://img.shields.io/badge/X-@peramanathan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/peramanathan)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
-&nbsp;
 [![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~p10ns11y)
 &nbsp;
 [![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thecuriousts)
+&nbsp;
+[![GitRoll](https://img.shields.io/badge/GitRoll-FF6B6B?style=flat-square)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
+&nbsp;
+[![Grokipedia](https://img.shields.io/badge/Grokipedia-00A3E0?style=flat-square)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
+&nbsp;
+[![skills.sh](https://skills.sh/b/p10ns11y/skills)](https://skills.sh/p10ns11y/skills)
+
+<sub>
+<a href="#an-inch-at-a-time">story</a>
+·
+<a href="#featured">featured</a>
+·
+<a href="#cooking">cooking</a>
+·
+<a href="#proof-of-concepts">pocs</a>
+·
+<a href="#long-arc">long arc</a>
+·
+<a href="#writing--packages">writing</a>
+·
+<a href="#more">more</a>
+</sub>
 
 </div>
 
-```bash
-curl -fsSL -o kanithanj.ai \
-  https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64
-chmod +x kanithanj.ai && ./kanithanj.ai
-```
+---
 
-A **heading cockpit**: one next action, live fit/prep, SQLite ledger. Built because the hiring loop is too slow if you wait for dashboards to grow up.
-
-## Now shipping
-
-| | What a hiring loop can see **this week** |
-|---|---|
-| **[kanithanj.ai v2](https://github.com/p10ns11y/collab-finder/releases/tag/v2)** | Linux binary. Heading screen. Open posting / copy mail / next act. |
-| **[mission-map](https://github.com/p10ns11y/plugins/tree/feat/mission-map-heading/mission-map)** | Critical path, Sweden-round weeks, nightly graph. [PR #7](https://github.com/p10ns11y/plugins/pull/7). |
-| **[arch-machine personal-tweaks](https://github.com/p10ns11y/arch-machine/pull/38)** | New Omarchy box: waybar chip + 20:00 timer + Walker entry. [PR #38](https://github.com/p10ns11y/arch-machine/pull/38). |
+One person: **Elm MVU in C**, a **desktop agent reactor you can download** ([kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)), Arch that **themes by Tamil *tinai* and circadian science**, **Tamil metre software** in Rust/WASM, and the same **energy-orchestration** idea I published in IEEE/Wiley in 2015. That thread did not start this year.
 
 I turn personal friction into public tools. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 

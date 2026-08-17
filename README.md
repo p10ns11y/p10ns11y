@@ -44,7 +44,7 @@ Stockholm · TypeScript · Rust · C
 
 One person: **Elm MVU in C**, a **desktop agent reactor you can download** ([kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)), Arch that **themes by Tamil *tinai* and circadian science**, **Tamil metre software** in Rust/WASM — and the same **architecture** I published as [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915): a local **orchestrator** that **profiles, predicts, and acts**; **Key Energy Indicators** so you stop streaming raw telemetry; **escalate** only when a signal earns it. 2026 the parts are the same — KDIs, local-first stack, memory/tool calls as first-class cost — only the unit is tokens and attention, not just joules. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Not a metaphor. Same machine.
 
-**Now:** the **harness** gets better over time. Providers can apply learned optimization; tokens get cheaper. The number I care about is **quality of outcome per token per watt** — not “don’t think about tokens.” Surgical notes from reading Grok Build: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
+**Now:** I did not only read Grok Build — I **tweaked** the harness and saw **slight** gains in **token use and $**. I will **not** burn the rest of the quota to prove overall perf or outcome quality. The number I still want is **quality per token per watt**; providers can apply learned optimization and cheapen tokens. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
 
 I turn personal friction into public tools. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
@@ -137,7 +137,7 @@ Live. You can click. They are not the product — they prove I ship the idea, no
 
 2015 phones: **orchestrator · profiler · predictor · policy · selective telemetry · escalate-on-threshold**. 2026 agents: the **same components** — KDIs instead of KEIs, local model then cloud, memory writes treated as energy. Not an analogy. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) and the diagrams.
 
-**Bet:** harnesses compound; providers ship cheaper tokens; I optimize **quality per token per watt**. Local loop first (session files on disk → one lever → re-measure). Fleet learning is the provider’s job. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
+**Bet:** harnesses compound; providers cheapen tokens. I **tweaked** Grok Build locally and measured **small token/$ wins**. Full quality / perf eval is **paused** — it would eat the token limit I have. Fleet learning is the provider’s job. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
 
 <details>
 <summary>Thesis & papers · 2015–2017</summary>

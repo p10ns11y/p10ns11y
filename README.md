@@ -59,27 +59,30 @@ The **same machine** as [Energy Efficiency as an Orchestration Service](https://
 
 The unit is tokens and attention, not just joules. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Not a metaphor.
 
-**Now:** I did not only read Grok Build — I **tweaked** the harness and saw **slight** gains in **token use and $**. I will **not** burn the rest of the quota to prove overall perf or outcome quality. The number I still want is **quality per token per watt**; providers can apply learned optimization and cheapen tokens. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
-
-I turn personal friction into public tools. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
+**Now:** I **tweaked** Grok Build (not only read it) and saw **slight** token/$ gains. I will **not** burn the rest of the quota to prove overall perf or outcome quality. The target is still **quality per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
 ## An inch at a time
 
-I do not wait for a clean roadmap. Friction shows up — a season of life, a spark on [X](https://x.com/peramanathan) — and I **build the next link**. Git dates (not a memory):
+Same law as 2015: a signal earns a move. Friction shows up — I **build the next link**. Git dates (not a memory):
 
 | When | What actually landed |
 | --- | --- |
-| **Sep 2024** | [ama-about-me](https://github.com/p10ns11y/ama-about-me) — before Oneflow ended |
+| **2014–15** | [Sorkalam](https://github.com/p10ns11y/sorkalam-extension) in the toolbar while writing [EEaaS](https://ieeexplore.ieee.org/document/7396150) |
+| **Sep 2024** | [ama-about-me](https://github.com/p10ns11y/ama-about-me) — **before** Oneflow ended |
 | **Oct–Nov 2024** | [latex-cv](https://github.com/p10ns11y/latex-cv) → [adaptate](https://github.com/p10ns11y/adaptate) on npm |
 | **Dec 2024** | Oneflow closed. The chain did **not** start there. |
-| **2025** | [selfie sign-in](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI) · [Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions) in the toolbar · [devprofile](https://github.com/p10ns11y/devprofile) (Sep) |
+| **2025** | [selfie sign-in](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI) · [Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions) · [devprofile](https://github.com/p10ns11y/devprofile) (Sep) |
 | **Jan–Mar 2026** | [v0-live-feed](https://github.com/p10ns11y/v0-live-feed-app) · read [agenc-protocol](https://github.com/p10ns11y/agenc-protocol) (**fork** — not my protocol) |
 
-Then DAD duty, then the graph below. Tesla / SpaceX shape is the bar: automations aimed at an impossible mission — not a prettier backlog.
+Then DAD duty, then the 2026 instances below. Tesla / SpaceX is the bar: automations at an impossible mission — not a prettier backlog.
 
 ## Featured
 
-Hard to find this combo **today (17 Aug 2026)** on anyone else’s profile. Each line is from the repo, not a slogan.
+These are **that machine, running**. Each line is from the repo **today (17 Aug 2026)**, not a slogan.
+
+### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
+
+**Built in a hurry. Used for the thesis.** Highlight → meaning **in the popup** → pick a **better word** without leaving [EEaaS](https://ieeexplore.ieee.org/document/7396150). Wiktionary + Tamil VU stay **in the popup**. Grok / Grokipedia when you want **subject and more context** — they open out so the extension **does not pay API bills**. Manifest V3 clothes. Same 2026 loop: tap, stay for meaning, go deeper only when you ask.
 
 ### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [source](https://github.com/p10ns11y/collab-finder) · TS · Rust
 
@@ -117,10 +120,6 @@ Harvest **Cursor + Grok Build + Kilo + Cline** on disk. Raw transcripts, harness
 
 Tiny LSTM + ReAct + memory + **self-critique data factory** + typed workflow — the agent-improves-itself flywheel you can hold in your head. [repo](https://github.com/p10ns11y/prototype-it-to-explain-itself)
 
-### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
-
-**Built in a hurry. Used for the thesis.** I wrote [EEaaS](https://ieeexplore.ieee.org/document/7396150) with this in the toolbar: highlight a word → meaning **in the popup** so I could pick a **better word** without leaving the paper. Wiktionary + Tamil VU stay **in the popup** (meaning). Grok / Grokipedia when you want **subject and more context**, not just a gloss — they open out so the extension **does not pay API bills**. Manifest V3 clothes. Same 2026 loop: tap, stay for meaning, go deeper only when you ask.
-
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
 **The RAG pipeline was already in xAI Collections.** Upload persona/CV — **xAI** chunks and embeds (I noticed the vectors appear on upload; it was not a loud feature while X was still yelling “build your own RAG”). `/qa` only **searches** (`documents/search`) + Grok. No chunker, no embed model, no Pinecone/pgvector of my own. Local `qa-index.json` is fallback when the reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
@@ -135,7 +134,7 @@ Hot. Same bar: unique today, not a status report.
 | **[life-os](https://github.com/p10ns11y/life-os)** | Public vault with a **process-safety** rule: no live hiring identifiers on git. Runtime is ensembly. They do not merge. |
 | **[plugins](https://github.com/p10ns11y/plugins)** | Installable Grok marketplace. **mission-map**: C PERT + Rust heading mermaid; nightly rewrite; **does not** invent `a/m/b`. |
 | **[premflow](https://github.com/thecuriousts/premflow)** | Notes / wins / **TTY pomo** / smart review — a small **C** binary on elomaxz. I live in it. |
-| **[Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions)** | Chrome: page-context Grok + vocab. Key stays local. Sep 2025. |
+| **[Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions)** | 2025 cousin of Sorkalam: page-context Grok. Key stays local. You pay only when you ask for subject. |
 
 ## Proof of concepts
 
@@ -148,11 +147,9 @@ Live. You can click. They are not the product — they prove I ship the idea, no
 
 ## Long arc
 
-**Orchestrate under constraint.** When the calendar slips, **ship more than was asked** — not a thin late apology.
+The table at the top is the claim. This is the **evidence** and the **honest limit**.
 
-2015 phones: **orchestrator · profiler · predictor · policy · selective telemetry · escalate-on-threshold**. 2026 agents: the **same components** — KDIs instead of KEIs, local model then cloud, memory writes treated as energy. Not an analogy. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) and the diagrams.
-
-**Bet:** harnesses compound; providers cheapen tokens. I **tweaked** Grok Build locally and measured **small token/$ wins**. Full quality / perf eval is **paused** — it would eat the token limit I have. Fleet learning is the provider’s job. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
+When the calendar slips, **ship more than was asked** — not a thin late apology. Diagrams: [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Small token/$ wins after Grok Build tweaks; quality/perf eval **paused** on quota. Fleet learning is the provider’s job. [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
 
 <details>
 <summary>Thesis & papers · 2015–2017</summary>

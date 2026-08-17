@@ -49,15 +49,17 @@ Stockholm · TypeScript · Rust · C
 - **Arch Linux themed by Tamil landscape-seasons (*tinai*) and circadian (body-clock) science** — [arch-machine](https://github.com/p10ns11y/arch-machine)
 - **Tamil poetic metre in Rust compiled to WebAssembly** — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
 
-The **same machine** as [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915):
+[Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915) — each 2015 block has a 2026 name ([diagrams on /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus)):
 
 | 2015 · phones | 2026 · agents |
 | --- | --- |
-| A local controller that **profiles** the device, **predicts** the next state, then **acts** | The same three steps — still on the machine first |
-| **Key Energy Indicators** — a few cheap signals, not a firehose of raw radio/battery logs | **Key Decision Indicators** — a few cheap signals, not a firehose of logs and tool dumps; work stays on the device until a signal earns the cloud |
-| Spend energy **only when a signal earns it** | Treat memory writes and tool calls as **billable cost**, same as joules |
+| **Profile** the device (battery, radio, apps) | **Profile** the session: tool outcomes, user corrections, confidence — not a dump of every token |
+| **Predict** the next energy state | **Predict** whether the local model is enough or a threshold will fire |
+| **Act** (change radio / policy on the phone) | **Act**: run locally, or **escalate** to a larger cloud model / Grok / a tool |
+| **Key Energy Indicators** — few cheap signals; stop streaming raw telemetry | **Key Decision Indicators** — few cheap signals that actually change policy; prune logs and memory writes that do not earn keep |
+| Spend joules **only when a signal earns it** | Spend **tokens, watts, and attention** only when a Key Decision Indicator earns it |
 
-What you pay now is **model tokens and human attention**, not only battery. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Not a metaphor.
+Not a metaphor. The boxes renamed. The bills are tokens and attention, not only battery.
 
 **Now:** I **changed** Grok Build (not only read it) and saw **slight** drops in tokens and dollar cost. I will **not** spend the rest of my token quota to prove overall speed or answer quality. The target is still **quality of outcome per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 

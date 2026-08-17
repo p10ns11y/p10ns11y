@@ -92,7 +92,7 @@ These are **that machine, running**. Each line is from the repo **today (17 Aug 
 
 **Elm Model–View–Update in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. Composition is actor-style. The program I open every day is **[premflow](https://github.com/thecuriousts/premflow)** — not a `counter` demo.
 
-### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TS · Rust · WASM · [Live](https://seiyul-alagi.vercel.app/)
+### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TypeScript · Rust · WebAssembly · [Live](https://seiyul-alagi.vercel.app/)
 
 **Machine-learned beliefs are frozen *before* classical metre rules** ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)) so later rules cannot rewrite the story. Each parse is a **51-number vector** (counts and linkage histograms — **no raw text**). Offline: random sampling, dimension reduction, logistic fit, sequence-label sketches, control-style plant / observer / controller. Online: the WebAssembly module **predicts metre on every parse**. The classical checker stays empty until that evidence is frozen.
 

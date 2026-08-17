@@ -42,7 +42,7 @@ Stockholm · TypeScript · Rust · C
 
 ---
 
-One person: **Elm MVU in C**, a **desktop agent reactor you can download** ([kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)), Arch that **themes by Tamil *tinai* and circadian science**, **Tamil metre software** in Rust/WASM — and the same idea I published as [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and in [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915): profile · predict · act under battery and network cost, not blanket “save energy.” Today that constraint is tokens, latency, and attention. Write-up: [devprofile /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
+One person: **Elm MVU in C**, a **desktop agent reactor you can download** ([kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)), Arch that **themes by Tamil *tinai* and circadian science**, **Tamil metre software** in Rust/WASM — and the same **architecture** I published as [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915): a local **orchestrator** that **profiles, predicts, and acts**; **Key Energy Indicators** so you stop streaming raw telemetry; **escalate** only when a signal earns it. 2026 the parts are the same — KDIs, local-first stack, memory/tool calls as first-class cost — only the unit is tokens and attention, not just joules. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Not a metaphor. Same machine.
 
 I turn personal friction into public tools. Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
@@ -118,7 +118,7 @@ Live. You can click. They are not the product — they prove I ship the idea, no
 
 **Orchestrate under constraint.** When the calendar slips, **ship more than was asked** — not a thin late apology.
 
-2015: energy as an **orchestration service** on phones (profile · predict · act). 2026: the same shape — tokens, locality, attention. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
+2015 phones: **orchestrator · profiler · predictor · policy · selective telemetry · escalate-on-threshold**. 2026 agents: the **same components** — KDIs instead of KEIs, local model then cloud, memory writes treated as energy. Not an analogy. [Read /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) and the diagrams.
 
 <details>
 <summary>Thesis & papers · 2015–2017</summary>

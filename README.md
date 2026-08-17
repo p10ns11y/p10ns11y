@@ -92,7 +92,7 @@ Tiny LSTM + ReAct + memory + **self-critique data factory** + typed workflow —
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
-**Two RAG backends, one UI:** git-tracked **keyword + embedding** chunks, or **xAI Collections + Grok** (read-only search). [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) is the 2015→2026 architecture write-up.
+**I do not run an embedding pipeline.** Upload persona/CV to **xAI Collections**; **they** chunk and embed. `/qa` only **searches** (`documents/search`) + Grok. No vectors in my repo. Local `qa-index.json` is fallback when the reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) is the 2015→2026 write-up.
 
 ## Cooking
 

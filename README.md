@@ -2,7 +2,7 @@
 
 # Peramanathan Sathyamoorthy
 
-**Builder of useful things** · open source tinkerer · **LEA**r**NING** in re**PUBLIC**
+**Builder of useful things** · 2015 orchestration boxes → 2026 agent stacks · one person, live proof
 
 Stockholm · C · Python · TypeScript · Rust
 
@@ -49,20 +49,30 @@ Stockholm · C · Python · TypeScript · Rust
 - **Arch Linux themed by Tamil landscape-seasons (*tinai*) and circadian (body-clock) science** — [arch-machine](https://github.com/p10ns11y/arch-machine)
 - **Tamil poetic metre in Rust compiled to WebAssembly** — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
 
-[Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). The **boxes** still show up in public agent stacks. I have **not** sat inside a big-lab cluster — this is what papers, APIs, and harnesses expose. Clothes change. ([/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus))
+[Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). **Same five boxes, new clothes** — mapped below. I have **not** sat inside a big-lab cluster; this is what papers, APIs, and harnesses expose. Diagrams: [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
 
 | 2015 box | What it did on the phone | 2026 clothes (what you actually see) |
 | --- | --- | --- |
-| **Orchestrator** (“epic predictor”) | Profile → predict → act under battery/radio cost | Agent **harness** / graph runtime (Grok outer loop, LangGraph-style controllers, permission tethers) |
-| **Temporal–spatial context** | Time of day + place change the policy | **When and where** still route work: region, on-device vs cloud, session hour, data-residency — not Tamil *tinai* inside a lab, but **time and place still decide the spend** |
-| **Dynamic knowledge graph** | Organize logs so the next decision is cheaper | Organized memory: **xAI Collections**, embeddings, sometimes GraphRAG. Critic: most stacks use **vectors**, not a property graph. The job is the same — structure what you keep |
-| **Control box** | Actuator / policy: change radio, cap sensors | **Guards**: tool allowlists, rate limits, pause-on-cost, “never overwrite the master CV” |
-| **Wisdom box** | Learned Key Energy Indicators — *when* a signal earns an act | **Router + eval**: which model, when to escalate, what to remember. Labs say “router” / “eval harness.” The function is yours; the name is theirs |
-| **Key Energy Indicators** | Few cheap signals; stop streaming raw telemetry | **Key Decision Indicators**: tool outcomes, corrections, confidence — prune dumps that do not change policy |
+| **Orchestrator** (“epic predictor”) | Profile → predict → act under battery/radio cost | Agent **harness**, graph runtime, permission tethers |
+| **Temporal–spatial context** | Time of day + place change the policy | Region, on-device vs cloud, session hour — **time and place still decide the spend** |
+| **Dynamic knowledge graph** | Organize logs so the next decision is cheaper | **xAI Collections**, embeddings — often **vectors**, not a property graph |
+| **Control box** | Actuator / policy: change radio, cap sensors | **Guards**: tool allowlists, rate limits, pause-on-cost |
+| **Wisdom box** | Learned Key Energy Indicators — *when* a signal earns an act | **Router + eval**: which model, when to escalate, what to remember |
+| **Key Energy Indicators** | Few cheap signals; stop streaming raw telemetry | **Key Decision Indicators**: tool outcomes, corrections, confidence |
 
-I do **not** claim I designed GPT or Grok. I claim these five boxes keep reappearing. If a lab hid a sixth, I would not know.
+I do **not** claim I designed GPT or Grok. I claim these five boxes keep reappearing. If a lab hid a sixth, I would not know. **Now:** I **changed** Grok Build (not only read it) and saw **slight** drops in tokens and dollar cost; full quality/perf eval is **paused** on quota. Target: **quality of outcome per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
-**Now:** I **changed** Grok Build (not only read it) and saw **slight** drops in tokens and dollar cost. I will **not** spend the rest of my token quota to prove overall speed or answer quality. The target is still **quality of outcome per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
+## That machine, running
+
+Three you can click now — the full stack is in [Featured](#featured):
+
+- **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)** — Linux agent reactor you install; guards fire before you step in; [download v2](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64)
+- **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)** — Live CV, [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa), [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) — retrieve-then-answer on xAI Collections, not a homemade vector stack
+- **[sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension)** — Built in the toolbar while writing the 2015 thesis; meaning in the popup, depth in a new tab
+
+## Connect
+
+[@peramanathan](https://x.com/peramanathan) · [Articles](https://x.com/Peramanathan/articles) · [CV](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [sathyam.peram@gmail.com](mailto:sathyam.peram@gmail.com)
 
 ## An inch at a time
 
@@ -81,13 +91,13 @@ Then months of **parent duty**, then the 2026 instances below. Tesla / SpaceX is
 
 ## Featured
 
-These are **that machine, running**. Each line is from the repo **today (17 Aug 2026)**, not a slogan.
+Each line below is **that machine, running** — from the repo **today**, not a slogan.
 
 ### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
 
 **Built in a hurry. Used for the thesis.** Highlight → meaning **in the popup** → pick a **better word** without leaving [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150). Wiktionary and Tamil Virtual University stay **in the popup**. Grok and Grokipedia when you want **the subject and more context**, not just a gloss — they open in a new tab so the extension **does not pay model API bills**. Current Chrome extension format (Manifest V3). Tap for meaning; go deeper only when you ask.
 
-### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [source](https://github.com/p10ns11y/collab-finder) · TS · Rust
+### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [collab-finder](https://github.com/p10ns11y/collab-finder) · TS · Rust
 
 **Linux program you install + a Heading screen** (the next act, not a hunt board). You step in only when **guards** fire — fit, cost, rate, or “promote this CV” — not every click. Secrets stay in the Rust keyring. **Generating an apply CV never overwrites the master résumé.** The status bar writes a one-shot `open-route=heading` file; the app reads it and opens that screen. [Download v2](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64).
 
@@ -121,7 +131,7 @@ Harvest **Cursor + Grok Build + Kilo + Cline** on disk. Raw transcripts, harness
 
 ### [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself) · Python · [Live](https://prototype-it-to-explain-itself.sathyam-peram.workers.dev/)
 
-A tiny character LSTM (next-token net), a **ReAct** loop (reason, then act, then observe), memory, a **self-critique data factory**, and a typed workflow — the agent-improves-itself flywheel you can hold in your head. [repo](https://github.com/p10ns11y/prototype-it-to-explain-itself)
+A tiny character LSTM (next-token net), a **ReAct** loop (reason, then act, then observe), memory, a **self-critique data factory**, and a typed workflow — the agent-improves-itself flywheel you can hold in your head. [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself)
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
@@ -131,7 +141,7 @@ A tiny character LSTM (next-token net), a **ReAct** loop (reason, then act, then
 
 Hot. Same bar: unique today, not a status report.
 
-| | Hard to find elsewhere · 17 Aug 2026 |
+| | Hard to find elsewhere |
 | --- | --- |
 | **[ensembly](https://github.com/thecuriousts/ensembly)** | **Game of Peram** — the Rust kernel ticks **human-out-of-the-loop** (claim *or* complete). You keep **authorization**. life-os is memory; this is the running clone. |
 | **[life-os](https://github.com/p10ns11y/life-os)** | Public notes vault with a **process-safety** rule: no live hiring identifiers on git. Runtime is ensembly. They do not merge. |
@@ -199,13 +209,6 @@ npm since **2017**: [`adaptate`](https://www.npmjs.com/package/adaptate) (2024) 
 - **react-intl** — [babel-plugin-react-intl-messages-generator](https://www.npmjs.com/package/babel-plugin-react-intl-messages-generator) (2017)
 - **Kent C. Dodds** — [bookshelf #116](https://github.com/kentcdodds/bookshelf/pull/116) · [#184](https://github.com/kentcdodds/bookshelf/pull/184) · [testing-react-apps #39](https://github.com/kentcdodds/testing-react-apps/pull/39) · [#42](https://github.com/kentcdodds/testing-react-apps/pull/42)
 - **React Boilerplate** — [PR #1355](https://github.com/react-boilerplate/react-boilerplate/pull/1355) (merged **2016**) · [#1364](https://github.com/react-boilerplate/react-boilerplate/pull/1364) · [#1167](https://github.com/react-boilerplate/react-boilerplate/pull/1167)
-
-</details>
-
-<details>
-<summary>Connect</summary>
-
-[@peramanathan](https://x.com/peramanathan) · [Articles](https://x.com/Peramanathan/articles) · [CV](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [sathyam.peram@gmail.com](mailto:sathyam.peram@gmail.com)
 
 </details>
 

@@ -11,8 +11,7 @@
 [![CV](https://img.shields.io/badge/CV-live-0891b2?style=flat-square)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 &nbsp;
 [![X](https://img.shields.io/badge/X-@peramanathan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/peramanathan)
-
-<sub>
+&nbsp;
 [![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~p10ns11y)
 &nbsp;
 [![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thecuriousts)
@@ -22,9 +21,8 @@
 [![Grokipedia](https://img.shields.io/badge/Grokipedia-00A3E0?style=flat-square)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
 &nbsp;
 [![skills.sh](https://skills.sh/b/p10ns11y/skills)](https://skills.sh/p10ns11y/skills)
-</sub>
 
-<p>
+<br />
 <kbd><a href="#an-inch-at-a-time">story</a></kbd>
 <kbd><a href="#that-machine-running">now</a></kbd>
 <kbd><a href="#featured">featured</a></kbd>
@@ -32,7 +30,6 @@
 <kbd><a href="#proof-of-concepts">pocs</a></kbd>
 <kbd><a href="#long-arc">long arc</a></kbd>
 <kbd><a href="#more">more</a></kbd>
-</p>
 
 </div>
 
@@ -42,24 +39,24 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="62%">
 
 **<abbr title="Elm Model–View–Update">MVU</abbr> in C** (a message in; new state and effects out) — [elomaxz](https://github.com/p10ns11y/elomaxz)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="38%">
 
 **Desktop agent reactor you download** — [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="62%">
 
 **Arch Linux** themed by Tamil <abbr title="landscape-season poetic ecology">tinai</abbr> and circadian science — [arch-machine](https://github.com/p10ns11y/arch-machine)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="38%">
 
 **Tamil poetic metre** in Rust compiled to <abbr title="WebAssembly">WASM</abbr> — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
 
@@ -72,9 +69,9 @@
 <table>
 <thead>
 <tr>
-<th align="left" valign="top" width="22%">2015 box</th>
-<th align="left" valign="top" width="38%">What it did on the phone</th>
-<th align="left" valign="top" width="40%">2026 clothes (what you actually see)</th>
+<th align="left" valign="top" width="19%">2015 box</th>
+<th align="left" valign="top" width="31%">What it did on the phone</th>
+<th align="left" valign="top" width="50%">2026 clothes (what you actually see)</th>
 </tr>
 </thead>
 <tbody>
@@ -149,7 +146,7 @@ Three you can click now — eight more in [Featured](#featured).
 
 <table>
 <tr>
-<td valign="top" width="33%" align="center">
+<td valign="top" width="28%" align="center">
 
 **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)**
 
@@ -160,7 +157,7 @@ Linux agent reactor you install. Guards fire before you step in.
 <kbd><a href="https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64">download v2</a></kbd>
 
 </td>
-<td valign="top" width="33%" align="center">
+<td valign="top" width="45%" align="center">
 
 **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)**
 
@@ -171,7 +168,7 @@ Live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/q
 xAI Collections, not a homemade vector stack
 
 </td>
-<td valign="top" width="33%" align="center">
+<td valign="top" width="28%" align="center">
 
 **[sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension)**
 
@@ -206,7 +203,7 @@ Same law as 2015: **a signal earns a move**. Friction shows up — I **build the
 <table>
 <thead>
 <tr>
-<th align="left" valign="top" width="22%">When</th>
+<th align="left" valign="top" width="38%">When</th>
 <th align="left" valign="top">What actually landed</th>
 </tr>
 </thead>
@@ -300,7 +297,7 @@ Hot. Same bar: unique today, not a status report.
 <table>
 <thead>
 <tr>
-<th align="left" valign="top" width="28%"></th>
+<th align="left" valign="top" width="38%"></th>
 <th align="left" valign="top">Hard to find elsewhere</th>
 </tr>
 </thead>
@@ -335,7 +332,7 @@ Live. You can click. They are not the product — they prove I ship the idea, no
 <table>
 <thead>
 <tr>
-<th align="left" valign="top" width="28%"></th>
+<th align="left" valign="top" width="38%"></th>
 <th align="left" valign="top">Proof</th>
 </tr>
 </thead>

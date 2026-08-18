@@ -17,7 +17,19 @@ The profile is a three-act ladder optimized for cold hiring readers:
 2. **Act II** — Claim + proof bridge (thesis, architecture table, running now, connect)
 3. **Act III** — Depth on demand (timeline, featured, cooking, POCs, long arc, archive)
 
-Beauty within constraint: maximize scannability inside GitHub's markdown renderer. GitHub HTML tables (`valign`, `width`, `align`) are the layout engine. Prose for featured depth; `details` for archive and Featured overflow.
+Beauty within constraint: maximize scannability inside GitHub's markdown renderer. GitHub HTML tables (`valign`, `width`, `align`) are the layout engine. **Column widths follow the golden ratio** φ ≈ 1.618. Prose for featured depth; `details` for archive and Featured overflow.
+
+## Layout ratios (φ)
+
+φ = (1 + √5) / 2 ≈ **1.618**. All `width` attributes derive from these rounded values:
+
+| Pattern | Ratio | Widths | Use |
+|---------|-------|--------|-----|
+| Two columns | 1 : φ | **38% · 62%** | Identity grid (62% primary cell), timeline, Cooking, POCs (38% label) |
+| Three columns | 1 : φ : φ² | **19% · 31% · 50%** | Architecture table (2026 proof column gets φ²) |
+| Three columns, center emphasis | 1 : φ : 1 | **28% · 45% · 28%** | Running-now proof cards (CV center) |
+
+Do not revert to 50/50, 33/33/33, or ad-hoc splits unless the surface brief changes.
 
 ## Section ladder
 
@@ -48,25 +60,25 @@ Fixed order — do not reorder without updating the surface brief:
 - **One H1** — name only
 - Tagline: hiring-magnetic, evidence of lineage, still p10ns11y voice
 - Location line in `<sub>`
-- **8 shields** — always present. Primary row: GitHub, CV, X. Secondary row in `<sub>`: npm, thecuriousts, GitRoll, Grokipedia, skills.sh
+- **8 shields** — always present on one markdown row (never wrap shields in `<sub>` — GitHub will not parse badge markdown inside HTML). Order: GitHub, CV, X, npm, thecuriousts, GitRoll, Grokipedia, skills.sh
 - Nav: 7 `<kbd>` anchors max — `story · now · featured · cooking · pocs · long arc · more`
 
 ### Identity grid
 
 - Blockquote carries “One person. This stack does not recur”
-- 2×2 HTML table, `width="50%"` `valign="top"`, one idea per cell
+- 2×2 HTML table, **62% / 38%** columns (`valign="top"`), one idea per cell
 
 ### Architecture table
 
 - 6 rows, 3 columns — never collapse into prose
-- HTML `<table>` with `valign="top"` and column `width` (22 / 38 / 40)
+- HTML `<table>` with `valign="top"` and column `width` **19 / 31 / 50** (1 : φ : φ²)
 - Cell copy: ~12–15 words; spell terms on first use
 - Full nuance belongs in Featured items that exemplify each box
 
 ### That machine, running
 
 - Exactly **3 items**: kanithanj.ai, devprofile, sorkalam-extension
-- One HTML row, three `width="33%"` `align="center"` `valign="top"` cells
+- One HTML row, three cells **28 / 45 / 28** (`align="center"` `valign="top"`) — CV center
 - One sentence each: claim → proof → click
 - Points to [Featured](#featured) for the full stack
 - On phone GitHub tables scroll sideways — keep cells short, never put Featured into columns
@@ -134,6 +146,7 @@ GitHub profile is read on mobile. Tables **do not stack** — they scroll sidewa
 
 - Add a second H1 or product-billboard hero
 - Use ghcards embed/go (desync risk — see `scripts/check-profile-readme.mjs`)
+- Wrap shields in `<sub>`, `<p>`, or other HTML — GitHub stops parsing badge markdown
 - Hide Connect in collapsed sections
 - Drop Featured items to shorten the page
 - Fight the medium with unsupported HTML/CSS

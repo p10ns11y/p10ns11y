@@ -39,7 +39,7 @@ Fixed order — do not reorder without updating the surface brief:
 |---|---------|------|------------|
 | 1 | Hero | Name, tagline, location, 8 shields, nav | Visible |
 | 2 | Identity hook | GFM `IMPORTANT` + 4-item bullet list | Visible |
-| 3 | Thesis bridge | Papers + Mermaid diagram (eye-comfort) | Visible |
+| 3 | Thesis bridge | Papers + static SVG map (eye-comfort) | Visible |
 | 4 | Architecture map | 6-row table inside `<details>` only | Collapsed |
 | 5 | Honesty + Now | GFM `NOTE` — limits, Grok Build work, quota honesty | Visible (1 paragraph) |
 | 6 | That machine, running | 3-item bullet list + `<kbd>` | Visible |
@@ -71,7 +71,7 @@ Fixed order — do not reorder without updating the surface brief:
 
 ### Architecture map
 
-- **Mermaid diagram visible** — primary scan path (2015 phone → 2026 agents); eye-comfort themeVariables
+- **Static SVG** (`images/architecture-map.svg`, `width="420"`) — **phone** above 2015, **agents** above 2026; 1:1 arrows; no Mermaid (GitHub injects zoom/pan chrome)
 - **6-row HTML table** only inside `<details>` — for readers who want row-by-row text
 - Full nuance belongs in Featured items that exemplify each box
 
@@ -98,7 +98,7 @@ Fixed order — do not reorder without updating the surface brief:
 
 | Pattern | Use for |
 |---------|---------|
-| Mermaid + eye-comfort theme | Architecture map (visible) |
+| Static SVG (`images/architecture-map.svg`) | Architecture map (visible; no Mermaid controls) |
 | HTML table in `<details>` | Architecture row-by-row backup only |
 | Bullet list | Identity, running-now, timeline, Cooking, POCs, thesis links |
 | Prose paragraph | Featured item descriptions (trimmed open three) |
@@ -126,14 +126,14 @@ Type roles on GitHub (no custom fonts):
 
 ## Color roles (GitHub-native + eye-comfort)
 
-Source: [arch-machine eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/modules/productivity/eye-comfort) `roles.json` locks (midday `#F5F0E8` / night `#181614`). GitHub strips `style=`, `class=`, and `<font>` — color rides on **shields**, **Mermaid**, and GFM alerts GitHub paints for you.
+Source: [arch-machine eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/modules/productivity/eye-comfort) `roles.json` locks (midday `#F5F0E8` / night `#181614`). GitHub strips `style=`, `class=`, and `<font>` — color rides on **shields**, the **architecture SVG**, and GFM alerts GitHub paints for you.
 
 | Role | Vehicle | eye-comfort token | Hex (badge / diagram) |
 |------|---------|-------------------|------------------------|
 | Ink | shields (GitHub, X) | foreground (light) | `#2A2622` |
-| Sage / action | CV shield, Mermaid nodes | accent_sage (blended) | `#4A6B5C` · `#628875` |
+| Sage / action | CV shield, SVG nodes | accent_sage (blended) | `#4A6B5C` · `#628875` |
 | Amber / attention | Grokipedia shield | accent_amber (light) | `#8A6030` |
-| Clay / harmony | GitRoll shield, Mermaid lines | accent_clay (light) | `#8B6B4E` |
+| Clay / harmony | GitRoll shield, SVG arrows | accent_clay (light) | `#8B6B4E` |
 | Teal / link | thecuriousts shield | color4 (warm slate-teal) | `#405B5E` |
 | Warm mark | npm shield | warning (light) | `#8B6020` |
 | Paper on chips | shield `logoColor` | background (light) | `#F5F0E8` |
@@ -142,16 +142,16 @@ Source: [arch-machine eye-comfort](https://github.com/p10ns11y/arch-machine/tree
 | Connect | `> [!TIP]` | — | GitHub green |
 | Quote | `<blockquote>` | selection (light) | gray bar only |
 
-**Blended sage `#628875`** = midpoint of light `#4A6B5C` and dark `#7D9A8C` so Mermaid reads on both GitHub themes. Shields use **light-lock fills** (mid-chroma umber family) — self-contained images, same on light and dark pages.
+**Blended sage `#628875`** = midpoint of light `#4A6B5C` and dark `#7D9A8C`. The architecture SVG uses the same fills so it reads on both GitHub themes. Shields use **light-lock fills** (mid-chroma umber family) — self-contained images, same on light and dark pages.
 
 Do **not** use `WARNING` / `CAUTION` on this surface. Do not nest alerts. Do not put `> [!…]` inside HTML wrappers. Shields stay markdown — never wrap them in HTML.
 
 ## Responsive intent
 
-GitHub profile is read on mobile. Prefer **vertical bullets and Mermaid** over multi-column HTML tables. Prioritize:
+GitHub profile is read on mobile. Prefer **vertical bullets and a fixed-width SVG** over multi-column HTML tables. Prioritize:
 
 - Short bullet lines over table cells
-- Architecture diagram open; text map folded
+- Architecture SVG at `width="420"`; text map folded
 - Connect as GFM `TIP` + `<kbd>`
 - Featured: three open headings; eight behind one summary
 

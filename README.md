@@ -47,53 +47,9 @@
 
 [IEEE CloudCom 2015](https://ieeexplore.ieee.org/document/7396150) · [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). **Same five boxes, new clothes** — not big-lab internals · [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus)
 
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'flowchart': { 'useMaxWidth': false, 'htmlLabels': true, 'padding': 4, 'nodeSpacing': 10, 'rankSpacing': 28 },
-  'themeVariables': {
-    'fontSize': '12px',
-    'primaryColor': '#628875',
-    'primaryTextColor': '#F5F0E8',
-    'primaryBorderColor': '#9A7040',
-    'secondaryColor': '#E0D9CE',
-    'secondaryTextColor': '#2A2622',
-    'secondaryBorderColor': '#8B6B4E',
-    'tertiaryColor': '#F5F0E8',
-    'tertiaryTextColor': '#2A2622',
-    'lineColor': '#8B6B4E',
-    'textColor': '#2A2622',
-    'mainBkg': '#628875',
-    'nodeBorder': '#9A7040',
-    'clusterBkg': '#E0D9CE',
-    'clusterBorder': '#8B6B4E',
-    'titleColor': '#2A2622',
-    'edgeLabelBackground': '#F5F0E8'
-  }
-}}%%
-flowchart LR
-  subgraph y2015["2015"]
-    direction TB
-    O1["Orchestrator"]
-    T1["Time / place"]
-    K1["Knowledge graph"]
-    C1["Control"]
-    W1["Wisdom"]
-  end
-  subgraph y2026["2026"]
-    direction TB
-    O2["Harness"]
-    T2["When / where"]
-    K2["Vector memory"]
-    C2["Guards"]
-    W2["Router + eval"]
-  end
-  O1 --> O2
-  T1 --> T2
-  K1 --> K2
-  C1 --> C2
-  W1 --> W2
-```
+<div align="center">
+<img src="images/architecture-map.svg" width="420" height="292" alt="2015 phone boxes mapped to 2026 agent clothes: orchestrator to harness, time/place to when/where, knowledge graph to vector memory, control to guards, wisdom to router plus eval">
+</div>
 
 <details>
 <summary>Six rows — phone → agent (text map)</summary>

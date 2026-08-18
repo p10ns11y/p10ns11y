@@ -38,16 +38,16 @@ Fixed order — do not reorder without updating the surface brief:
 | # | Section | Role | Disclosure |
 |---|---------|------|------------|
 | 1 | Hero | Name, tagline, location, 8 shields, nav | Visible |
-| 2 | Identity hook | GFM `IMPORTANT` + 2×2 HTML table of uniqueness | Visible |
-| 3 | Thesis bridge | Papers + "Same five boxes, new clothes" | Visible |
-| 4 | Architecture table | 6-row 2015→2026 HTML table — signature artifact | Visible |
+| 2 | Identity hook | GFM `IMPORTANT` + 4-item bullet list | Visible |
+| 3 | Thesis bridge | Papers + Mermaid diagram (eye-comfort) | Visible |
+| 4 | Architecture map | 6-row table inside `<details>` only | Collapsed |
 | 5 | Honesty + Now | GFM `NOTE` — limits, Grok Build work, quota honesty | Visible (1 paragraph) |
-| 6 | That machine, running | 3 equivalent HTML columns (kanithanj, devprofile, thepulimaangani) | Visible |
+| 6 | That machine, running | 3-item bullet list + `<kbd>` | Visible |
 | 7 | Connect | GFM `TIP` wrapping `<kbd>` CV · email · X · Articles | Visible |
-| 8 | An inch at a time | Git-dated timeline | Visible |
+| 8 | An inch at a time | Git-dated bullet timeline | Visible |
 | 9 | Featured | 11 repos, thepulimaangani first; first 3 open, eight in `<details>` | Mixed |
-| 10 | Cooking | 5-row present-tense table | Visible |
-| 11 | Proof of concepts | 2-row clickable proof table | Visible |
+| 10 | Cooking | 5-item bullet list | Visible |
+| 11 | Proof of concepts | 2-item bullet list | Visible |
 | 12 | Long arc | Evidence + limits; thesis in `details` | Mixed |
 | 13 | Writing & packages | npm + long-form | Visible |
 | 14 | More | Open source PRs, archive | Collapsed |
@@ -64,25 +64,22 @@ Fixed order — do not reorder without updating the surface brief:
 - **8 shields** — always present on one markdown row (never wrap shields in `<sub>` — GitHub will not parse badge markdown inside HTML). Order: GitHub, CV, X, npm, thecuriousts, GitRoll, Grokipedia, skills.sh
 - Nav: 7 `<kbd>` anchors max — `story · now · featured · cooking · pocs · long arc · more`
 
-### Identity grid
+### Identity hook
 
 - GFM `IMPORTANT` alert carries “One person. This stack does not recur”
-- 2×2 HTML table, **62% / 38%** columns (`valign="top"`), one idea per cell
+- **4 bullets** — one uniqueness each (elomaxz, kanithanj, arch-machine, thepulimaangani); no HTML table
 
-### Architecture table
+### Architecture map
 
-- 6 rows, 3 columns — never collapse into prose
-- HTML `<table>` with `valign="top"` and column `width` **19 / 31 / 50** (1 : φ : φ²)
-- Cell copy: ~12–15 words; spell terms on first use
+- **Mermaid diagram visible** — primary scan path (2015 phone → 2026 agents); eye-comfort themeVariables
+- **6-row HTML table** only inside `<details>` — for readers who want row-by-row text
 - Full nuance belongs in Featured items that exemplify each box
 
 ### That machine, running
 
-- Exactly **3 items**: kanithanj.ai, devprofile, thepulimaangani
-- One HTML row, three cells **28 / 45 / 28** (`align="center"` `valign="top"`) — CV center
-- One sentence each: claim → proof → click
+- Exactly **3 bullets**: kanithanj.ai, devprofile, thepulimaangani
+- One line each: claim → proof → click; `<kbd>` for download/routes
 - Points to [Featured](#featured) for the full stack
-- On phone GitHub tables scroll sideways — keep cells short, never put Featured into columns
 
 ### Connect
 
@@ -101,13 +98,13 @@ Fixed order — do not reorder without updating the surface brief:
 
 | Pattern | Use for |
 |---------|---------|
-| HTML table + `valign`/`width` | Identity 2×2, architecture map, running-now 3-col, timeline, Cooking, POCs |
-| Prose paragraph | Featured item descriptions |
-| Bullet list | Open-source PRs, archive surfaces (Tamil stays out of tables) |
-| `<kbd>` | Hero nav, Connect (inside `TIP`) |
+| Mermaid + eye-comfort theme | Architecture map (visible) |
+| HTML table in `<details>` | Architecture row-by-row backup only |
+| Bullet list | Identity, running-now, timeline, Cooking, POCs, thesis links |
+| Prose paragraph | Featured item descriptions (trimmed open three) |
+| `<kbd>` | Hero nav, Connect (inside `TIP`), download/routes |
 | GFM alert | Color hierarchy — see Color roles |
-| `<details>` | Featured overflow, thesis papers, course craft, archive |
-| Mermaid in `<details>` | Optional box-map diagram under architecture table |
+| `<details>` | Architecture table, Featured overflow, thesis, archive |
 
 ## Typography and rhythm
 
@@ -151,13 +148,12 @@ Do **not** use `WARNING` / `CAUTION` on this surface. Do not nest alerts. Do not
 
 ## Responsive intent
 
-GitHub profile is read on mobile. Tables **do not stack** — they scroll sideways. Prioritize:
+GitHub profile is read on mobile. Prefer **vertical bullets and Mermaid** over multi-column HTML tables. Prioritize:
 
-- Short table cells over completeness
-- Running-now columns stay one short sentence each
-- Connect as `<kbd>` (no `details` wrapper)
+- Short bullet lines over table cells
+- Architecture diagram open; text map folded
+- Connect as GFM `TIP` + `<kbd>`
 - Featured: three open headings; eight behind one summary
-- Archive Tamil as wrapping list, not a 3-column table
 
 ## Rules
 

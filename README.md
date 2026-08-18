@@ -40,79 +40,12 @@
 > [!IMPORTANT]
 > **One person.** This stack does not recur.
 
-<table>
-<tr>
-<td valign="top" width="62%">
+- **<abbr title="Elm Model–View–Update">MVU</abbr> in C** — [elomaxz](https://github.com/p10ns11y/elomaxz)
+- **Desktop agent reactor** — [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
+- **Arch Linux + Tamil <abbr title="landscape-season poetic ecology">tinai</abbr> + circadian** — [arch-machine](https://github.com/p10ns11y/arch-machine)
+- **Tamil poetic metre → <abbr title="WebAssembly">WASM</abbr>** — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
 
-**<abbr title="Elm Model–View–Update">MVU</abbr> in C** (a message in; new state and effects out) — [elomaxz](https://github.com/p10ns11y/elomaxz)
-
-</td>
-<td valign="top" width="38%">
-
-**Desktop agent reactor you download** — [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="62%">
-
-**Arch Linux** themed by Tamil <abbr title="landscape-season poetic ecology">tinai</abbr> and circadian science — [arch-machine](https://github.com/p10ns11y/arch-machine)
-
-</td>
-<td valign="top" width="38%">
-
-**Tamil poetic metre** in Rust compiled to <abbr title="WebAssembly">WASM</abbr> — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
-
-</td>
-</tr>
-</table>
-
-[Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). **Same five boxes, new clothes** — mapped below. I have **not** sat inside a big-lab cluster; this is what papers, APIs, and harnesses expose. Diagrams: [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
-
-<table>
-<thead>
-<tr>
-<th align="left" valign="top" width="19%">2015 box</th>
-<th align="left" valign="top" width="31%">What it did on the phone</th>
-<th align="left" valign="top" width="50%">2026 clothes (what you actually see)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="top"><strong>Orchestrator</strong> (“epic predictor”)</td>
-<td valign="top">Profile → predict → act under battery/radio cost</td>
-<td valign="top">Agent <strong>harness</strong>, graph runtime, permission tethers</td>
-</tr>
-<tr>
-<td valign="top"><strong>Temporal–spatial context</strong></td>
-<td valign="top">Time of day + place change the policy</td>
-<td valign="top">Region, on-device vs cloud, session hour — <strong>time and place still decide the spend</strong></td>
-</tr>
-<tr>
-<td valign="top"><strong>Dynamic knowledge graph</strong></td>
-<td valign="top">Organize logs so the next decision is cheaper</td>
-<td valign="top"><strong>xAI Collections</strong>, embeddings — often <strong>vectors</strong>, not a property graph</td>
-</tr>
-<tr>
-<td valign="top"><strong>Control box</strong></td>
-<td valign="top">Actuator / policy: change radio, cap sensors</td>
-<td valign="top"><strong>Guards</strong>: tool allowlists, rate limits, pause-on-cost</td>
-</tr>
-<tr>
-<td valign="top"><strong>Wisdom box</strong></td>
-<td valign="top">Learned <abbr title="Key Energy Indicators">KEI</abbr> — <em>when</em> a signal earns an act</td>
-<td valign="top"><strong>Router + eval</strong>: which model, when to escalate, what to remember</td>
-</tr>
-<tr>
-<td valign="top"><strong><abbr title="Key Energy Indicators">KEI</abbr></strong></td>
-<td valign="top">Few cheap signals; stop streaming raw telemetry</td>
-<td valign="top"><strong><abbr title="Key Decision Indicators">KDI</abbr></strong>: tool outcomes, corrections, confidence</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>Same five boxes — diagram</summary>
+[IEEE CloudCom 2015](https://ieeexplore.ieee.org/document/7396150) · [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). **Same five boxes, new clothes** — not big-lab internals · [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus)
 
 ```mermaid
 %%{init: {
@@ -158,54 +91,63 @@ flowchart LR
   W1 --> W2
 ```
 
-<sub>Skim the table above; open this only if the map helps.</sub>
+<details>
+<summary>Six rows — phone → agent (text map)</summary>
+
+<table>
+<thead>
+<tr>
+<th align="left" valign="top" width="19%">2015 box</th>
+<th align="left" valign="top" width="31%">On the phone</th>
+<th align="left" valign="top" width="50%">2026 clothes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><strong>Orchestrator</strong></td>
+<td valign="top">Profile → predict → act under cost</td>
+<td valign="top">Agent <strong>harness</strong>, graph runtime, permission tethers</td>
+</tr>
+<tr>
+<td valign="top"><strong>Temporal–spatial</strong></td>
+<td valign="top">Time + place change policy</td>
+<td valign="top">Region, on-device vs cloud — <strong>time and place decide spend</strong></td>
+</tr>
+<tr>
+<td valign="top"><strong>Knowledge graph</strong></td>
+<td valign="top">Organize logs for cheaper next decision</td>
+<td valign="top"><strong>xAI Collections</strong> — often <strong>vectors</strong>, not a property graph</td>
+</tr>
+<tr>
+<td valign="top"><strong>Control box</strong></td>
+<td valign="top">Actuator: radio, cap sensors</td>
+<td valign="top"><strong>Guards</strong>: allowlists, rate limits, pause-on-cost</td>
+</tr>
+<tr>
+<td valign="top"><strong>Wisdom box</strong></td>
+<td valign="top"><abbr title="Key Energy Indicators">KEI</abbr> — <em>when</em> a signal earns an act</td>
+<td valign="top"><strong>Router + eval</strong>: model choice, escalation, memory</td>
+</tr>
+<tr>
+<td valign="top"><strong><abbr title="Key Energy Indicators">KEI</abbr></strong></td>
+<td valign="top">Few cheap signals; no raw telemetry stream</td>
+<td valign="top"><strong><abbr title="Key Decision Indicators">KDI</abbr></strong>: outcomes, corrections, confidence</td>
+</tr>
+</tbody>
+</table>
 
 </details>
 
 > [!NOTE]
-> I do **not** claim I designed GPT or Grok. I claim these five boxes keep reappearing. If a lab hid a sixth, I would not know. **Now:** I **changed** Grok Build (not only read it) and saw **slight** drops in tokens and dollar cost; full quality/perf eval is **paused** on quota. Target: **quality of outcome per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
+> I do **not** claim I designed GPT or Grok — these five boxes keep reappearing. Grok Build tweaks: **slight** token/$ wins; full eval **paused** on quota. Target: **quality per token per watt**. [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs) · [@thecuriousts](https://github.com/thecuriousts)
 
 ## That machine, running
 
-Three you can click now — eight more in [Featured](#featured).
+Three clicks — eight more in [Featured](#featured).
 
-<table>
-<tr>
-<td valign="top" width="28%" align="center">
-
-**[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)**
-
-<sub>install · agent reactor</sub>
-
-Linux agent reactor you install. Guards fire before you step in.
-
-<kbd><a href="https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64">download v2</a></kbd>
-
-</td>
-<td valign="top" width="45%" align="center">
-
-**[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)**
-
-<sub>CV · retrieve-then-answer</sub>
-
-Live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/qa</a></kbd> · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/focus">/focus</a></kbd>
-
-xAI Collections, not a homemade vector stack
-
-</td>
-<td valign="top" width="28%" align="center">
-
-**[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)**
-
-<sub>metre · WASM · <a href="https://seiyul-alagi.vercel.app/">live</a></sub>
-
-Tamil prosody in Rust → WASM. ML beliefs frozen before classical rules.
-
-Predicts metre on every parse
-
-</td>
-</tr>
-</table>
+- **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)** — installable agent reactor; guards before you step in · <kbd><a href="https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64">download v2</a></kbd>
+- **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)** — live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/qa</a></kbd> · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/focus">/focus</a></kbd> · xAI Collections, not a homemade vector stack
+- **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)** — Tamil prosody in Rust → WASM; ML frozen before classical rules · [live](https://seiyul-alagi.vercel.app/)
 
 ## Connect
 
@@ -220,56 +162,28 @@ Predicts metre on every parse
 
 ## An inch at a time
 
-Same law as 2015: **a signal earns a move**. Friction shows up — I **build the next link**. Git dates (not a memory):
+**A signal earns a move** — git dates, not memory:
 
-<table>
-<thead>
-<tr>
-<th align="left" valign="top" width="38%">When</th>
-<th align="left" valign="top">What actually landed</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="top"><strong>2014–15</strong></td>
-<td valign="top"><a href="https://github.com/p10ns11y/sorkalam-extension">Sorkalam</a> in the toolbar while writing <a href="https://ieeexplore.ieee.org/document/7396150">Energy Efficiency as an Orchestration Service</a></td>
-</tr>
-<tr>
-<td valign="top"><strong>Sep 2024</strong></td>
-<td valign="top"><a href="https://github.com/p10ns11y/ama-about-me">ama-about-me</a> — <strong>before</strong> Oneflow ended</td>
-</tr>
-<tr>
-<td valign="top"><strong>Oct–Nov 2024</strong></td>
-<td valign="top"><a href="https://github.com/p10ns11y/latex-cv">latex-cv</a> → <a href="https://github.com/p10ns11y/adaptate">adaptate</a> on npm</td>
-</tr>
-<tr>
-<td valign="top"><strong>Dec 2024</strong></td>
-<td valign="top">Oneflow closed. The chain did <strong>not</strong> start there.</td>
-</tr>
-<tr>
-<td valign="top"><strong>2025</strong></td>
-<td valign="top"><a href="https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI">selfie sign-in</a> · <a href="https://github.com/p10ns11y/grok-daily-productivity-extensions">Ask Grok</a> · <a href="https://github.com/p10ns11y/devprofile">devprofile</a> (Sep)</td>
-</tr>
-<tr>
-<td valign="top"><strong>Jan–Mar 2026</strong></td>
-<td valign="top"><a href="https://github.com/p10ns11y/v0-live-feed-app">v0-live-feed</a> · read <a href="https://github.com/p10ns11y/agenc-protocol">agenc-protocol</a> (<strong>fork</strong> — not my protocol)</td>
-</tr>
-</tbody>
-</table>
+- **2014–15** — [Sorkalam](https://github.com/p10ns11y/sorkalam-extension) in the toolbar while writing [EEaaS](https://ieeexplore.ieee.org/document/7396150)
+- **Sep 2024** — [ama-about-me](https://github.com/p10ns11y/ama-about-me) — **before** Oneflow ended
+- **Oct–Nov 2024** — [latex-cv](https://github.com/p10ns11y/latex-cv) → [adaptate](https://github.com/p10ns11y/adaptate) on npm
+- **Dec 2024** — Oneflow closed. The chain did **not** start there.
+- **2025** — [selfie sign-in](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI) · [Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions) · [devprofile](https://github.com/p10ns11y/devprofile) (Sep)
+- **Jan–Mar 2026** — [v0-live-feed](https://github.com/p10ns11y/v0-live-feed-app) · [agenc-protocol](https://github.com/p10ns11y/agenc-protocol) (**fork** — not my protocol)
 
-Then months of **parent duty**, then the 2026 instances below. Tesla / SpaceX is the bar: automations at an impossible mission — not a prettier backlog.
+Then months of **parent duty**, then the 2026 instances below.
 
 ## Featured
 
-Open three below — that machine, running, from the repo **today**. The rest fold. <sub>Skim the three proof cards above first.</sub>
+Three open — rest folded. Same three as [running now](#that-machine-running).
 
-### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TypeScript · Rust · <abbr title="WebAssembly">WASM</abbr> · [Live](https://seiyul-alagi.vercel.app/)
+### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TS · Rust · <abbr title="WebAssembly">WASM</abbr> · [Live](https://seiyul-alagi.vercel.app/)
 
-**Machine-learned beliefs are frozen *before* classical metre rules** ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)) so later rules cannot rewrite the story. Each parse is a **51-number vector** (counts and linkage histograms — **no raw text**). Offline: random sampling, dimension reduction, logistic fit, sequence-label sketches, control-style plant / observer / controller. Online: the WebAssembly module **predicts metre on every parse**. The classical checker stays empty until that evidence is frozen.
+ML beliefs frozen *before* classical metre rules ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)). Each parse → **51-number vector** (no raw text). WASM **predicts metre on every parse**; classical checker waits on frozen evidence.
 
-### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [collab-finder](https://github.com/p10ns11y/collab-finder) · TS · Rust
+### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · TS · Rust
 
-**Linux program you install + a Heading screen** (the next act, not a hunt board). You step in only when **guards** fire — fit, cost, rate, or “promote this CV” — not every click. Secrets stay in the Rust keyring. **Generating an apply CV never overwrites the master résumé.** The status bar writes a one-shot <kbd>open-route=heading</kbd> file; the app reads it and opens that screen. <kbd><a href="https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64">Download v2</a></kbd>.
+Installable Linux agent + **Heading** screen (next act, not a hunt board). **Guards** on fit, cost, rate, CV promote. Rust keyring; apply CV never overwrites master résumé. <kbd><a href="https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64">Download v2</a></kbd>.
 
 ### [elomaxz](https://github.com/p10ns11y/elomaxz) · C · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 
@@ -314,95 +228,43 @@ A tiny character LSTM (next-token net), a **<abbr title="Reason + Act + Observe"
 
 ## Cooking
 
-Hot. Same bar: unique today, not a status report.
-
-<table>
-<thead>
-<tr>
-<th align="left" valign="top" width="38%"></th>
-<th align="left" valign="top">Hard to find elsewhere</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="top"><strong><a href="https://github.com/thecuriousts/ensembly">ensembly</a></strong></td>
-<td valign="top"><strong>Game of Peram</strong> — the Rust kernel ticks <strong>human-out-of-the-loop</strong> (claim <em>or</em> complete). You keep <strong>authorization</strong>. life-os is memory; this is the running clone.</td>
-</tr>
-<tr>
-<td valign="top"><strong><a href="https://github.com/p10ns11y/life-os">life-os</a></strong></td>
-<td valign="top">Public notes vault with a <strong>process-safety</strong> rule: no live hiring identifiers on git. Runtime is ensembly. They do not merge.</td>
-</tr>
-<tr>
-<td valign="top"><strong><a href="https://github.com/p10ns11y/plugins">plugins</a></strong></td>
-<td valign="top">Installable Grok marketplace. <strong>mission-map</strong>: C time estimates (optimistic / typical / pessimistic) + Rust heading diagram; nightly rewrite; <strong>does not invent those three numbers</strong>.</td>
-</tr>
-<tr>
-<td valign="top"><strong><a href="https://github.com/thecuriousts/premflow">premflow</a></strong></td>
-<td valign="top">Notes, wins, <strong>terminal pomodoro</strong>, smart review — a small <strong>C</strong> program on elomaxz. I live in it.</td>
-</tr>
-<tr>
-<td valign="top"><strong><a href="https://github.com/p10ns11y/grok-daily-productivity-extensions">Ask Grok</a></strong></td>
-<td valign="top">2025 cousin of Sorkalam: page-context Grok. Key stays local. You pay only when you ask for subject.</td>
-</tr>
-</tbody>
-</table>
+- **[ensembly](https://github.com/thecuriousts/ensembly)** — **Game of Peram**: HOOTL kernel; you keep **authorization**. life-os is memory; this is the running clone.
+- **[life-os](https://github.com/p10ns11y/life-os)** — notes vault; **process-safety** rule (no live hiring IDs on git). Runtime is ensembly.
+- **[plugins](https://github.com/p10ns11y/plugins)** — Grok marketplace · **mission-map**: PERT-style C estimates + Rust heading diagram; nightly rewrite.
+- **[premflow](https://github.com/thecuriousts/premflow)** — notes, wins, terminal pomodoro on elomaxz. I live in it.
+- **[Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions)** — 2025 cousin of Sorkalam: page-context Grok; key stays local.
 
 ## Proof of concepts
 
-Live. You can click. They are not the product — they prove I ship the idea, not a slide.
-
-<table>
-<thead>
-<tr>
-<th align="left" valign="top" width="38%"></th>
-<th align="left" valign="top">Proof</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="top"><strong><a href="https://v0-live-feed-app.vercel.app/">v0-live-feed</a></strong></td>
-<td valign="top">X “For You” as a technical flow, not a clone of the chrome. <a href="https://github.com/p10ns11y/v0-live-feed-app">v0-live-feed-app</a></td>
-</tr>
-<tr>
-<td valign="top"><strong><a href="https://v0-selfie-sign-in-process.vercel.app">selfie sign-in</a></strong></td>
-<td valign="top">Enroll → train → login with a face. XState + Rekognition. <a href="https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI">selfie-sign-in-flow-using-v0-xAI</a></td>
-</tr>
-</tbody>
-</table>
+- **[v0-live-feed](https://v0-live-feed-app.vercel.app/)** — X “For You” as flow, not chrome clone · [repo](https://github.com/p10ns11y/v0-live-feed-app)
+- **[selfie sign-in](https://v0-selfie-sign-in-process.vercel.app)** — enroll → train → login · [repo](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)
 
 ## Long arc
 
-The table at the top is the claim. This is the **evidence** and the **honest limit**.
+The diagram above is the claim. This is **evidence** and **honest limits**.
 
 When the calendar slips, **ship more than was asked** — not a thin late apology. Diagrams: [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Small token/$ wins after Grok Build tweaks; quality/perf eval **paused** on quota. Fleet learning is the provider’s job. [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
 
 <details>
 <summary>Thesis & papers · 2015–2017</summary>
 
-Primary sources first; casual notes last.
+- **Thesis PDF** — [hosted full text](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/master-thesis.pdf) · [devprofile#32](https://github.com/p10ns11y/devprofile/pull/32)
+- **Uppsala DiVA** — [record](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:893525) · [FULLTEXT01](https://www.diva-portal.org/smash/get/diva2:897798/FULLTEXT01.pdf) (often blocked off-campus)
+- **IEEE CloudCom 2015** — [EEaaS paper](https://ieeexplore.ieee.org/document/7396150)
+- **Wiley 2017** — [profiling paper](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915)
+- **On X** — [long arc post](https://x.com/Peramanathan/status/2035707867844809074) · [/focus write-up](https://peramanathan-sathyamoorthy-cv.vercel.app/focus)
 
-| Artifact | |
-| --- | --- |
-| **Thesis PDF** (hosted) | [Full text](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/master-thesis.pdf) — *Enabling Energy-Efficient Data Communication with Participatory Sensing and Mobile Cloud* ([devprofile#32](https://github.com/p10ns11y/devprofile/pull/32)) |
-| **Thesis · Uppsala DiVA** | [Record](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:893525) · [FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:897798/FULLTEXT01.pdf) — original university deposit (DiVA is still UU’s system; off-campus access is often blocked) |
-| **IEEE** | [Energy Efficiency as an Orchestration Service for Mobile Internet of Things](https://ieeexplore.ieee.org/document/7396150) (CloudCom 2015) |
-| **Wiley** | [Profiling Energy Efficiency and Data Communications for Mobile Internet of Things](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915) (2017) |
-| **On X** | [Here is how I explained the long arc in an X post](https://x.com/Peramanathan/status/2035707867844809074) |
-| **Write-up** | [devprofile /focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) — 2016 orchestration → 2026 agents |
-
-**Why host a copy:** DiVA full-text is often **blocked off-campus** (ISP / network policy). Links used to work; if the public path changes, I’ll update. Prefer the hosted PDF when DiVA fails.
+Prefer hosted PDF when DiVA fails.
 
 </details>
 
 <details>
 <summary>Course craft · 2011</summary>
 
-| Artifact | |
-| --- | --- |
-| **Report PDF** | [ML face-recognition report (2011)](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/ml_face_recognition_report_2011.pdf) |
-| **On X** | [Here is how I explained delayed work (and shipping more than asked) in an X post](https://x.com/Peramanathan/status/2064993180328796667) |
+- **Report PDF** — [ML face-recognition (2011)](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/ml_face_recognition_report_2011.pdf)
+- **On X** — [delayed work, shipped more](https://x.com/Peramanathan/status/2064993180328796667)
 
-Uppsala Machine Learning course (CMU-style project lineage). The assignment ran late — instead of a survey-only late submit, it was extended into **real implementation and hands-on work** (pair assignment; finished solo when the partner had no time). Same muscle as today: delay is not an excuse to shrink the outcome.
+Uppsala ML course — assignment ran late; extended into real implementation (finished solo). Same muscle as today.
 
 </details>
 

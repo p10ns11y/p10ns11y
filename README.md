@@ -2,7 +2,9 @@
 
 # Peramanathan Sathyamoorthy
 
-**Builder of useful things** · 2015 orchestration boxes → 2026 agent stacks · one person, live proof
+**Builder of useful things** · **LEA**r**NING** in re**PUBLIC**
+
+**2015 orchestration boxes → 2026 agent stacks** · one person, live proof
 
 <sub>Stockholm · C · Python · TypeScript · Rust · <abbr title="Energy Efficiency as an Orchestration Service">EEaaS</abbr> lineage</sub>
 

@@ -58,7 +58,8 @@ Fixed order — do not reorder without updating the surface brief:
 ### Hero
 
 - **One H1** — name only
-- Tagline: hiring-magnetic, evidence of lineage, still p10ns11y voice
+- **Personal tagline:** **LEA**r**NING** in re**PUBLIC** (typographic wordplay — learning in public)
+- **Proof line:** 2015 orchestration boxes → 2026 agent stacks · one person, live proof (hire-loop evidence)
 - Location line in `<sub>`
 - **8 shields** — always present on one markdown row (never wrap shields in `<sub>` — GitHub will not parse badge markdown inside HTML). Order: GitHub, CV, X, npm, thecuriousts, GitRoll, Grokipedia, skills.sh
 - Nav: 7 `<kbd>` anchors max — `story · now · featured · cooking · pocs · long arc · more`

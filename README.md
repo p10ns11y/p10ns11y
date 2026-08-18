@@ -37,6 +37,7 @@
 
 ---
 
+> [!IMPORTANT]
 > **One person.** This stack does not recur.
 
 <table>
@@ -140,7 +141,8 @@ flowchart LR
 
 </details>
 
-I do **not** claim I designed GPT or Grok. I claim these five boxes keep reappearing. If a lab hid a sixth, I would not know. **Now:** I **changed** Grok Build (not only read it) and saw **slight** drops in tokens and dollar cost; full quality/perf eval is **paused** on quota. Target: **quality of outcome per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
+> [!NOTE]
+> I do **not** claim I designed GPT or Grok. I claim these five boxes keep reappearing. If a lab hid a sixth, I would not know. **Now:** I **changed** Grok Build (not only read it) and saw **slight** drops in tokens and dollar cost; full quality/perf eval is **paused** on quota. Target: **quality of outcome per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
 ## That machine, running
 
@@ -186,17 +188,14 @@ Predicts metre on every parse
 
 ## Connect
 
-<div align="center">
-
-<kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/">CV</a></kbd>
-&nbsp;
-<kbd><a href="mailto:sathyam.peram@gmail.com">email</a></kbd>
-&nbsp;
-<kbd><a href="https://x.com/peramanathan">X</a></kbd>
-&nbsp;
-<kbd><a href="https://x.com/Peramanathan/articles">Articles</a></kbd>
-
-</div>
+> [!TIP]
+> <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/">CV</a></kbd>
+> ·
+> <kbd><a href="mailto:sathyam.peram@gmail.com">email</a></kbd>
+> ·
+> <kbd><a href="https://x.com/peramanathan">X</a></kbd>
+> ·
+> <kbd><a href="https://x.com/Peramanathan/articles">Articles</a></kbd>
 
 ## An inch at a time
 

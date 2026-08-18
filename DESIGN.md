@@ -5,7 +5,7 @@ description: GitHub profile README — markdown craft and section architecture
 
 # Design — p10ns11y profile README
 
-Visual authority for `README.md` on GitHub. Medium: GitHub-flavored markdown only — no custom CSS, no JS. Toolbox: centered `div`, shields, HTML tables (`valign`/`width`/`align`), `kbd`, `details`/`summary`, blockquote, bold, links.
+Visual authority for `README.md` on GitHub. Medium: GitHub-flavored markdown only — no custom CSS, no JS. Toolbox: centered `div`, shields, HTML tables (`valign`/`width`/`align`), `kbd`, `details`/`summary`, **GFM alerts** (`NOTE` / `TIP` / `IMPORTANT`), blockquote, bold, links.
 
 Visitor mode: **Read**. Primary outcome: hire-loop conversion (CV or email click within two screens).
 
@@ -38,12 +38,12 @@ Fixed order — do not reorder without updating the surface brief:
 | # | Section | Role | Disclosure |
 |---|---------|------|------------|
 | 1 | Hero | Name, tagline, location, 8 shields, nav | Visible |
-| 2 | Identity hook | Blockquote + 2×2 HTML table of uniqueness | Visible |
+| 2 | Identity hook | GFM `IMPORTANT` + 2×2 HTML table of uniqueness | Visible |
 | 3 | Thesis bridge | Papers + "Same five boxes, new clothes" | Visible |
 | 4 | Architecture table | 6-row 2015→2026 HTML table — signature artifact | Visible |
-| 5 | Honesty + Now | Limits, Grok Build work, quota honesty | Visible (1 paragraph) |
+| 5 | Honesty + Now | GFM `NOTE` — limits, Grok Build work, quota honesty | Visible (1 paragraph) |
 | 6 | That machine, running | 3 equivalent HTML columns (kanithanj, devprofile, thepulimaangani) | Visible |
-| 7 | Connect | Centered `<kbd>` CV · email · X · Articles | Visible |
+| 7 | Connect | GFM `TIP` wrapping `<kbd>` CV · email · X · Articles | Visible |
 | 8 | An inch at a time | Git-dated timeline | Visible |
 | 9 | Featured | 11 repos, thepulimaangani first; first 3 open, eight in `<details>` | Mixed |
 | 10 | Cooking | 5-row present-tense table | Visible |
@@ -66,7 +66,7 @@ Fixed order — do not reorder without updating the surface brief:
 
 ### Identity grid
 
-- Blockquote carries “One person. This stack does not recur”
+- GFM `IMPORTANT` alert carries “One person. This stack does not recur”
 - 2×2 HTML table, **62% / 38%** columns (`valign="top"`), one idea per cell
 
 ### Architecture table
@@ -87,7 +87,8 @@ Fixed order — do not reorder without updating the surface brief:
 ### Connect
 
 - Visible H2 (not buried in `<details>`)
-- Centered `<kbd>` links: CV, email, X, Articles
+- GFM `TIP` alert wrapping `<kbd>` links: CV, email, X, Articles
+- Do not wrap the alert in `<div align="center">` — GitHub will not parse `> [!TIP]` inside HTML
 
 ### Featured block
 
@@ -103,7 +104,8 @@ Fixed order — do not reorder without updating the surface brief:
 | HTML table + `valign`/`width` | Identity 2×2, architecture map, running-now 3-col, timeline, Cooking, POCs |
 | Prose paragraph | Featured item descriptions |
 | Bullet list | Open-source PRs, archive surfaces (Tamil stays out of tables) |
-| `<kbd>` | Hero nav, Connect |
+| `<kbd>` | Hero nav, Connect (inside `TIP`) |
+| GFM alert | Color hierarchy — see Color roles |
 | `<details>` | Featured overflow, thesis papers, course craft, archive |
 | Mermaid in `<details>` | Optional box-map diagram under architecture table |
 
@@ -124,6 +126,20 @@ Type roles on GitHub (no custom fonts):
 - **Bold** for emphasis on key terms and box names — not entire sentences
 - *Italic* sparingly; prefer `<abbr>` or `<ruby>` for non-English terms
 - Horizontal rule `---` between hero and body, before footer
+
+## Color roles (GitHub-native)
+
+GitHub strips `style=`, `class=`, and `<font>`. Color that actually paints:
+
+| Role | Vehicle | Hue GitHub paints | Use once |
+|------|---------|-------------------|----------|
+| Claim | `> [!IMPORTANT]` | purple | Identity hook |
+| Limits | `> [!NOTE]` | blue | Honesty + Now |
+| Action | `> [!TIP]` | green | Connect |
+| Quote | `<blockquote>` | gray bar | Footer Grok testimonial only |
+| Brand chips | shields.io | per badge | Hero row (8) |
+
+Do **not** use `WARNING` / `CAUTION` on this surface (alarm, wrong temperature). Do not nest alerts. Do not put `> [!…]` inside HTML wrappers. Shields stay markdown — never wrap them in HTML.
 
 ## Responsive intent
 
@@ -150,4 +166,4 @@ GitHub profile is read on mobile. Tables **do not stack** — they scroll sidewa
 - Wrap shields in `<sub>`, `<p>`, or other HTML — GitHub stops parsing badge markdown
 - Hide Connect in collapsed sections
 - Drop Featured items to shorten the page
-- Fight the medium with unsupported HTML/CSS
+- Fight the medium with unsupported HTML/CSS (`style=`, custom classes, `<font>`)

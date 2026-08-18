@@ -42,10 +42,10 @@ Fixed order — do not reorder without updating the surface brief:
 | 3 | Thesis bridge | Papers + "Same five boxes, new clothes" | Visible |
 | 4 | Architecture table | 6-row 2015→2026 HTML table — signature artifact | Visible |
 | 5 | Honesty + Now | Limits, Grok Build work, quota honesty | Visible (1 paragraph) |
-| 6 | That machine, running | 3 equivalent HTML columns (kanithanj, devprofile, sorkalam) | Visible |
+| 6 | That machine, running | 3 equivalent HTML columns (kanithanj, devprofile, thepulimaangani) | Visible |
 | 7 | Connect | Centered `<kbd>` CV · email · X · Articles | Visible |
 | 8 | An inch at a time | Git-dated timeline | Visible |
-| 9 | Featured | 11 repos, Sorkalam first; first 3 open, eight in `<details>` | Mixed |
+| 9 | Featured | 11 repos, thepulimaangani first; first 3 open, eight in `<details>` | Mixed |
 | 10 | Cooking | 5-row present-tense table | Visible |
 | 11 | Proof of concepts | 2-row clickable proof table | Visible |
 | 12 | Long arc | Evidence + limits; thesis in `details` | Mixed |
@@ -77,7 +77,7 @@ Fixed order — do not reorder without updating the surface brief:
 
 ### That machine, running
 
-- Exactly **3 items**: kanithanj.ai, devprofile, sorkalam-extension
+- Exactly **3 items**: kanithanj.ai, devprofile, thepulimaangani
 - One HTML row, three cells **28 / 45 / 28** (`align="center"` `valign="top"`) — CV center
 - One sentence each: claim → proof → click
 - Points to [Featured](#featured) for the full stack
@@ -92,7 +92,7 @@ Fixed order — do not reorder without updating the surface brief:
 
 - `### [repo-name](url) · stack · [Live](url)` heading pattern
 - One tight paragraph per item; repo-verified copy only
-- Sorkalam always first; 11 items fixed
+- thepulimaangani always first; 11 items fixed
 - First three open in the page; remaining eight inside one `<details>`
 
 ### Tables vs prose vs collapse

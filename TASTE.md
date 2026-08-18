@@ -30,7 +30,7 @@ Direct, evidence-first, no-BS, occasionally wry. Never corporate or self-congrat
 - **prompt-tuning-lab:** harvest stays local. Distill LLM sees **tidied turns only** — not raw harness or agent dotfiles.
 - **AgenC protocol:** **fork** — timeline only, not Featured as original.
 - **Harness:** **tweaked** Grok Build; **slight** token/$ wins. Full quality/perf eval **paused** on quota. Target: quality per token per watt.
-- **Spine:** identity → 2015 machine (table) → running now (3) → connect → inch (git dates) → Featured (Sorkalam first) → Cooking → POCs → Long arc = evidence + limit, **do not repeat the table**.
+- **Spine:** identity → 2015 machine (table) → running now (3) → connect → inch (git dates) → Featured (thepulimaangani first) → Cooking → POCs → Long arc = evidence + limit, **do not repeat the table**.
 
 ## Anti-goals
 

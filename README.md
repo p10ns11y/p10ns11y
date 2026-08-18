@@ -170,13 +170,13 @@ xAI Collections, not a homemade vector stack
 </td>
 <td valign="top" width="28%" align="center">
 
-**[sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension)**
+**[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)**
 
-<sub>origin · 2015 thesis</sub>
+<sub>metre · WASM · <a href="https://seiyul-alagi.vercel.app/">live</a></sub>
 
-Built in the toolbar while writing the 2015 thesis.
+Tamil prosody in Rust → WASM. ML beliefs frozen before classical rules.
 
-Meaning in the popup; depth in a new tab
+Predicts metre on every parse
 
 </td>
 </tr>
@@ -241,9 +241,9 @@ Then months of **parent duty**, then the 2026 instances below. Tesla / SpaceX is
 
 Open three below — that machine, running, from the repo **today**. The rest fold. <sub>Skim the three proof cards above first.</sub>
 
-### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
+### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TypeScript · Rust · <abbr title="WebAssembly">WASM</abbr> · [Live](https://seiyul-alagi.vercel.app/)
 
-**Built in a hurry. Used for the thesis.** Highlight → meaning **in the popup** → pick a **better word** without leaving [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150). Wiktionary and Tamil Virtual University stay **in the popup**. Grok and Grokipedia when you want **the subject and more context**, not just a gloss — they open in a new tab so the extension **does not pay model API bills**. Current Chrome extension format (Manifest V3). Tap for meaning; go deeper only when you ask.
+**Machine-learned beliefs are frozen *before* classical metre rules** ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)) so later rules cannot rewrite the story. Each parse is a **51-number vector** (counts and linkage histograms — **no raw text**). Offline: random sampling, dimension reduction, logistic fit, sequence-label sketches, control-style plant / observer / controller. Online: the WebAssembly module **predicts metre on every parse**. The classical checker stays empty until that evidence is frozen.
 
 ### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [collab-finder](https://github.com/p10ns11y/collab-finder) · TS · Rust
 
@@ -256,9 +256,9 @@ Open three below — that machine, running, from the repo **today**. The rest fo
 <details>
 <summary>Eight more of that machine</summary>
 
-### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TypeScript · Rust · <abbr title="WebAssembly">WASM</abbr> · [Live](https://seiyul-alagi.vercel.app/)
+### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
 
-**Machine-learned beliefs are frozen *before* classical metre rules** ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)) so later rules cannot rewrite the story. Each parse is a **51-number vector** (counts and linkage histograms — **no raw text**). Offline: random sampling, dimension reduction, logistic fit, sequence-label sketches, control-style plant / observer / controller. Online: the WebAssembly module **predicts metre on every parse**. The classical checker stays empty until that evidence is frozen.
+**Built in a hurry. Used for the thesis.** Highlight → meaning **in the popup** → pick a **better word** without leaving [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150). Wiktionary and Tamil Virtual University stay **in the popup**. Grok and Grokipedia when you want **the subject and more context**, not just a gloss — they open in a new tab so the extension **does not pay model API bills**. Current Chrome extension format (Manifest V3). Tap for meaning; go deeper only when you ask.
 
 ### [arch-machine](https://github.com/p10ns11y/arch-machine) · Shell · Python · Rust
 

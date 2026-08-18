@@ -8,19 +8,19 @@
 
 <sub>Stockholm · C · Python · TypeScript · Rust · <abbr title="Energy Efficiency as an Orchestration Service">EEaaS</abbr> lineage</sub>
 
-[![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
+[![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-2A2622?style=flat-square&logo=github&logoColor=F5F0E8)](https://github.com/p10ns11y)
 &nbsp;
-[![CV](https://img.shields.io/badge/CV-live-0891b2?style=flat-square)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
+[![CV](https://img.shields.io/badge/CV-live-4A6B5C?style=flat-square&logoColor=F5F0E8)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 &nbsp;
-[![X](https://img.shields.io/badge/X-@peramanathan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/peramanathan)
+[![X](https://img.shields.io/badge/X-@peramanathan-2A2622?style=flat-square&logo=x&logoColor=F5F0E8)](https://x.com/peramanathan)
 &nbsp;
-[![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~p10ns11y)
+[![npm](https://img.shields.io/badge/npm-~p10ns11y-8B6020?style=flat-square&logo=npm&logoColor=F5F0E8)](https://www.npmjs.com/~p10ns11y)
 &nbsp;
-[![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thecuriousts)
+[![thecuriousts](https://img.shields.io/badge/thecuriousts-405B5E?style=flat-square&logo=github&logoColor=F5F0E8)](https://github.com/thecuriousts)
 &nbsp;
-[![GitRoll](https://img.shields.io/badge/GitRoll-FF6B6B?style=flat-square)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
+[![GitRoll](https://img.shields.io/badge/GitRoll-8B6B4E?style=flat-square&logoColor=F5F0E8)](https://gitroll.io/profile/uQUk8uoBUTNOWCHltHi810sXytq33)
 &nbsp;
-[![Grokipedia](https://img.shields.io/badge/Grokipedia-00A3E0?style=flat-square)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
+[![Grokipedia](https://img.shields.io/badge/Grokipedia-8A6030?style=flat-square&logoColor=F5F0E8)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
 &nbsp;
 [![skills.sh](https://skills.sh/b/p10ns11y/skills)](https://skills.sh/p10ns11y/skills)
 
@@ -115,6 +115,27 @@
 <summary>Same five boxes — diagram</summary>
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#628875',
+    'primaryTextColor': '#F5F0E8',
+    'primaryBorderColor': '#9A7040',
+    'secondaryColor': '#E0D9CE',
+    'secondaryTextColor': '#2A2622',
+    'secondaryBorderColor': '#8B6B4E',
+    'tertiaryColor': '#F5F0E8',
+    'tertiaryTextColor': '#2A2622',
+    'lineColor': '#8B6B4E',
+    'textColor': '#2A2622',
+    'mainBkg': '#628875',
+    'nodeBorder': '#9A7040',
+    'clusterBkg': '#E0D9CE',
+    'clusterBorder': '#8B6B4E',
+    'titleColor': '#2A2622',
+    'edgeLabelBackground': '#F5F0E8'
+  }
+}}%%
 flowchart LR
   subgraph y2015["2015 · phone"]
     O1["Orchestrator"]

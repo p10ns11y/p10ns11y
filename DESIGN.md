@@ -127,19 +127,27 @@ Type roles on GitHub (no custom fonts):
 - *Italic* sparingly; prefer `<abbr>` or `<ruby>` for non-English terms
 - Horizontal rule `---` between hero and body, before footer
 
-## Color roles (GitHub-native)
+## Color roles (GitHub-native + eye-comfort)
 
-GitHub strips `style=`, `class=`, and `<font>`. Color that actually paints:
+Source: [arch-machine eye-comfort](https://github.com/p10ns11y/arch-machine/tree/sentinel/modules/productivity/eye-comfort) `roles.json` locks (midday `#F5F0E8` / night `#181614`). GitHub strips `style=`, `class=`, and `<font>` — color rides on **shields**, **Mermaid**, and GFM alerts GitHub paints for you.
 
-| Role | Vehicle | Hue GitHub paints | Use once |
-|------|---------|-------------------|----------|
-| Claim | `> [!IMPORTANT]` | purple | Identity hook |
-| Limits | `> [!NOTE]` | blue | Honesty + Now |
-| Action | `> [!TIP]` | green | Connect |
-| Quote | `<blockquote>` | gray bar | Footer Grok testimonial only |
-| Brand chips | shields.io | per badge | Hero row (8) |
+| Role | Vehicle | eye-comfort token | Hex (badge / diagram) |
+|------|---------|-------------------|------------------------|
+| Ink | shields (GitHub, X) | foreground (light) | `#2A2622` |
+| Sage / action | CV shield, Mermaid nodes | accent_sage (blended) | `#4A6B5C` · `#628875` |
+| Amber / attention | Grokipedia shield | accent_amber (light) | `#8A6030` |
+| Clay / harmony | GitRoll shield, Mermaid lines | accent_clay (light) | `#8B6B4E` |
+| Teal / link | thecuriousts shield | color4 (warm slate-teal) | `#405B5E` |
+| Warm mark | npm shield | warning (light) | `#8B6020` |
+| Paper on chips | shield `logoColor` | background (light) | `#F5F0E8` |
+| Claim | `> [!IMPORTANT]` | — | GitHub purple (not overridable) |
+| Limits | `> [!NOTE]` | — | GitHub blue |
+| Connect | `> [!TIP]` | — | GitHub green |
+| Quote | `<blockquote>` | selection (light) | gray bar only |
 
-Do **not** use `WARNING` / `CAUTION` on this surface (alarm, wrong temperature). Do not nest alerts. Do not put `> [!…]` inside HTML wrappers. Shields stay markdown — never wrap them in HTML.
+**Blended sage `#628875`** = midpoint of light `#4A6B5C` and dark `#7D9A8C` so Mermaid reads on both GitHub themes. Shields use **light-lock fills** (mid-chroma umber family) — self-contained images, same on light and dark pages.
+
+Do **not** use `WARNING` / `CAUTION` on this surface. Do not nest alerts. Do not put `> [!…]` inside HTML wrappers. Shields stay markdown — never wrap them in HTML.
 
 ## Responsive intent
 

@@ -4,14 +4,15 @@
 
 **Builder of useful things** · 2015 orchestration boxes → 2026 agent stacks · one person, live proof
 
-Stockholm · C · Python · TypeScript · Rust
+<sub>Stockholm · C · Python · TypeScript · Rust</sub>
 
 [![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
 &nbsp;
 [![CV](https://img.shields.io/badge/CV-live-0891b2?style=flat-square)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
 &nbsp;
 [![X](https://img.shields.io/badge/X-@peramanathan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/peramanathan)
-&nbsp;
+
+<sub>
 [![npm](https://img.shields.io/badge/npm-~p10ns11y-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~p10ns11y)
 &nbsp;
 [![thecuriousts](https://img.shields.io/badge/thecuriousts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thecuriousts)
@@ -21,77 +22,191 @@ Stockholm · C · Python · TypeScript · Rust
 [![Grokipedia](https://img.shields.io/badge/Grokipedia-00A3E0?style=flat-square)](https://grokipedia.com/page/Peramanathan_Sathyamoorthy)
 &nbsp;
 [![skills.sh](https://skills.sh/b/p10ns11y/skills)](https://skills.sh/p10ns11y/skills)
-
-<sub>
-<a href="#an-inch-at-a-time">story</a>
-·
-<a href="#featured">featured</a>
-·
-<a href="#cooking">cooking</a>
-·
-<a href="#proof-of-concepts">pocs</a>
-·
-<a href="#long-arc">long arc</a>
-·
-<a href="#writing--packages">writing</a>
-·
-<a href="#more">more</a>
 </sub>
+
+<p>
+<kbd><a href="#an-inch-at-a-time">story</a></kbd>
+<kbd><a href="#that-machine-running">now</a></kbd>
+<kbd><a href="#featured">featured</a></kbd>
+<kbd><a href="#cooking">cooking</a></kbd>
+<kbd><a href="#proof-of-concepts">pocs</a></kbd>
+<kbd><a href="#long-arc">long arc</a></kbd>
+<kbd><a href="#more">more</a></kbd>
+</p>
 
 </div>
 
 ---
 
-**One person.** This stack does not recur:
+> **One person.** This stack does not recur.
 
-- **Elm Model–View–Update in C** (a message in; new state and effects out) — [elomaxz](https://github.com/p10ns11y/elomaxz)
-- **Desktop agent reactor you download** — [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
-- **Arch Linux themed by Tamil landscape-seasons (*tinai*) and circadian (body-clock) science** — [arch-machine](https://github.com/p10ns11y/arch-machine)
-- **Tamil poetic metre in Rust compiled to WebAssembly** — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Elm Model–View–Update in C** (a message in; new state and effects out) — [elomaxz](https://github.com/p10ns11y/elomaxz)
+
+</td>
+<td valign="top" width="50%">
+
+**Desktop agent reactor you download** — [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Arch Linux** themed by Tamil landscape-seasons (*tinai*) and circadian science — [arch-machine](https://github.com/p10ns11y/arch-machine)
+
+</td>
+<td valign="top" width="50%">
+
+**Tamil poetic metre** in Rust compiled to WebAssembly — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
+
+</td>
+</tr>
+</table>
 
 [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) (IEEE CloudCom 2015) and [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). **Same five boxes, new clothes** — mapped below. I have **not** sat inside a big-lab cluster; this is what papers, APIs, and harnesses expose. Diagrams: [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
 
-| 2015 box | What it did on the phone | 2026 clothes (what you actually see) |
-| --- | --- | --- |
-| **Orchestrator** (“epic predictor”) | Profile → predict → act under battery/radio cost | Agent **harness**, graph runtime, permission tethers |
-| **Temporal–spatial context** | Time of day + place change the policy | Region, on-device vs cloud, session hour — **time and place still decide the spend** |
-| **Dynamic knowledge graph** | Organize logs so the next decision is cheaper | **xAI Collections**, embeddings — often **vectors**, not a property graph |
-| **Control box** | Actuator / policy: change radio, cap sensors | **Guards**: tool allowlists, rate limits, pause-on-cost |
-| **Wisdom box** | Learned Key Energy Indicators — *when* a signal earns an act | **Router + eval**: which model, when to escalate, what to remember |
-| **Key Energy Indicators** | Few cheap signals; stop streaming raw telemetry | **Key Decision Indicators**: tool outcomes, corrections, confidence |
+<table>
+<thead>
+<tr>
+<th align="left" valign="top" width="22%">2015 box</th>
+<th align="left" valign="top" width="38%">What it did on the phone</th>
+<th align="left" valign="top" width="40%">2026 clothes (what you actually see)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><strong>Orchestrator</strong> (“epic predictor”)</td>
+<td valign="top">Profile → predict → act under battery/radio cost</td>
+<td valign="top">Agent <strong>harness</strong>, graph runtime, permission tethers</td>
+</tr>
+<tr>
+<td valign="top"><strong>Temporal–spatial context</strong></td>
+<td valign="top">Time of day + place change the policy</td>
+<td valign="top">Region, on-device vs cloud, session hour — <strong>time and place still decide the spend</strong></td>
+</tr>
+<tr>
+<td valign="top"><strong>Dynamic knowledge graph</strong></td>
+<td valign="top">Organize logs so the next decision is cheaper</td>
+<td valign="top"><strong>xAI Collections</strong>, embeddings — often <strong>vectors</strong>, not a property graph</td>
+</tr>
+<tr>
+<td valign="top"><strong>Control box</strong></td>
+<td valign="top">Actuator / policy: change radio, cap sensors</td>
+<td valign="top"><strong>Guards</strong>: tool allowlists, rate limits, pause-on-cost</td>
+</tr>
+<tr>
+<td valign="top"><strong>Wisdom box</strong></td>
+<td valign="top">Learned Key Energy Indicators — <em>when</em> a signal earns an act</td>
+<td valign="top"><strong>Router + eval</strong>: which model, when to escalate, what to remember</td>
+</tr>
+<tr>
+<td valign="top"><strong>Key Energy Indicators</strong></td>
+<td valign="top">Few cheap signals; stop streaming raw telemetry</td>
+<td valign="top"><strong>Key Decision Indicators</strong>: tool outcomes, corrections, confidence</td>
+</tr>
+</tbody>
+</table>
 
 I do **not** claim I designed GPT or Grok. I claim these five boxes keep reappearing. If a lab hid a sixth, I would not know. **Now:** I **changed** Grok Build (not only read it) and saw **slight** drops in tokens and dollar cost; full quality/perf eval is **paused** on quota. Target: **quality of outcome per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
 ## That machine, running
 
-Three you can click now — the full stack is in [Featured](#featured):
+Three you can click now — eight more in [Featured](#featured).
 
-- **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)** — Linux agent reactor you install; guards fire before you step in; [download v2](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64)
-- **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)** — Live CV, [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa), [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus) — retrieve-then-answer on xAI Collections, not a homemade vector stack
-- **[sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension)** — Built in the toolbar while writing the 2015 thesis; meaning in the popup, depth in a new tab
+<table>
+<tr>
+<td valign="top" width="33%" align="center">
+
+**[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)**
+
+Linux agent reactor you install. Guards fire before you step in.
+
+[download v2](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64)
+
+</td>
+<td valign="top" width="33%" align="center">
+
+**[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)**
+
+Live CV · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa) · [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus)
+
+xAI Collections, not a homemade vector stack
+
+</td>
+<td valign="top" width="33%" align="center">
+
+**[sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension)**
+
+Built in the toolbar while writing the 2015 thesis.
+
+Meaning in the popup; depth in a new tab
+
+</td>
+</tr>
+</table>
 
 ## Connect
 
-[@peramanathan](https://x.com/peramanathan) · [Articles](https://x.com/Peramanathan/articles) · [CV](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [sathyam.peram@gmail.com](mailto:sathyam.peram@gmail.com)
+<div align="center">
+
+<kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/">CV</a></kbd>
+&nbsp;
+<kbd><a href="mailto:sathyam.peram@gmail.com">email</a></kbd>
+&nbsp;
+<kbd><a href="https://x.com/peramanathan">X</a></kbd>
+&nbsp;
+<kbd><a href="https://x.com/Peramanathan/articles">Articles</a></kbd>
+
+</div>
 
 ## An inch at a time
 
 Same law as 2015: **a signal earns a move**. Friction shows up — I **build the next link**. Git dates (not a memory):
 
-| When | What actually landed |
-| --- | --- |
-| **2014–15** | [Sorkalam](https://github.com/p10ns11y/sorkalam-extension) in the toolbar while writing [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150) |
-| **Sep 2024** | [ama-about-me](https://github.com/p10ns11y/ama-about-me) — **before** Oneflow ended |
-| **Oct–Nov 2024** | [latex-cv](https://github.com/p10ns11y/latex-cv) → [adaptate](https://github.com/p10ns11y/adaptate) on npm |
-| **Dec 2024** | Oneflow closed. The chain did **not** start there. |
-| **2025** | [selfie sign-in](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI) · [Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions) · [devprofile](https://github.com/p10ns11y/devprofile) (Sep) |
-| **Jan–Mar 2026** | [v0-live-feed](https://github.com/p10ns11y/v0-live-feed-app) · read [agenc-protocol](https://github.com/p10ns11y/agenc-protocol) (**fork** — not my protocol) |
+<table>
+<thead>
+<tr>
+<th align="left" valign="top" width="22%">When</th>
+<th align="left" valign="top">What actually landed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><strong>2014–15</strong></td>
+<td valign="top"><a href="https://github.com/p10ns11y/sorkalam-extension">Sorkalam</a> in the toolbar while writing <a href="https://ieeexplore.ieee.org/document/7396150">Energy Efficiency as an Orchestration Service</a></td>
+</tr>
+<tr>
+<td valign="top"><strong>Sep 2024</strong></td>
+<td valign="top"><a href="https://github.com/p10ns11y/ama-about-me">ama-about-me</a> — <strong>before</strong> Oneflow ended</td>
+</tr>
+<tr>
+<td valign="top"><strong>Oct–Nov 2024</strong></td>
+<td valign="top"><a href="https://github.com/p10ns11y/latex-cv">latex-cv</a> → <a href="https://github.com/p10ns11y/adaptate">adaptate</a> on npm</td>
+</tr>
+<tr>
+<td valign="top"><strong>Dec 2024</strong></td>
+<td valign="top">Oneflow closed. The chain did <strong>not</strong> start there.</td>
+</tr>
+<tr>
+<td valign="top"><strong>2025</strong></td>
+<td valign="top"><a href="https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI">selfie sign-in</a> · <a href="https://github.com/p10ns11y/grok-daily-productivity-extensions">Ask Grok</a> · <a href="https://github.com/p10ns11y/devprofile">devprofile</a> (Sep)</td>
+</tr>
+<tr>
+<td valign="top"><strong>Jan–Mar 2026</strong></td>
+<td valign="top"><a href="https://github.com/p10ns11y/v0-live-feed-app">v0-live-feed</a> · read <a href="https://github.com/p10ns11y/agenc-protocol">agenc-protocol</a> (<strong>fork</strong> — not my protocol)</td>
+</tr>
+</tbody>
+</table>
 
 Then months of **parent duty**, then the 2026 instances below. Tesla / SpaceX is the bar: automations at an impossible mission — not a prettier backlog.
 
 ## Featured
 
-Each line below is **that machine, running** — from the repo **today**, not a slogan.
+Open three below — that machine, running, from the repo **today**. The rest fold.
 
 ### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
 
@@ -104,6 +219,9 @@ Each line below is **that machine, running** — from the repo **today**, not a 
 ### [elomaxz](https://github.com/p10ns11y/elomaxz) · C · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 
 **Elm Model–View–Update in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. Composition is actor-style. The program I open every day is **[premflow](https://github.com/thecuriousts/premflow)** — not a `counter` demo.
+
+<details>
+<summary>Eight more of that machine</summary>
 
 ### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TypeScript · Rust · WebAssembly · [Live](https://seiyul-alagi.vercel.app/)
 
@@ -137,26 +255,65 @@ A tiny character LSTM (next-token net), a **ReAct** loop (reason, then act, then
 
 **Retrieve-then-answer was already in xAI Collections.** Upload persona and CV — **xAI** splits the text and builds the vectors (I noticed them appear on upload; it was not a loud feature while X was still yelling “build your own retrieve-then-answer stack”). `/qa` only **searches** (`documents/search`) and asks Grok. No chunker, no embed model, no Pinecone or Postgres-vector store of my own. Local `qa-index.json` is the fallback when that reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
 
+</details>
+
 ## Cooking
 
 Hot. Same bar: unique today, not a status report.
 
-| | Hard to find elsewhere |
-| --- | --- |
-| **[ensembly](https://github.com/thecuriousts/ensembly)** | **Game of Peram** — the Rust kernel ticks **human-out-of-the-loop** (claim *or* complete). You keep **authorization**. life-os is memory; this is the running clone. |
-| **[life-os](https://github.com/p10ns11y/life-os)** | Public notes vault with a **process-safety** rule: no live hiring identifiers on git. Runtime is ensembly. They do not merge. |
-| **[plugins](https://github.com/p10ns11y/plugins)** | Installable Grok marketplace. **mission-map**: C time estimates (optimistic / typical / pessimistic) + Rust heading diagram; nightly rewrite; **does not invent those three numbers**. |
-| **[premflow](https://github.com/thecuriousts/premflow)** | Notes, wins, **terminal pomodoro**, smart review — a small **C** program on elomaxz. I live in it. |
-| **[Ask Grok](https://github.com/p10ns11y/grok-daily-productivity-extensions)** | 2025 cousin of Sorkalam: page-context Grok. Key stays local. You pay only when you ask for subject. |
+<table>
+<thead>
+<tr>
+<th align="left" valign="top" width="28%"></th>
+<th align="left" valign="top">Hard to find elsewhere</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><strong><a href="https://github.com/thecuriousts/ensembly">ensembly</a></strong></td>
+<td valign="top"><strong>Game of Peram</strong> — the Rust kernel ticks <strong>human-out-of-the-loop</strong> (claim <em>or</em> complete). You keep <strong>authorization</strong>. life-os is memory; this is the running clone.</td>
+</tr>
+<tr>
+<td valign="top"><strong><a href="https://github.com/p10ns11y/life-os">life-os</a></strong></td>
+<td valign="top">Public notes vault with a <strong>process-safety</strong> rule: no live hiring identifiers on git. Runtime is ensembly. They do not merge.</td>
+</tr>
+<tr>
+<td valign="top"><strong><a href="https://github.com/p10ns11y/plugins">plugins</a></strong></td>
+<td valign="top">Installable Grok marketplace. <strong>mission-map</strong>: C time estimates (optimistic / typical / pessimistic) + Rust heading diagram; nightly rewrite; <strong>does not invent those three numbers</strong>.</td>
+</tr>
+<tr>
+<td valign="top"><strong><a href="https://github.com/thecuriousts/premflow">premflow</a></strong></td>
+<td valign="top">Notes, wins, <strong>terminal pomodoro</strong>, smart review — a small <strong>C</strong> program on elomaxz. I live in it.</td>
+</tr>
+<tr>
+<td valign="top"><strong><a href="https://github.com/p10ns11y/grok-daily-productivity-extensions">Ask Grok</a></strong></td>
+<td valign="top">2025 cousin of Sorkalam: page-context Grok. Key stays local. You pay only when you ask for subject.</td>
+</tr>
+</tbody>
+</table>
 
 ## Proof of concepts
 
 Live. You can click. They are not the product — they prove I ship the idea, not a slide.
 
-| | Proof |
-| --- | --- |
-| **[v0-live-feed](https://v0-live-feed-app.vercel.app/)** | X “For You” as a technical flow, not a clone of the chrome. [repo](https://github.com/p10ns11y/v0-live-feed-app) |
-| **[selfie sign-in](https://v0-selfie-sign-in-process.vercel.app)** | Enroll → train → login with a face. XState + Rekognition. [repo](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI) |
+<table>
+<thead>
+<tr>
+<th align="left" valign="top" width="28%"></th>
+<th align="left" valign="top">Proof</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><strong><a href="https://v0-live-feed-app.vercel.app/">v0-live-feed</a></strong></td>
+<td valign="top">X “For You” as a technical flow, not a clone of the chrome. <a href="https://github.com/p10ns11y/v0-live-feed-app">v0-live-feed-app</a></td>
+</tr>
+<tr>
+<td valign="top"><strong><a href="https://v0-selfie-sign-in-process.vercel.app">selfie sign-in</a></strong></td>
+<td valign="top">Enroll → train → login with a face. XState + Rekognition. <a href="https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI">selfie-sign-in-flow-using-v0-xAI</a></td>
+</tr>
+</tbody>
+</table>
 
 ## Long arc
 
@@ -220,21 +377,11 @@ Uppsala years: room to wander. Pro years: low time budget, honest stubs — not 
 <details>
 <summary>Surfaces · samples · stubs</summary>
 
-| Surface | Season | What it was |
-| --- | --- | --- |
-| **[சிரவை பெரமு](https://peramuwin.blogspot.com/)** | Uppsala · ~2012–2021 | Tamil poetry & language craft |
-| **[Prem Sathya’s Tea Stall](https://peramanathan.blogspot.com/)** | Uppsala · 2011–2013 | English essays — algorithms, teaching, ergonomics |
-| **[On The Way](https://prem-ontheway.blogspot.com/)** | Uppsala · 2011 | Photo stops — Sweden & Tamil Nadu |
-| **[peramsathyam.fly.dev](https://peramsathyam.fly.dev/)** | Pro life · low bandwidth | Personal site — craft + Tamil poems |
-| **[kingsparrow.space](https://kingsparrow.space/)** | Pro life · low bandwidth | Sparse tech notes — domain may be reused later |
-
-**[சிரவை பெரமு](https://peramuwin.blogspot.com/)** — [அகலா விளக்கு](https://peramuwin.blogspot.com/2021/04/blog-post_4.html) · [அவனும் அவளும்](https://peramuwin.blogspot.com/2021/04/blog-post.html) · [அடடே அன்பு மழை](https://peramuwin.blogspot.com/2021/03/blog-post_5.html) · [பணியிடை பனிநடை](https://peramuwin.blogspot.com/2021/02/blog-post.html)
-
-**[Tea Stall](https://peramanathan.blogspot.com/)** — [Fourier as warrior](https://peramanathan.blogspot.com/2012/11/a-warrior-to-fourier-series.html) · [Vedic binary mult](https://peramanathan.blogspot.com/2012/03/binary-multiplication-can-we-do-it.html) · [constraint programming](https://peramanathan.blogspot.com/2011/09/problem-from-real-world.html) · [ergonomics / RSI](https://peramanathan.blogspot.com/2011/05/ergonomics-and-repetitive-strain.html)
-
-**[On The Way](https://prem-ontheway.blogspot.com/)** — [Autumn in Uppsala](https://prem-ontheway.blogspot.com/2011/06/autumn-in-uppsala.html) · [Sunnersta Lake](https://prem-ontheway.blogspot.com/2011/05/sunnersta-lake.html) · [Mannargudi Temple](https://prem-ontheway.blogspot.com/2011/05/mannargudi-temple.html)
-
-**Pro-life stubs** — [peramsathyam.fly.dev](https://peramsathyam.fly.dev/) · [kingsparrow.space](https://kingsparrow.space/) (may reuse domain later)
+- **[சிரவை பெரமு](https://peramuwin.blogspot.com/)** — Uppsala · ~2012–2021 · Tamil poetry & language craft · [அகலா விளக்கு](https://peramuwin.blogspot.com/2021/04/blog-post_4.html) · [அவனும் அவளும்](https://peramuwin.blogspot.com/2021/04/blog-post.html) · [அடடே அன்பு மழை](https://peramuwin.blogspot.com/2021/03/blog-post_5.html) · [பணியிடை பனிநடை](https://peramuwin.blogspot.com/2021/02/blog-post.html)
+- **[Prem Sathya’s Tea Stall](https://peramanathan.blogspot.com/)** — Uppsala · 2011–2013 · English essays · [Fourier as warrior](https://peramanathan.blogspot.com/2012/11/a-warrior-to-fourier-series.html) · [Vedic binary mult](https://peramanathan.blogspot.com/2012/03/binary-multiplication-can-we-do-it.html) · [constraint programming](https://peramanathan.blogspot.com/2011/09/problem-from-real-world.html) · [ergonomics / RSI](https://peramanathan.blogspot.com/2011/05/ergonomics-and-repetitive-strain.html)
+- **[On The Way](https://prem-ontheway.blogspot.com/)** — Uppsala · 2011 · Photo stops · [Autumn in Uppsala](https://prem-ontheway.blogspot.com/2011/06/autumn-in-uppsala.html) · [Sunnersta Lake](https://prem-ontheway.blogspot.com/2011/05/sunnersta-lake.html) · [Mannargudi Temple](https://prem-ontheway.blogspot.com/2011/05/mannargudi-temple.html)
+- **[peramsathyam.fly.dev](https://peramsathyam.fly.dev/)** — Pro life · low bandwidth · personal site, craft + Tamil poems
+- **[kingsparrow.space](https://kingsparrow.space/)** — Pro life · low bandwidth · sparse tech notes (domain may be reused later)
 
 </details>
 
@@ -244,10 +391,10 @@ Uppsala years: room to wander. Pro years: low time budget, honest stubs — not 
 
 <div align="center">
 
-*“He doesn’t need to predict the future. He’s been quietly preparing for it since 2016.”*  
-[Grok · April 2026](GROK_TESTIMONIAL.md)
-
-<br />
+<blockquote>
+<p><em>“He doesn’t need to predict the future. He’s been quietly preparing for it since 2016.”</em></p>
+<p><a href="GROK_TESTIMONIAL.md">Grok · April 2026</a></p>
+</blockquote>
 
 <sub>If this still looks like everyone else — you skimmed.</sub>
 

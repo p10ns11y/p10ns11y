@@ -4,7 +4,7 @@
 
 **Builder of useful things** · 2015 orchestration boxes → 2026 agent stacks · one person, live proof
 
-<sub>Stockholm · C · Python · TypeScript · Rust</sub>
+<sub>Stockholm · C · Python · TypeScript · Rust · <abbr title="Energy Efficiency as an Orchestration Service">EEaaS</abbr> lineage</sub>
 
 [![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/p10ns11y)
 &nbsp;
@@ -44,7 +44,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**Elm Model–View–Update in C** (a message in; new state and effects out) — [elomaxz](https://github.com/p10ns11y/elomaxz)
+**<abbr title="Elm Model–View–Update">MVU</abbr> in C** (a message in; new state and effects out) — [elomaxz](https://github.com/p10ns11y/elomaxz)
 
 </td>
 <td valign="top" width="50%">
@@ -56,12 +56,12 @@
 <tr>
 <td valign="top" width="50%">
 
-**Arch Linux** themed by Tamil landscape-seasons (*tinai*) and circadian science — [arch-machine](https://github.com/p10ns11y/arch-machine)
+**Arch Linux** themed by Tamil <abbr title="landscape-season poetic ecology">tinai</abbr> and circadian science — [arch-machine](https://github.com/p10ns11y/arch-machine)
 
 </td>
 <td valign="top" width="50%">
 
-**Tamil poetic metre** in Rust compiled to WebAssembly — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
+**Tamil poetic metre** in Rust compiled to <abbr title="WebAssembly">WASM</abbr> — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
 
 </td>
 </tr>
@@ -100,16 +100,46 @@
 </tr>
 <tr>
 <td valign="top"><strong>Wisdom box</strong></td>
-<td valign="top">Learned Key Energy Indicators — <em>when</em> a signal earns an act</td>
+<td valign="top">Learned <abbr title="Key Energy Indicators">KEI</abbr> — <em>when</em> a signal earns an act</td>
 <td valign="top"><strong>Router + eval</strong>: which model, when to escalate, what to remember</td>
 </tr>
 <tr>
-<td valign="top"><strong>Key Energy Indicators</strong></td>
+<td valign="top"><strong><abbr title="Key Energy Indicators">KEI</abbr></strong></td>
 <td valign="top">Few cheap signals; stop streaming raw telemetry</td>
-<td valign="top"><strong>Key Decision Indicators</strong>: tool outcomes, corrections, confidence</td>
+<td valign="top"><strong><abbr title="Key Decision Indicators">KDI</abbr></strong>: tool outcomes, corrections, confidence</td>
 </tr>
 </tbody>
 </table>
+
+<details>
+<summary>Same five boxes — diagram</summary>
+
+```mermaid
+flowchart LR
+  subgraph y2015["2015 · phone"]
+    O1["Orchestrator"]
+    T1["Temporal–spatial"]
+    K1["Knowledge graph"]
+    C1["Control box"]
+    W1["Wisdom box"]
+  end
+  subgraph y2026["2026 · agents"]
+    O2["Harness"]
+    T2["When / where"]
+    K2["xAI Collections"]
+    C2["Guards"]
+    W2["Router + eval"]
+  end
+  O1 --> O2
+  T1 --> T2
+  K1 --> K2
+  C1 --> C2
+  W1 --> W2
+```
+
+<sub>Skim the table above; open this only if the map helps.</sub>
+
+</details>
 
 I do **not** claim I designed GPT or Grok. I claim these five boxes keep reappearing. If a lab hid a sixth, I would not know. **Now:** I **changed** Grok Build (not only read it) and saw **slight** drops in tokens and dollar cost; full quality/perf eval is **paused** on quota. Target: **quality of outcome per token per watt**. Notes: [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs). Side experiments: [@thecuriousts](https://github.com/thecuriousts).
 
@@ -123,16 +153,20 @@ Three you can click now — eight more in [Featured](#featured).
 
 **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)**
 
+<sub>install · agent reactor</sub>
+
 Linux agent reactor you install. Guards fire before you step in.
 
-[download v2](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64)
+<kbd><a href="https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64">download v2</a></kbd>
 
 </td>
 <td valign="top" width="33%" align="center">
 
 **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)**
 
-Live CV · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa) · [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus)
+<sub>CV · retrieve-then-answer</sub>
+
+Live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/qa</a></kbd> · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/focus">/focus</a></kbd>
 
 xAI Collections, not a homemade vector stack
 
@@ -140,6 +174,8 @@ xAI Collections, not a homemade vector stack
 <td valign="top" width="33%" align="center">
 
 **[sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension)**
+
+<sub>origin · 2015 thesis</sub>
 
 Built in the toolbar while writing the 2015 thesis.
 
@@ -206,7 +242,7 @@ Then months of **parent duty**, then the 2026 instances below. Tesla / SpaceX is
 
 ## Featured
 
-Open three below — that machine, running, from the repo **today**. The rest fold.
+Open three below — that machine, running, from the repo **today**. The rest fold. <sub>Skim the three proof cards above first.</sub>
 
 ### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
 
@@ -214,22 +250,22 @@ Open three below — that machine, running, from the repo **today**. The rest fo
 
 ### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · [collab-finder](https://github.com/p10ns11y/collab-finder) · TS · Rust
 
-**Linux program you install + a Heading screen** (the next act, not a hunt board). You step in only when **guards** fire — fit, cost, rate, or “promote this CV” — not every click. Secrets stay in the Rust keyring. **Generating an apply CV never overwrites the master résumé.** The status bar writes a one-shot `open-route=heading` file; the app reads it and opens that screen. [Download v2](https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64).
+**Linux program you install + a Heading screen** (the next act, not a hunt board). You step in only when **guards** fire — fit, cost, rate, or “promote this CV” — not every click. Secrets stay in the Rust keyring. **Generating an apply CV never overwrites the master résumé.** The status bar writes a one-shot <kbd>open-route=heading</kbd> file; the app reads it and opens that screen. <kbd><a href="https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64">Download v2</a></kbd>.
 
 ### [elomaxz](https://github.com/p10ns11y/elomaxz) · C · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 
-**Elm Model–View–Update in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. Composition is actor-style. The program I open every day is **[premflow](https://github.com/thecuriousts/premflow)** — not a `counter` demo.
+**Elm <abbr title="Model–View–Update">MVU</abbr> in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. Composition is actor-style. The program I open every day is **[premflow](https://github.com/thecuriousts/premflow)** — not a `counter` demo.
 
 <details>
 <summary>Eight more of that machine</summary>
 
-### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TypeScript · Rust · WebAssembly · [Live](https://seiyul-alagi.vercel.app/)
+### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TypeScript · Rust · <abbr title="WebAssembly">WASM</abbr> · [Live](https://seiyul-alagi.vercel.app/)
 
 **Machine-learned beliefs are frozen *before* classical metre rules** ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)) so later rules cannot rewrite the story. Each parse is a **51-number vector** (counts and linkage histograms — **no raw text**). Offline: random sampling, dimension reduction, logistic fit, sequence-label sketches, control-style plant / observer / controller. Online: the WebAssembly module **predicts metre on every parse**. The classical checker stays empty until that evidence is frozen.
 
 ### [arch-machine](https://github.com/p10ns11y/arch-machine) · Shell · Python · Rust
 
-**`archy`** is a thin top controller plus domain jobs (Eagle + satellites) — not a pile of dotfiles. Thin host, then optional **machine-learning** or **security** profiles, evidence bundles, inventory, weekly scans. **groxy** talks to a Grok agent over the Agent Client Protocol, or pings you on X. eye-comfort: body-clock lighting + latitude + Tamil **landscape-seasons (*tinai*)** and the **24-minute clock (*nāḻikai*)**. After Omarchy resets the status bar, personal-tweaks put the Heading chip back.
+**`archy`** is a thin top controller plus domain jobs (Eagle + satellites) — not a pile of dotfiles. Thin host, then optional **machine-learning** or **security** profiles, evidence bundles, inventory, weekly scans. **groxy** talks to a Grok agent over the <abbr title="Agent Client Protocol">ACP</abbr>, or pings you on X. eye-comfort: body-clock lighting + latitude + Tamil <abbr title="landscape-season">tinai</abbr> and the <ruby>நாழிகை<rt>nāḻikai · 24-minute clock</rt></ruby>. After Omarchy resets the status bar, personal-tweaks put the Heading chip back.
 
 ### [shellyxz.sh](https://github.com/p10ns11y/shellyxz.sh) · Shell
 
@@ -249,11 +285,11 @@ Harvest **Cursor + Grok Build + Kilo + Cline** on disk. Raw transcripts, harness
 
 ### [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself) · Python · [Live](https://prototype-it-to-explain-itself.sathyam-peram.workers.dev/)
 
-A tiny character LSTM (next-token net), a **ReAct** loop (reason, then act, then observe), memory, a **self-critique data factory**, and a typed workflow — the agent-improves-itself flywheel you can hold in your head. [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself)
+A tiny character LSTM (next-token net), a **<abbr title="Reason + Act + Observe">ReAct</abbr>** loop (reason, then act, then observe), memory, a **self-critique data factory**, and a typed workflow — the agent-improves-itself flywheel you can hold in your head. [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself)
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
-**Retrieve-then-answer was already in xAI Collections.** Upload persona and CV — **xAI** splits the text and builds the vectors (I noticed them appear on upload; it was not a loud feature while X was still yelling “build your own retrieve-then-answer stack”). `/qa` only **searches** (`documents/search`) and asks Grok. No chunker, no embed model, no Pinecone or Postgres-vector store of my own. Local `qa-index.json` is the fallback when that reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
+**Retrieve-then-answer was already in xAI Collections.** Upload persona and CV — **xAI** splits the text and builds the vectors (I noticed them appear on upload; it was not a loud feature while X was still yelling “build your own retrieve-then-answer stack”). <kbd>/qa</kbd> only **searches** (`documents/search`) and asks Grok. No chunker, no embed model, no Pinecone or Postgres-vector store of my own. Local `qa-index.json` is the fallback when that reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
 
 </details>
 

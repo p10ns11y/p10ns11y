@@ -92,14 +92,25 @@ Fixed order — do not reorder without updating the surface brief:
 | Bullet list | Open-source PRs, archive surfaces (Tamil stays out of tables) |
 | `<kbd>` | Hero nav, Connect |
 | `<details>` | Featured overflow, thesis papers, course craft, archive |
+| Mermaid in `<details>` | Optional box-map diagram under architecture table |
 
 ## Typography and rhythm
 
+Type roles on GitHub (no custom fonts):
+
+| Role | Element | Use for |
+|------|---------|---------|
+| Display | `#` H1 | Name only |
+| Lead | `**bold**` | Tagline, section claims |
+| Metadata | `<sub>` | Location, shield row, cell labels, footer |
+| Control | `<kbd>` | Nav, Connect, routes, downloads |
+| Gloss | `<abbr title="...">` | MVU, KEI, KDI, ACP, ReAct, WASM, EEaaS, tinai |
+| Script | `<ruby>…<rt>…</rt></ruby>` | Tamil terms with roman reading (e.g. நாழிகை) |
+| Code | backticks | Paths, flags, file names |
+
 - **Bold** for emphasis on key terms and box names — not entire sentences
-- *Italic* for Tamil terms and foreign words on first use
-- `code` for file paths, commands, technical identifiers
+- *Italic* sparingly; prefer `<abbr>` or `<ruby>` for non-English terms
 - Horizontal rule `---` between hero and body, before footer
-- No ALL CAPS except established acronyms (IEEE, WASM, etc.)
 
 ## Responsive intent
 

@@ -50,7 +50,9 @@
 ```mermaid
 %%{init: {
   'theme': 'base',
+  'flowchart': { 'useMaxWidth': false, 'htmlLabels': true, 'padding': 4, 'nodeSpacing': 10, 'rankSpacing': 28 },
   'themeVariables': {
+    'fontSize': '12px',
     'primaryColor': '#628875',
     'primaryTextColor': '#F5F0E8',
     'primaryBorderColor': '#9A7040',
@@ -70,17 +72,19 @@
   }
 }}%%
 flowchart LR
-  subgraph y2015["2015 · phone"]
+  subgraph y2015["2015"]
+    direction TB
     O1["Orchestrator"]
-    T1["Temporal–spatial"]
+    T1["Time / place"]
     K1["Knowledge graph"]
-    C1["Control box"]
-    W1["Wisdom box"]
+    C1["Control"]
+    W1["Wisdom"]
   end
-  subgraph y2026["2026 · agents"]
+  subgraph y2026["2026"]
+    direction TB
     O2["Harness"]
     T2["When / where"]
-    K2["xAI Collections"]
+    K2["Vector memory"]
     C2["Guards"]
     W2["Router + eval"]
   end
@@ -116,7 +120,7 @@ flowchart LR
 <tr>
 <td valign="top"><strong>Knowledge graph</strong></td>
 <td valign="top">Organize logs for cheaper next decision</td>
-<td valign="top"><strong>xAI Collections</strong> — often <strong>vectors</strong>, not a property graph</td>
+<td valign="top"><strong>Vector memory</strong> — embeddings / retrieval, not a property graph</td>
 </tr>
 <tr>
 <td valign="top"><strong>Control box</strong></td>
@@ -179,7 +183,7 @@ Three open — rest folded. Same three as [running now](#that-machine-running).
 
 ### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TS · Rust · <abbr title="WebAssembly">WASM</abbr> · [Live](https://seiyul-alagi.vercel.app/)
 
-ML beliefs frozen *before* classical metre rules ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)). Each parse → **51-number vector** (no raw text). WASM **predicts metre on every parse**; classical checker waits on frozen evidence.
+ML beliefs frozen *before* classical metre rules ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)). Each parse → **51-number vector** (counts and linkage histograms — **no raw text**). Offline: random sampling, dimension reduction, logistic fit, sequence-label sketches, control-style plant / observer / controller. Online: WASM **predicts metre on every parse**; the classical checker stays empty until that evidence is frozen.
 
 ### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · TS · Rust
 

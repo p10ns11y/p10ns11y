@@ -41,7 +41,7 @@
 > **One person.** This stack does not recur.
 
 - **<abbr title="Elm Model–View–Update">MVU</abbr> in C** — [elomaxz](https://github.com/p10ns11y/elomaxz)
-- **Desktop agent reactor** — [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)
+- **Desktop agent reactor** — [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases)
 - **Arch Linux + Tamil <abbr title="landscape-season poetic ecology">tinai</abbr> + circadian** — [arch-machine](https://github.com/p10ns11y/arch-machine)
 - **Tamil poetic metre → <abbr title="WebAssembly">WASM</abbr>** — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
 
@@ -105,7 +105,7 @@
 
 Three clicks — eight more in [Featured](#featured).
 
-- **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2)** — installable agent reactor; guards before you step in · <kbd><a href="https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64">download v2</a></kbd>
+- **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases)** — installable agent reactor; guards before you step in · <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">releases</a></kbd>
 - **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)** — live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/qa</a></kbd> · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/focus">/focus</a></kbd> · xAI Collections, not a homemade vector stack
 - **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)** — Tamil prosody in Rust → WASM; ML frozen before classical rules · [live](https://seiyul-alagi.vercel.app/)
 
@@ -141,9 +141,9 @@ Three open — rest folded. Same three as [running now](#that-machine-running).
 
 ML beliefs frozen *before* classical metre rules ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)). Each parse → **51-number vector** (counts and linkage histograms — **no raw text**). Offline: random sampling, dimension reduction, logistic fit, sequence-label sketches, control-style plant / observer / controller. Online: WASM **predicts metre on every parse**; the classical checker stays empty until that evidence is frozen.
 
-### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases/tag/v2) · TS · Rust
+### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases) · TS · Rust
 
-Installable Linux agent + **Heading** screen (next act, not a hunt board). **Guards** on fit, cost, rate, CV promote. Rust keyring; apply CV never overwrites master résumé. <kbd><a href="https://github.com/p10ns11y/collab-finder/releases/download/v2/kanithanj.ai-linux-x86_64">Download v2</a></kbd>.
+Installable Linux agent + **Heading** screen (next act, not a hunt board). **Guards** on fit, cost, rate, CV promote. Rust keyring; apply CV never overwrites master résumé. <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">Releases</a></kbd>.
 
 ### [elomaxz](https://github.com/p10ns11y/elomaxz) · C · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 

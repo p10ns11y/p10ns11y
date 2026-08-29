@@ -112,7 +112,7 @@ Three clicks — eight more in [Featured](#featured).
 ## Connect
 
 > [!TIP]
-> **Available now** for a permanent senior role with AI and Agentic workflows for product and service.
+> **Available now** for a permanent senior role that builds AI and agentic workflows across product and service.
 >
 > <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/">CV</a></kbd>
 > ·

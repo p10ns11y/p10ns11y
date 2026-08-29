@@ -112,6 +112,8 @@ Three clicks — eight more in [Featured](#featured).
 ## Connect
 
 > [!TIP]
+> **Available now** for a permanent senior role with AI and Agentic workflows for product and service.
+>
 > <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/">CV</a></kbd>
 > ·
 > <kbd><a href="mailto:sathyam.peram@gmail.com">email</a></kbd>

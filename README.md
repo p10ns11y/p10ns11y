@@ -158,7 +158,7 @@ Installable Linux agent + **Heading** screen (next act, not a hunt board). **Gua
 
 ### [arch-machine](https://github.com/p10ns11y/arch-machine) · Shell · Python · Rust
 
-**`archy` steers. Shell does the work. No pacman-in-Rust.** Jobs are offline (**no heartbeats**); the **NEXT** bar names the next act. **groxy** notifies on X or serves <abbr title="Agent Client Protocol">ACP</abbr>. Phone DMs do not pick which Grok window. **keeper** is any 2 of 3 (passphrase, offline escrow, this device), not a password manager. eye-comfort: Tamil <abbr title="landscape-season">tinai</abbr> and the <ruby>நாழிகை<rt>nāḻikai · 24-minute clock</rt></ruby> (standalone; not in install profiles). Thin install does **not** put `archy` on PATH yet. After Omarchy resets the bar, personal-tweaks put the Heading chip back.
+**`archy` steers. Shell does the work. No pacman-in-Rust.** Jobs are offline (**no heartbeats**); the **NEXT** bar names the next act. **groxy** notifies on X or serves <abbr title="Agent Client Protocol">ACP</abbr>. Phone DMs do not pick which Grok window. **keeper** is any 2 of 3 (passphrase, offline escrow, this device). It holds MFA packs and passwords; shelves by category come later. eye-comfort: Tamil <abbr title="landscape-season">tinai</abbr> and the <ruby>நாழிகை<rt>nāḻikai · 24-minute clock</rt></ruby> (standalone; not in install profiles). Thin install does **not** put `archy` on PATH yet. After Omarchy resets the bar, personal-tweaks put the Heading chip back.
 
 ### [shellyxz.sh](https://github.com/p10ns11y/shellyxz.sh) · Shell
 

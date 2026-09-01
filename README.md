@@ -139,30 +139,30 @@ Three open — rest folded. Same three as [running now](#that-machine-running).
 
 ### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TS · Rust · <abbr title="WebAssembly">WASM</abbr> · [Live](https://seiyul-alagi.vercel.app/)
 
-ML beliefs frozen *before* classical metre rules ([issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36)). Each parse → **51-number vector** (counts and linkage histograms — **no raw text**). Offline: random sampling, dimension reduction, logistic fit, sequence-label sketches, control-style plant / observer / controller. Online: WASM **predicts metre on every parse**; the classical checker stays empty until that evidence is frozen.
+ML beliefs frozen *before* classical sketches (**A12**, 2026-07-27). Each parse → **51-number vector** (counts and linkage histograms — **no raw text**). Classical is a **soft dual-truth** path: it never subtracts from hybrid scores and is **not** a calibrated %. [Issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36) also ships an **8-cell** cir × acai தளை table. WASM **predicts metre on every parse**. Soft sketches, not full classical proof.
 
 ### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases) · TS · Rust
 
-Installable Linux agent + **Heading** screen (next act, not a hunt board). **Guards** on fit, cost, rate, CV promote. Rust keyring; apply CV never overwrites master résumé. <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">Releases</a></kbd>.
+Installable Linux agent + **Heading** screen (next act, not a hunt board). **Guards** on fit, cost, rate, CV promote. Apply CV is overlay only; master résumé is never written. Sweden ads load **JobTech JSON**, not cookie-wall HTML. xAI is Evaluate/Prepare only; the key never rides IPC. <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">Releases</a></kbd>.
 
 ### [elomaxz](https://github.com/p10ns11y/elomaxz) · C · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 
-**Elm <abbr title="Model–View–Update">MVU</abbr> in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. Composition is actor-style. The program I open every day is **[premflow](https://github.com/thecuriousts/premflow)** — not a `counter` demo.
+**Elm <abbr title="Model–View–Update">MVU</abbr> in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. Same TEA loop as `archy`. The program I open every day is **[premflow](https://github.com/thecuriousts/premflow)** — not a `counter` demo. The CLI runner is a stub; an actor message-bus is not shipped.
 
 <details>
 <summary>Eight more of that machine</summary>
 
 ### [sorkalam-extension](https://github.com/p10ns11y/sorkalam-extension) · JS · 2014→2026
 
-**Built in a hurry. Used for the thesis.** Highlight → meaning **in the popup** → pick a **better word** without leaving [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150). Wiktionary and Tamil Virtual University stay **in the popup**. Grok and Grokipedia when you want **the subject and more context**, not just a gloss — they open in a new tab so the extension **does not pay model API bills**. Current Chrome extension format (Manifest V3). Tap for meaning; go deeper only when you ask.
+**Built in a hurry. Used for the thesis.** Highlight → meaning **in the popup** → pick a **better word** without leaving [Energy Efficiency as an Orchestration Service](https://ieeexplore.ieee.org/document/7396150). Wiktionary and Tamil Virtual University stay **in the popup**. Grok and Grokipedia open in a new tab — **no** `host_permissions` for grok.com — so the extension **does not pay model API bills**. Manifest V3. Not on the Chrome Web Store yet.
 
 ### [arch-machine](https://github.com/p10ns11y/arch-machine) · Shell · Python · Rust
 
-**`archy`** is a thin top controller plus domain jobs (Eagle + satellites) — not a pile of dotfiles. Thin host, then optional **machine-learning** or **security** profiles, evidence bundles, inventory, weekly scans. **groxy** talks to a Grok agent over the <abbr title="Agent Client Protocol">ACP</abbr>, or pings you on X. eye-comfort: body-clock lighting + latitude + Tamil <abbr title="landscape-season">tinai</abbr> and the <ruby>நாழிகை<rt>nāḻikai · 24-minute clock</rt></ruby>. After Omarchy resets the status bar, personal-tweaks put the Heading chip back.
+**`archy` steers. Shell does the work. No pacman-in-Rust.** Jobs are offline (**no heartbeats**); the **NEXT** bar names the next act. **groxy** notifies on X or serves <abbr title="Agent Client Protocol">ACP</abbr>. Phone DMs do not pick which Grok window. **keeper** is any 2 of 3 (passphrase, offline escrow, this device), not a password manager. eye-comfort: Tamil <abbr title="landscape-season">tinai</abbr> and the <ruby>நாழிகை<rt>nāḻikai · 24-minute clock</rt></ruby> (standalone; not in install profiles). Thin install does **not** put `archy` on PATH yet. After Omarchy resets the bar, personal-tweaks put the Heading chip back.
 
 ### [shellyxz.sh](https://github.com/p10ns11y/shellyxz.sh) · Shell
 
-**Kernel versus plugin** on zsh, bash, and fish: a PATH contract, plus `ab` / `av` / `at` panes to **review agent work**. An ontology skill so agents stop moving files across the kernel boundary.
+**Kernel versus plugin** on zsh, bash, and fish. Kernel must boot **without** tmux and must not hardcode `grok` or Cursor. Plugin `ab` / `av` / `at` need `$TMUX`. Ontology graph so agents stop moving files across the kernel boundary. A bad rc can brick new terminals; recover with `bash --norc` / `recover-shell.sh`.
 
 ### [adaptate](https://github.com/p10ns11y/adaptate) · TS · [npm](https://www.npmjs.com/package/adaptate)
 
@@ -170,15 +170,15 @@ One optional Zod schema. **Each API consumer names which fields it requires at r
 
 ### [skills](https://github.com/p10ns11y/skills) · [skills.sh](https://skills.sh/p10ns11y/skills)
 
-**Scars, not best-practices.** Formal-first `SKILL.md`. **EVA emptiness** = a prior when the map is missing (do not pretend you already know). Fission then fusion of context. **Cognitive-load dual track:** a human’s working memory versus an agent’s parallel tools. Extracted after the fighting stopped — not designed in a vacuum.
+**Scars, not best-practices.** Formal-first `SKILL.md`; English `references/` expand only if still stuck. **EVA emptiness** = a prior when the map is missing (do not pretend you already know). Distill leftovers were **archived** — high-recall tool sequences, not scars. **Cognitive-load dual track:** a human’s working memory versus an agent’s parallel tools.
 
 ### [agent-prompt-tuning-lab](https://github.com/p10ns11y/agent-prompt-tuning-lab) · JS
 
-Harvest **Cursor + Grok Build + Kilo + Cline** on disk. Raw transcripts, harness dumps, and agent **dotfiles stay local**. Only the **distill** step talks to a language model — and only **tidied, extracted turns**, not the bulk session. Then **Rhai** workflow scripts. No bundled dataset.
+Harvest **Cursor + Grok Build + Kilo + Cline** on disk. Raw transcripts, harness dumps, and agent **dotfiles stay local**. Only the **distill** step talks to a language model — and only **tidied, extracted turns**, not the bulk session. **Rhai** scores and composes; it **never** calls a model. No bundled dataset. Review drafts before promote.
 
 ### [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself) · Python · [Live](https://prototype-it-to-explain-itself.sathyam-peram.workers.dev/)
 
-A tiny character LSTM (next-token net), a **<abbr title="Reason + Act + Observe">ReAct</abbr>** loop (reason, then act, then observe), memory, a **self-critique data factory**, and a typed workflow — the agent-improves-itself flywheel you can hold in your head. [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself)
+One **Predictor** contract (`prompt → text`). <abbr title="Reason + Act + Observe">ReAct</abbr>, memory, and eval never touch TinyLSTM. Playground backends are tiny-lstm plus stubs; `from_ollama` is a comment. Typed workflow is Python (the ideal is Rust). Tiny story-overfit model, so success rates stay low.
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://captain.kingsparrow.space/) · [/qa](https://captain.kingsparrow.space/qa)
 

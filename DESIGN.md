@@ -47,7 +47,7 @@ Fixed order — do not reorder without updating the surface brief:
 | 8 | An inch at a time | Git-dated bullet timeline | Visible |
 | 9 | Featured | 11 repos, thepulimaangani first; first 3 open, eight in `<details>` | Mixed |
 | 10 | Cooking | 5-item bullet list | Visible |
-| 11 | Proof of concepts | 2-item bullet list | Visible |
+| 11 | Proof of concepts | 3-item bullet list | Visible |
 | 12 | Long arc | Evidence + limits; thesis in `details` | Mixed |
 | 13 | Writing & packages | npm + long-form | Visible |
 | 14 | More | Open source PRs, archive | Collapsed |

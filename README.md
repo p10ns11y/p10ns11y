@@ -139,7 +139,7 @@ Three open — rest folded. Same three as [running now](#that-machine-running).
 
 ### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TS · Rust · <abbr title="WebAssembly">WASM</abbr> · [Live](https://seiyul-alagi.vercel.app/)
 
-ML beliefs frozen *before* classical sketches (pattern-card freeze **A12**, 2026-07-27). Each parse → **51-number vector** (counts and linkage histograms — **no raw text**). Classical is a **soft dual-truth** path: it never subtracts from hybrid scores and is **not** a calibrated %. [Issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36) also ships an **8-cell** cir × acai தளை table. WASM **predicts metre on every parse**. Soft sketches, not full classical proof.
+ML beliefs frozen *before* classical sketches (metre pattern cards locked 2026-07-27). Each parse → **51-number vector** (counts and linkage histograms — **no raw text**). Classical is a **soft dual-truth** path: it never subtracts from hybrid scores and is **not** a calibrated %. [Issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36) also ships an **8-cell** cir × acai தளை table. WASM **predicts metre on every parse**. Soft sketches, not full classical proof.
 
 ### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases) · TS · Rust
 

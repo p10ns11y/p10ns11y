@@ -116,7 +116,7 @@ Insert a **"Running now"** (or equivalent) micro-section **immediately after the
 | Slot | Project | Why |
 |------|---------|-----|
 | 1 | kanithanj.ai | Downloadable agent reactor; guards, keyring, hiring-adjacent "Heading" screen |
-| 2 | devprofile | Live CV + /qa + /focus — the surface a hiring reader should click |
+| 2 | devprofile | Live CV + /qa + /essays — the surface a hiring reader should click |
 | 3 | sorkalam-extension | Origin story; built during thesis; ties claim to 2015 |
 
 Each entry: **one sentence** (claim → proof → click). Links to live/download/repo. This gives the skim reader proof without reading 11 Featured blocks.

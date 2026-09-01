@@ -139,15 +139,15 @@ Three open — rest folded. Same three as [running now](#that-machine-running).
 
 ### [thepulimaangani](https://github.com/p10ns11y/thepulimaangani) · TS · Rust · <abbr title="WebAssembly">WASM</abbr> · [Live](https://seiyul-alagi.vercel.app/)
 
-ML beliefs frozen *before* classical sketches (**A12**, 2026-07-27). Each parse → **51-number vector** (counts and linkage histograms — **no raw text**). Classical is a **soft dual-truth** path: it never subtracts from hybrid scores and is **not** a calibrated %. [Issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36) also ships an **8-cell** cir × acai தளை table. WASM **predicts metre on every parse**. Soft sketches, not full classical proof.
+ML beliefs frozen *before* classical sketches (pattern-card freeze **A12**, 2026-07-27). Each parse → **51-number vector** (counts and linkage histograms — **no raw text**). Classical is a **soft dual-truth** path: it never subtracts from hybrid scores and is **not** a calibrated %. [Issue #36](https://github.com/p10ns11y/thepulimaangani/issues/36) also ships an **8-cell** cir × acai தளை table. WASM **predicts metre on every parse**. Soft sketches, not full classical proof.
 
 ### [kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases) · TS · Rust
 
-Installable Linux agent + **Heading** screen (next act, not a hunt board). **Guards** on fit, cost, rate, CV promote. Apply CV is overlay only; master résumé is never written. Sweden ads load **JobTech JSON**, not cookie-wall HTML. xAI is Evaluate/Prepare only; the key never rides IPC. <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">Releases</a></kbd>.
+Installable Linux agent + **Heading** screen (next act, not a hunt board). **Guards** on fit, cost, rate, CV promote. Apply CV is overlay only; master résumé is never written. Sweden ads load **JobTech JSON**, not cookie-wall HTML. xAI is Evaluate/Prepare only; the key never rides the Tauri wire. <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">Releases</a></kbd>.
 
 ### [elomaxz](https://github.com/p10ns11y/elomaxz) · C · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 
-**Elm <abbr title="Model–View–Update">MVU</abbr> in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. Same TEA loop as `archy`. The program I open every day is **[premflow](https://github.com/thecuriousts/premflow)** — not a `counter` demo. The CLI runner is a stub; an actor message-bus is not shipped.
+**Elm <abbr title="Model–View–Update">MVU</abbr> in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. Same loop as `archy`. The program I open every day is **[premflow](https://github.com/thecuriousts/premflow)** — not a `counter` demo. The CLI runner is a stub; an actor message-bus is not shipped.
 
 <details>
 <summary>Eight more of that machine</summary>

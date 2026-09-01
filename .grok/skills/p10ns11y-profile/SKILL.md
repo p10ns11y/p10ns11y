@@ -38,7 +38,7 @@ Skip: bio/`hireable` (needs `gh auth refresh -s user`). Live employer / apply st
 ## Settled facts (do not re-litigate)
 
 - **Sorkalam:** built fast; **used while writing** Energy Efficiency as an Orchestration Service. Popup = meaning (Wiktionary, Tamil Virtual University). Grok/Grokipedia = **subject and more context**, open out so the extension **does not pay API bills**. Not “only if you leave.”
-- **devprofile `/qa`:** **xAI Collections** chunks and embeds on upload (noticed, not loudly announced). App only `documents/search` + Grok. No own chunker / embed model / Pinecone. Local `qa-index.json` = fallback. Say **xAI**, not “they.”
+- **devprofile `/qa`:** production (the live CV) runs the xAI reactor (`ENABLE_XAI_REACTOR=true`). Collections + Grok. Code default without the flag is local `qa-index.json` plus HuggingFace embeddings. Optional Ollama (`OLLAMA_BASE_URL`) on that local path instead of Grok, and it is slow. Local index is also the fallback. No Pinecone. Say **xAI**, not “they.”
 - **prompt-tuning-lab:** harvest stays local. Distill LLM sees **tidied turns only** — not raw harness or agent dotfiles. Never “nothing leaves the machine.”
 - **AgenC protocol:** **fork** — timeline only, not Featured as original.
 - **Harness:** **tweaked** Grok Build; **slight** token/$ wins. Full quality/perf eval **paused** (would eat the quota). Target remains quality per token per watt. Notes: `grok-build` `intelli-arch-designs/`.

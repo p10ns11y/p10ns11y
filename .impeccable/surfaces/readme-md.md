@@ -57,7 +57,7 @@ Cold visitors land on `github.com/p10ns11y` with 10–30 seconds of attention. T
 | An inch at a time | Git-dated spine | Correct content; **misplaced between claim and Featured** — breaks claim→proof momentum |
 | Featured (11 items) | "Machine running" | Equal weight on all 11; no "start here" tier; **devprofile (CV/qa) is last** despite being the hire CTA surface |
 | Cooking (5 rows) | Present-tense heat | Good table format; clear |
-| POCs (2 rows) | Clickable proof | Good; appropriately short |
+| POCs (3 rows) | Clickable proof | Good; appropriately short |
 | Long arc | Evidence + limits | Correctly does not repeat table; thesis details properly collapsed |
 
 **Verdict:** Proof material is excellent but sequenced for the author’s narrative spine, not the hiring reader’s decision loop.
@@ -116,7 +116,7 @@ Insert a **"Running now"** (or equivalent) micro-section **immediately after the
 | Slot | Project | Why |
 |------|---------|-----|
 | 1 | kanithanj.ai | Downloadable agent reactor; guards, keyring, hiring-adjacent "Heading" screen |
-| 2 | devprofile | Live CV + /qa + /focus — the surface a hiring reader should click |
+| 2 | devprofile | Live CV + /qa + /essays — the surface a hiring reader should click |
 | 3 | sorkalam-extension | Origin story; built during thesis; ties claim to 2015 |
 
 Each entry: **one sentence** (claim → proof → click). Links to live/download/repo. This gives the skim reader proof without reading 11 Featured blocks.
@@ -224,7 +224,7 @@ Each entry: **one sentence** (claim → proof → click). Links to live/download
 **Content ranges (confirmed):**
 - Featured: 11 items (fixed)
 - Cooking: 5 rows
-- POCs: 2 rows
+- POCs: 3 rows
 - Timeline: 7 rows
 - Architecture table: 6 rows
 - Running now: 3 items (new, fixed)

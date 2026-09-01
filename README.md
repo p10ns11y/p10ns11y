@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-p10ns11y-2A2622?style=flat-square&logo=github&logoColor=F5F0E8)](https://github.com/p10ns11y)
 &nbsp;
-[![CV](https://img.shields.io/badge/CV-live-4A6B5C?style=flat-square&logoColor=F5F0E8)](https://peramanathan-sathyamoorthy-cv.vercel.app/)
+[![CV](https://img.shields.io/badge/CV-live-4A6B5C?style=flat-square&logoColor=F5F0E8)](https://captain.kingsparrow.space/)
 &nbsp;
 [![X](https://img.shields.io/badge/X-@peramanathan-2A2622?style=flat-square&logo=x&logoColor=F5F0E8)](https://x.com/peramanathan)
 &nbsp;
@@ -45,7 +45,7 @@
 - **Arch Linux + Tamil <abbr title="landscape-season poetic ecology">tinai</abbr> + circadian** — [arch-machine](https://github.com/p10ns11y/arch-machine)
 - **Tamil poetic metre → <abbr title="WebAssembly">WASM</abbr>** — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
 
-[IEEE CloudCom 2015](https://ieeexplore.ieee.org/document/7396150) · [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). **Same five boxes, new clothes** — not big-lab internals · [/focus](https://peramanathan-sathyamoorthy-cv.vercel.app/focus)
+[IEEE CloudCom 2015](https://ieeexplore.ieee.org/document/7396150) · [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). **Same five boxes, new clothes** — not big-lab internals · [/essays](https://captain.kingsparrow.space/essays)
 
 <div align="center">
 <img src="images/architecture-map.svg" width="420" height="292" alt="2015 phone boxes mapped to 2026 agent clothes: orchestrator to harness, time/place to when/where, knowledge graph to vector memory, control to guards, wisdom to router plus eval">
@@ -106,13 +106,13 @@
 Three clicks — eight more in [Featured](#featured).
 
 - **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases)** — installable agent reactor; guards before you step in · <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">releases</a></kbd>
-- **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)** — live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/qa</a></kbd> · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/focus">/focus</a></kbd> · xAI Collections, not a homemade vector stack
+- **[devprofile](https://captain.kingsparrow.space/)** — live CV · <kbd><a href="https://captain.kingsparrow.space/qa">/qa</a></kbd> · <kbd><a href="https://captain.kingsparrow.space/essays">/essays</a></kbd> · production <kbd>/qa</kbd> is xAI Collections + Grok; local Ollama instead of Grok is slow
 - **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)** — Tamil prosody in Rust → WASM; ML frozen before classical rules · [live](https://seiyul-alagi.vercel.app/)
 
 ## Connect
 
 > [!TIP]
-> <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/">CV</a></kbd>
+> <kbd><a href="https://captain.kingsparrow.space/">CV</a></kbd>
 > ·
 > <kbd><a href="mailto:sathyam.peram@gmail.com">email</a></kbd>
 > ·
@@ -180,9 +180,9 @@ Harvest **Cursor + Grok Build + Kilo + Cline** on disk. Raw transcripts, harness
 
 A tiny character LSTM (next-token net), a **<abbr title="Reason + Act + Observe">ReAct</abbr>** loop (reason, then act, then observe), memory, a **self-critique data factory**, and a typed workflow — the agent-improves-itself flywheel you can hold in your head. [prototype-it-to-explain-itself](https://github.com/p10ns11y/prototype-it-to-explain-itself)
 
-### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
+### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://captain.kingsparrow.space/) · [/qa](https://captain.kingsparrow.space/qa)
 
-**Retrieve-then-answer was already in xAI Collections.** Upload persona and CV — **xAI** splits the text and builds the vectors (I noticed them appear on upload; it was not a loud feature while X was still yelling “build your own retrieve-then-answer stack”). <kbd>/qa</kbd> only **searches** (`documents/search`) and asks Grok. No chunker, no embed model, no Pinecone or Postgres-vector store of my own. Local `qa-index.json` is the fallback when that reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
+**Live <kbd>/qa</kbd> is the xAI reactor.** Production has `ENABLE_XAI_REACTOR` on. **xAI** Collections (`documents/search`) plus Grok. A local clone without that flag uses git-tracked `src/data/qa-index.json` and HuggingFace embeddings. Set `OLLAMA_BASE_URL` and Ollama writes the narrative instead of Grok. That local model is slow (default `qwen2.5:7b`, 120s timeout). The same local index is the fallback if the reactor is off or empty. No Pinecone. [**/essays**](https://captain.kingsparrow.space/essays).
 
 </details>
 
@@ -198,21 +198,24 @@ A tiny character LSTM (next-token net), a **<abbr title="Reason + Act + Observe"
 
 - **[v0-live-feed](https://v0-live-feed-app.vercel.app/)** — X “For You” as flow, not chrome clone · [repo](https://github.com/p10ns11y/v0-live-feed-app)
 - **[selfie sign-in](https://v0-selfie-sign-in-process.vercel.app)** — enroll → train → login · [repo](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)
+- **[OCI tracker](https://v0-oci-application-guide-and-tracker.vercel.app/)** — personal <abbr title="Overseas Citizen of India">OCI</abbr> application guide covering apostille, online application, documents, and <abbr title="Foreigners Regional Registration Office">FRRO</abbr>. Built on v0.app for personal use · [v0 chat](https://v0.app/peram/chat/oci-application-guide-and-tracker-k1UZXP5A5zv) · [repo](https://github.com/p10ns11y/v0-oci-application-guide-and-tracker) (private)
+
+If you are commercializing OCI, local assets, or finance with government digital services and APIs, I can spare a few hours to contribute and coach. Prefer people in their 20s trying to make one stop that works from anywhere.
 
 ## Long arc
 
 The diagram above is the claim. This is **evidence** and **honest limits**.
 
-When the calendar slips, **ship more than was asked** — not a thin late apology. Diagrams: [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus). Small token/$ wins after Grok Build tweaks; quality/perf eval **paused** on quota. Fleet learning is the provider’s job. [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
+When the calendar slips, **ship more than was asked** — not a thin late apology. Diagrams: [**/essays**](https://captain.kingsparrow.space/essays). Small token/$ wins after Grok Build tweaks; quality/perf eval **paused** on quota. Fleet learning is the provider’s job. [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
 
 <details>
 <summary>Thesis & papers · 2015–2017</summary>
 
-- **Thesis PDF** — [hosted full text](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/master-thesis.pdf) · [devprofile#32](https://github.com/p10ns11y/devprofile/pull/32)
+- **Thesis PDF** — [hosted full text](https://captain.kingsparrow.space/pdfs/master-thesis.pdf) · [devprofile#32](https://github.com/p10ns11y/devprofile/pull/32)
 - **Uppsala DiVA** — [record](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:893525) · [FULLTEXT01](https://www.diva-portal.org/smash/get/diva2:897798/FULLTEXT01.pdf) (often blocked off-campus)
 - **IEEE CloudCom 2015** — [EEaaS paper](https://ieeexplore.ieee.org/document/7396150)
 - **Wiley 2017** — [profiling paper](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915)
-- **On X** — [long arc post](https://x.com/Peramanathan/status/2035707867844809074) · [/focus write-up](https://peramanathan-sathyamoorthy-cv.vercel.app/focus)
+- **On X** — [long arc post](https://x.com/Peramanathan/status/2035707867844809074) · [/essays write-up](https://captain.kingsparrow.space/essays)
 
 Prefer hosted PDF when DiVA fails.
 
@@ -221,7 +224,7 @@ Prefer hosted PDF when DiVA fails.
 <details>
 <summary>Course craft · 2011</summary>
 
-- **Report PDF** — [ML face-recognition (2011)](https://peramanathan-sathyamoorthy-cv.vercel.app/pdfs/ml_face_recognition_report_2011.pdf)
+- **Report PDF** — [ML face-recognition (2011)](https://captain.kingsparrow.space/pdfs/ml_face_recognition_report_2011.pdf)
 - **On X** — [delayed work, shipped more](https://x.com/Peramanathan/status/2064993180328796667)
 
 Uppsala ML course — assignment ran late; extended into real implementation (finished solo). Same muscle as today.

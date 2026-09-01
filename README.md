@@ -198,7 +198,7 @@ A tiny character LSTM (next-token net), a **<abbr title="Reason + Act + Observe"
 
 - **[v0-live-feed](https://v0-live-feed-app.vercel.app/)** — X “For You” as flow, not chrome clone · [repo](https://github.com/p10ns11y/v0-live-feed-app)
 - **[selfie sign-in](https://v0-selfie-sign-in-process.vercel.app)** — enroll → train → login · [repo](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)
-- **[OCI tracker](https://v0-simple-app-build-mauve.vercel.app/)** — personal <abbr title="Overseas Citizen of India">OCI</abbr> application guide covering apostille, online application, documents, and <abbr title="Foreigners Regional Registration Office">FRRO</abbr>. Built on v0.app for personal use · [repo](https://github.com/p10ns11y/v0-oci-application-guide-and-tracker) (private)
+- **[OCI tracker](https://v0-oci-application-guide-and-tracker.vercel.app/)** — personal <abbr title="Overseas Citizen of India">OCI</abbr> application guide covering apostille, online application, documents, and <abbr title="Foreigners Regional Registration Office">FRRO</abbr>. Built on v0.app for personal use · [repo](https://github.com/p10ns11y/v0-oci-application-guide-and-tracker) (private)
 
 If you are commercializing OCI, local assets, or finance with government digital services and APIs, I can spare a few hours to contribute and coach. Prefer people in their 20s trying to make one stop that works from anywhere.
 

@@ -26,7 +26,7 @@ Direct, evidence-first, no-BS, occasionally wry. Never corporate or self-congrat
 ## Settled facts (do not re-litigate)
 
 - **Sorkalam:** built fast; **used while writing** Energy Efficiency as an Orchestration Service. Popup = meaning (Wiktionary, Tamil Virtual University). Grok/Grokipedia = **subject and more context**, open out so the extension **does not pay API bills**.
-- **devprofile `/qa`:** default is local git-tracked `src/data/qa-index.json` (hybrid RRF) plus HuggingFace transformers for embeddings. Optional agentic path (`ENABLE_XAI_REACTOR`) is **xAI** Collections + `documents/search` + Grok. Local index is also the fallback. No Pinecone. Say **xAI**, not “they.”
+- **devprofile `/qa`:** production (the live CV) runs the xAI reactor (`ENABLE_XAI_REACTOR=true`). Collections + Grok. Code default without the flag is local `qa-index.json` plus HuggingFace embeddings. Optional Ollama (`OLLAMA_BASE_URL`) on that local path instead of Grok, and it is slow. Local index is also the fallback. No Pinecone. Say **xAI**, not “they.”
 - **prompt-tuning-lab:** harvest stays local. Distill LLM sees **tidied turns only** — not raw harness or agent dotfiles.
 - **AgenC protocol:** **fork** — timeline only, not Featured as original.
 - **Harness:** **tweaked** Grok Build; **slight** token/$ wins. Full quality/perf eval **paused** on quota. Target: quality per token per watt.

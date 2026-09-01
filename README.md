@@ -106,7 +106,7 @@
 Three clicks — eight more in [Featured](#featured).
 
 - **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases)** — installable agent reactor; guards before you step in · <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">releases</a></kbd>
-- **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)** — live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/qa</a></kbd> · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/focus">/focus</a></kbd> · default local `qa-index.json`; xAI Collections only when the reactor is on
+- **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)** — live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/qa</a></kbd> · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/focus">/focus</a></kbd> · production <kbd>/qa</kbd> is xAI Collections + Grok; local Ollama instead of Grok is slow
 - **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)** — Tamil prosody in Rust → WASM; ML frozen before classical rules · [live](https://seiyul-alagi.vercel.app/)
 
 ## Connect
@@ -182,7 +182,7 @@ A tiny character LSTM (next-token net), a **<abbr title="Reason + Act + Observe"
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
-**Default <kbd>/qa</kbd> is a local index.** Git-tracked `src/data/qa-index.json` plus HuggingFace transformers for embeddings. Hybrid <abbr title="Reciprocal Rank Fusion">RRF</abbr> ranks the hits. Optional agentic path (`ENABLE_XAI_REACTOR`) uses **xAI** Collections, `documents/search`, and Grok. The same local index is the fallback when that reactor is off. No Pinecone. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
+**Live <kbd>/qa</kbd> is the xAI reactor.** Production has `ENABLE_XAI_REACTOR` on. **xAI** Collections (`documents/search`) plus Grok. A local clone without that flag uses git-tracked `src/data/qa-index.json` and HuggingFace embeddings. Set `OLLAMA_BASE_URL` and Ollama writes the narrative instead of Grok. That local model is slow (default `qwen2.5:7b`, 120s timeout). The same local index is the fallback if the reactor is off or empty. No Pinecone. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
 
 </details>
 

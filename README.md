@@ -147,7 +147,7 @@ Installable Linux agent + **Heading** screen (next act, not a hunt board). **Gua
 
 ### [elomaxz](https://github.com/p10ns11y/elomaxz) · C · [on X](https://x.com/Peramanathan/status/2060627340972151099)
 
-**Elm <abbr title="Model–View–Update">MVU</abbr> in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. Same loop as `archy`. The program I open every day is **[premflow](https://github.com/thecuriousts/premflow)** — not a `counter` demo. The CLI runner is a stub; an actor message-bus is not shipped.
+**Elm <abbr title="Model–View–Update">MVU</abbr> in C11:** a tagged message in; a pure `update` returns new state plus commands; the shell runs effects. **[premflow](https://github.com/thecuriousts/premflow)** pulls this library (`FetchContent`) and runs that loop every day: notes, wins, TTY pomo.
 
 <details>
 <summary>Eight more of that machine</summary>

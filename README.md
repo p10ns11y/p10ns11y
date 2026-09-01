@@ -106,7 +106,7 @@
 Three clicks — eight more in [Featured](#featured).
 
 - **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases)** — installable agent reactor; guards before you step in · <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">releases</a></kbd>
-- **[devprofile](https://captain.kingsparrow.space/)** — live CV · <kbd><a href="https://captain.kingsparrow.space/qa">/qa</a></kbd> · <kbd><a href="https://captain.kingsparrow.space/essays">/essays</a></kbd> · production <kbd>/qa</kbd> is xAI Collections + Grok; local Ollama instead of Grok is slow
+- **[devprofile](https://captain.kingsparrow.space/)** — live CV · <kbd><a href="https://captain.kingsparrow.space/qa">/qa</a></kbd> · <kbd><a href="https://captain.kingsparrow.space/essays">/essays</a></kbd> · production /qa is xAI Collections + Grok; local Ollama instead of Grok is slow
 - **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)** — Tamil prosody in Rust → WASM; ML frozen before classical rules · [live](https://seiyul-alagi.vercel.app/)
 
 ## Connect
@@ -182,7 +182,7 @@ A tiny character LSTM (next-token net), a **<abbr title="Reason + Act + Observe"
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://captain.kingsparrow.space/) · [/qa](https://captain.kingsparrow.space/qa)
 
-**Live <kbd>/qa</kbd> is the xAI reactor.** Production has `ENABLE_XAI_REACTOR` on. **xAI** Collections (`documents/search`) plus Grok. A local clone without that flag uses git-tracked `src/data/qa-index.json` and HuggingFace embeddings. Set `OLLAMA_BASE_URL` and Ollama writes the narrative instead of Grok. That local model is slow (default `qwen2.5:7b`, 120s timeout). The same local index is the fallback if the reactor is off or empty. No Pinecone. [**/essays**](https://captain.kingsparrow.space/essays).
+**Live `/qa` is xAI Collections + Grok.** Local Ollama instead of Grok is slow. Local `qa-index.json` is the fallback. No Pinecone. [**/essays**](https://captain.kingsparrow.space/essays).
 
 </details>
 

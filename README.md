@@ -106,7 +106,7 @@
 Three clicks — eight more in [Featured](#featured).
 
 - **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases)** — installable agent reactor; guards before you step in · <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">releases</a></kbd>
-- **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)** — live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/qa</a></kbd> · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/focus">/focus</a></kbd> · xAI Collections, not a homemade vector stack
+- **[devprofile](https://peramanathan-sathyamoorthy-cv.vercel.app/)** — live CV · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/qa">/qa</a></kbd> · <kbd><a href="https://peramanathan-sathyamoorthy-cv.vercel.app/focus">/focus</a></kbd> · default local `qa-index.json`; xAI Collections only when the reactor is on
 - **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)** — Tamil prosody in Rust → WASM; ML frozen before classical rules · [live](https://seiyul-alagi.vercel.app/)
 
 ## Connect
@@ -182,7 +182,7 @@ A tiny character LSTM (next-token net), a **<abbr title="Reason + Act + Observe"
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://peramanathan-sathyamoorthy-cv.vercel.app/) · [/qa](https://peramanathan-sathyamoorthy-cv.vercel.app/qa)
 
-**Retrieve-then-answer was already in xAI Collections.** Upload persona and CV — **xAI** splits the text and builds the vectors (I noticed them appear on upload; it was not a loud feature while X was still yelling “build your own retrieve-then-answer stack”). <kbd>/qa</kbd> only **searches** (`documents/search`) and asks Grok. No chunker, no embed model, no Pinecone or Postgres-vector store of my own. Local `qa-index.json` is the fallback when that reactor is off. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
+**Default <kbd>/qa</kbd> is a local index.** Git-tracked `src/data/qa-index.json` plus HuggingFace transformers for embeddings. Hybrid <abbr title="Reciprocal Rank Fusion">RRF</abbr> ranks the hits. Optional agentic path (`ENABLE_XAI_REACTOR`) uses **xAI** Collections, `documents/search`, and Grok. The same local index is the fallback when that reactor is off. No Pinecone. [**/focus**](https://peramanathan-sathyamoorthy-cv.vercel.app/focus).
 
 </details>
 

@@ -45,7 +45,7 @@
 - **Arch Linux + Tamil <abbr title="landscape-season poetic ecology">tinai</abbr> + circadian** — [arch-machine](https://github.com/p10ns11y/arch-machine)
 - **Tamil poetic metre → <abbr title="WebAssembly">WASM</abbr>** — [thepulimaangani](https://github.com/p10ns11y/thepulimaangani)
 
-[IEEE CloudCom 2015](https://ieeexplore.ieee.org/document/7396150) · [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). **Same five boxes, new clothes** — not big-lab internals · [/essays](https://captain.kingsparrow.space/essays)
+[IEEE CloudCom 2015](https://ieeexplore.ieee.org/document/7396150) · [Wiley 2017](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915). **Same five boxes, new clothes** — not big-lab internals · [/articles](https://captain.kingsparrow.space/articles)
 
 <div align="center">
 <img src="images/architecture-map.svg" width="420" height="292" alt="2015 phone boxes mapped to 2026 agent clothes: orchestrator to harness, time/place to when/where, knowledge graph to vector memory, control to guards, wisdom to router plus eval">
@@ -106,7 +106,7 @@
 Three clicks — eight more in [Featured](#featured).
 
 - **[kanithanj.ai](https://github.com/p10ns11y/collab-finder/releases)** — installable agent reactor; guards before you step in · <kbd><a href="https://github.com/p10ns11y/collab-finder/releases">releases</a></kbd>
-- **[devprofile](https://captain.kingsparrow.space/)** — live CV · <kbd><a href="https://captain.kingsparrow.space/qa">/qa</a></kbd> · <kbd><a href="https://captain.kingsparrow.space/essays">/essays</a></kbd> · production /qa is xAI Collections + Grok; local Ollama instead of Grok is slow
+- **[devprofile](https://captain.kingsparrow.space/)** — live CV · <kbd><a href="https://captain.kingsparrow.space/qa">/qa</a></kbd> · <kbd><a href="https://captain.kingsparrow.space/articles">/articles</a></kbd> · production /qa is xAI Collections + Grok; local Ollama instead of Grok is slow
 - **[thepulimaangani](https://github.com/p10ns11y/thepulimaangani)** — Tamil prosody in Rust → WASM; ML frozen before classical rules · [live](https://seiyul-alagi.vercel.app/)
 
 ## Connect
@@ -118,7 +118,7 @@ Three clicks — eight more in [Featured](#featured).
 > ·
 > <kbd><a href="https://x.com/peramanathan">X</a></kbd>
 > ·
-> <kbd><a href="https://x.com/Peramanathan/articles">Articles</a></kbd>
+> <kbd><a href="https://captain.kingsparrow.space/articles">Articles</a></kbd>
 
 ## An inch at a time
 
@@ -182,13 +182,13 @@ One **Predictor** contract (`prompt → text`). <abbr title="Reason + Act + Obse
 
 ### [devprofile](https://github.com/p10ns11y/devprofile) · TS · [Live](https://captain.kingsparrow.space/) · [/qa](https://captain.kingsparrow.space/qa)
 
-**Live `/qa` is xAI Collections + Grok.** Local Ollama instead of Grok is slow. Local `qa-index.json` is the fallback. No Pinecone. [**/essays**](https://captain.kingsparrow.space/essays).
+**Live `/qa` is xAI Collections + Grok.** Local Ollama instead of Grok is slow. Local `qa-index.json` is the fallback. No Pinecone. [**/articles**](https://captain.kingsparrow.space/articles).
 
 </details>
 
 ## Cooking
 
-- **[ensembly](https://github.com/thecuriousts/ensembly)** — **Game of Peram**: HOOTL kernel; you keep **authorization**. life-os is memory; this is the running clone.
+- **[ensembly](https://github.com/thecuriousts/ensembly)** — **Game of Peram**: <abbr title="Human-out-of-the-loop">HOOTL</abbr> kernel; you keep **authorization**. life-os is memory; this is the running clone. · <kbd><a href="https://kingsparrow.space">site</a></kbd> · <kbd><a href="https://captain.kingsparrow.space/articles/hitl-hootl">essay</a></kbd>
 - **[life-os](https://github.com/p10ns11y/life-os)** — notes vault; **process-safety** rule (no live hiring IDs on git). Runtime is ensembly.
 - **[plugins](https://github.com/p10ns11y/plugins)** — Grok marketplace · **mission-map**: PERT-style C estimates + Rust heading diagram; nightly rewrite.
 - **[premflow](https://github.com/thecuriousts/premflow)** — notes, wins, terminal pomodoro on elomaxz. I live in it.
@@ -206,7 +206,7 @@ If you are commercializing OCI, local assets, or finance with government digital
 
 The diagram above is the claim. This is **evidence** and **honest limits**.
 
-When the calendar slips, **ship more than was asked** — not a thin late apology. Diagrams: [**/essays**](https://captain.kingsparrow.space/essays). Small token/$ wins after Grok Build tweaks; quality/perf eval **paused** on quota. Fleet learning is the provider’s job. [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
+When the calendar slips, **ship more than was asked** — not a thin late apology. Diagrams: [**/articles**](https://captain.kingsparrow.space/articles). Small token/$ wins after Grok Build tweaks; quality/perf eval **paused** on quota. Fleet learning is the provider’s job. [intelli-arch-designs](https://github.com/p10ns11y/grok-build/tree/local/intelli-arch-designs).
 
 <details>
 <summary>Thesis & papers · 2015–2017</summary>
@@ -215,7 +215,7 @@ When the calendar slips, **ship more than was asked** — not a thin late apolog
 - **Uppsala DiVA** — [record](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:893525) · [FULLTEXT01](https://www.diva-portal.org/smash/get/diva2:897798/FULLTEXT01.pdf) (often blocked off-campus)
 - **IEEE CloudCom 2015** — [EEaaS paper](https://ieeexplore.ieee.org/document/7396150)
 - **Wiley 2017** — [profiling paper](https://onlinelibrary.wiley.com/doi/10.1155/2017/6562915)
-- **On X** — [long arc post](https://x.com/Peramanathan/status/2035707867844809074) · [/essays write-up](https://captain.kingsparrow.space/essays)
+- **On X** — [long arc post](https://x.com/Peramanathan/status/2035707867844809074) · [/articles write-up](https://captain.kingsparrow.space/articles)
 
 Prefer hosted PDF when DiVA fails.
 
@@ -233,7 +233,14 @@ Uppsala ML course — assignment ran late; extended into real implementation (fi
 
 ## Writing & packages
 
-I write when the stake is real — [long-form on X](https://x.com/Peramanathan/articles), not take-farming. [Rust from First Principles](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf) is a companion, not a tutorial dump.
+I write when the stake is real — [articles](https://captain.kingsparrow.space/articles) and [long-form on X](https://x.com/Peramanathan/articles), not take-farming.
+
+- [From 2016 energy orchestration to 2026 agentic systems](https://captain.kingsparrow.space/articles/eeaas-to-agents)
+- [Pulse instead of dump](https://captain.kingsparrow.space/articles/memory-issue)
+- [Archive is not memory](https://captain.kingsparrow.space/articles/memory-issue/archive-not-memory)
+- [Automate the digital, surface the physical](https://captain.kingsparrow.space/articles/hitl-hootl)
+
+[Rust from First Principles](https://github.com/thecuriousts/shelf-life/blob/writealive/coding/rust_from_first_principles_companion.pdf) is a companion, not a tutorial dump.
 
 npm since **2017**: [`adaptate`](https://www.npmjs.com/package/adaptate) (2024) · [`@p10ns11y/hy`](https://www.npmjs.com/package/@p10ns11y/hy) (2021) · [`react-redux-quest`](https://www.npmjs.com/package/react-redux-quest) (2018) · [`babel-plugin-react-intl-messages-generator`](https://www.npmjs.com/package/babel-plugin-react-intl-messages-generator) (2017). [~p10ns11y](https://www.npmjs.com/~p10ns11y)
 

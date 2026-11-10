@@ -198,7 +198,7 @@ One **Predictor** contract (`prompt → text`). <abbr title="Reason + Act + Obse
 
 - **[v0-live-feed](https://v0-live-feed-app.vercel.app/)** — X “For You” as flow, not chrome clone · [repo](https://github.com/p10ns11y/v0-live-feed-app)
 - **[selfie sign-in](https://v0-selfie-sign-in-process.vercel.app)** — enroll → train → login · [repo](https://github.com/p10ns11y/selfie-sign-in-flow-using-v0-xAI)
-- **[OCI tracker](https://v0-oci-application-guide-and-tracker.vercel.app/)** — personal <abbr title="Overseas Citizen of India">OCI</abbr> application guide covering apostille, online application, documents, and <abbr title="Foreigners Regional Registration Office">FRRO</abbr>. Built on v0.app for personal use · [v0 chat](https://v0.app/peram/chat/oci-application-guide-and-tracker-k1UZXP5A5zv) · [repo](https://github.com/p10ns11y/v0-oci-application-guide-and-tracker) (private)
+- **[OCI tracker](https://v0-oci-application-guide-and-tracker.vercel.app/)** — personal <abbr title="Overseas Citizen of India">OCI</abbr> application guide covering apostille, online application, documents, and <abbr title="Foreigners Regional Registration Office">FRRO</abbr>. Built on v0.app for personal use · [v0 chat](https://v0.app/peram/chat/oci-application-guide-and-tracker-k1UZXP5A5zv)
 
 If you are commercializing OCI, local assets, or finance with government digital services and APIs, I can spare a few hours to contribute and coach. Prefer people in their 20s trying to make one stop that works from anywhere.
 
@@ -267,7 +267,6 @@ Uppsala years: room to wander. Pro years: low time budget, honest stubs — not 
 - **[சிரவை பெரமு](https://peramuwin.blogspot.com/)** — Uppsala · ~2012–2021 · Tamil poetry & language craft · [அகலா விளக்கு](https://peramuwin.blogspot.com/2021/04/blog-post_4.html) · [அவனும் அவளும்](https://peramuwin.blogspot.com/2021/04/blog-post.html) · [அடடே அன்பு மழை](https://peramuwin.blogspot.com/2021/03/blog-post_5.html) · [பணியிடை பனிநடை](https://peramuwin.blogspot.com/2021/02/blog-post.html)
 - **[Prem Sathya’s Tea Stall](https://peramanathan.blogspot.com/)** — Uppsala · 2011–2013 · English essays · [Fourier as warrior](https://peramanathan.blogspot.com/2012/11/a-warrior-to-fourier-series.html) · [Vedic binary mult](https://peramanathan.blogspot.com/2012/03/binary-multiplication-can-we-do-it.html) · [constraint programming](https://peramanathan.blogspot.com/2011/09/problem-from-real-world.html) · [ergonomics / RSI](https://peramanathan.blogspot.com/2011/05/ergonomics-and-repetitive-strain.html)
 - **[On The Way](https://prem-ontheway.blogspot.com/)** — Uppsala · 2011 · Photo stops · [Autumn in Uppsala](https://prem-ontheway.blogspot.com/2011/06/autumn-in-uppsala.html) · [Sunnersta Lake](https://prem-ontheway.blogspot.com/2011/05/sunnersta-lake.html) · [Mannargudi Temple](https://prem-ontheway.blogspot.com/2011/05/mannargudi-temple.html)
-- **[peramsathyam.fly.dev](https://peramsathyam.fly.dev/)** — Pro life · low bandwidth · personal site, craft + Tamil poems
 - **[kingsparrow.space](https://kingsparrow.space/)** — Pro life · low bandwidth · sparse tech notes (domain may be reused later)
 
 </details>

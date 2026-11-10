@@ -188,7 +188,7 @@ One **Predictor** contract (`prompt → text`). <abbr title="Reason + Act + Obse
 
 ## Cooking
 
-- **[ensembly](https://github.com/thecuriousts/ensembly)** — **Game of Peram**: <abbr title="Human-out-of-the-loop">HOOTL</abbr> kernel; you keep **authorization**. life-os is memory; this is the running clone. · <kbd><a href="https://kingsparrow.space">site</a></kbd> · <kbd><a href="https://captain.kingsparrow.space/articles/hitl-hootl">essay</a></kbd>
+- **[ensembly](https://github.com/thecuriousts/ensembly)** — **Game of Peram**: <abbr title="Human-out-of-the-loop">HOOTL</abbr> kernel; you keep **authorization**. life-os is memory; this is the running clone. · <kbd><a href="https://kingsparrow.space">site</a></kbd> · <kbd><a href="https://captain.kingsparrow.space/articles/hitl-hootl">essay</a></kbd> · <kbd><a href="https://github.com/thecuriousts/ensembly/blob/master/docs/scoreboard.md">scoreboard</a></kbd>
 - **[life-os](https://github.com/p10ns11y/life-os)** — notes vault; **process-safety** rule (no live hiring IDs on git). Runtime is ensembly.
 - **[plugins](https://github.com/p10ns11y/plugins)** — Grok marketplace · **mission-map**: PERT-style C estimates + Rust heading diagram; nightly rewrite.
 - **[premflow](https://github.com/thecuriousts/premflow)** — notes, wins, terminal pomodoro on elomaxz. I live in it.
